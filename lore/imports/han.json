@@ -1,0 +1,291 @@
+{
+  "mode": "upsert",
+  "families": [
+    {
+      "slug": "rod-han",
+      "name": "Ród Han",
+      "summary": "Jeden z Wielkich Rodów Imperium, tradycyjnie związany ze służbą wojskową i Gwardią Światła.",
+      "description": "Ród Han należy do Wielkich Rodów Imperium Technokratycznego i od pokoleń pozostaje silnie związany ze służbą wojskową. Szczególne znaczenie dla pozycji rodu ma Gwardia Światła — elitarna formacja wojskowo-reprezentacyjna odpowiedzialna przede wszystkim za ochronę najwyższych warstw imperialnej elity oraz bezpieczeństwo Złotego Miasta. Obecną głową rodu jest Tetenus Han. Ród pozostaje również bardzo blisko związany z dynastią de la Cruz poprzez Barnabę Han, matkę Konstancji i Liliany de la Cruz.",
+      "infobox": {
+        "głowa rodu": "Tetenus Han",
+        "charakter rodu": "wojskowy",
+        "powiązana formacja": "Gwardia Światła",
+        "status": "Wielki Ród Imperium Technokratycznego"
+      },
+      "tags": [
+        "wielki ród",
+        "arystokracja",
+        "Han",
+        "wojsko",
+        "Gwardia Światła"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie pełnego wpisu rodu Han i jego wojskowego charakteru"
+    }
+  ],
+  "characters": [
+    {
+      "slug": "tetenus-han",
+      "firstName": "Tetenus",
+      "lastName": "Han",
+      "title": "Głowa rodu Han",
+      "birthYear": 560,
+      "deathYear": null,
+      "summary": "Czterdziestosiedmioletnia głowa rodu Han, jednego z Wielkich Rodów Imperium.",
+      "description": "Tetenus Han urodził się w roku 560. W roku 607 ma 47 lat i pełni funkcję głowy rodu Han. Jest mężem Heleny Han oraz ojcem Gustava i Julii Han. Jego młodszym rodzeństwem są Barnaba Han i Fiderick Han. Ród Han od pokoleń pozostaje silnie związany ze służbą wojskową oraz Gwardią Światła, co sprawia, że pozycja Tetenusa opiera się zarówno na statusie arystokratycznym, jak i na tradycji wojskowej.",
+      "aliases": [],
+      "tags": [
+        "Han",
+        "Ród Han",
+        "arystokracja",
+        "głowa rodu",
+        "wojsko"
+      ],
+      "infobox": {
+        "ród": "Ród Han",
+        "wiek w roku 607": 47,
+        "rok urodzenia": 560,
+        "pozycja": "głowa rodu Han",
+        "małżonka": "Helena Han",
+        "dzieci": "Gustav Han, Julia Han",
+        "rodzeństwo": "Barnaba Han, Fiderick Han"
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Tetenusa Hana do kanonu rodu Han"
+    },
+    {
+      "slug": "helena-han",
+      "firstName": "Helena",
+      "lastName": "Han",
+      "deathYear": null,
+      "summary": "Żona Tetenusa Hana i matka Gustava oraz Julii Han.",
+      "description": "Helena Han jest żoną Tetenusa Hana oraz matką Gustava i Julii Han. Należy do głównej rodziny rodu Han. Pozostałe szczegóły jej pochodzenia, wieku i działalności nie zostały jeszcze ustalone.",
+      "aliases": [],
+      "tags": [
+        "Han",
+        "Ród Han",
+        "arystokracja"
+      ],
+      "infobox": {
+        "ród": "Ród Han",
+        "małżonek": "Tetenus Han",
+        "dzieci": "Gustav Han, Julia Han"
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Heleny Han do kanonu rodu Han"
+    },
+    {
+      "slug": "gustav-han",
+      "firstName": "Gustav",
+      "lastName": "Han",
+      "birthYear": 583,
+      "deathYear": null,
+      "summary": "Dwudziestoczteroletni syn Tetenusa Hana, przywódca Gwardii Światła i jeden z najlepszych szermierzy Imperium.",
+      "description": "Gustav Han urodził się w roku 583 jako syn Tetenusa i Heleny Han. W roku 607 ma 24 lata i jest starszym o trzy lata bratem Julii Han. Należy do głównej linii jednego z Wielkich Rodów Imperium, którego tradycja od pokoleń pozostaje silnie związana ze służbą wojskową.\n\nGustav pełni funkcję Przywódcy Gwardii Światła, jednej z najbardziej prestiżowych formacji wojskowych Imperium. Stanowisko to czyni go jedną z ważniejszych osób odpowiedzialnych za bezpieczeństwo imperialnych elit oraz Złotego Miasta.\n\nJest powszechnie uważany za jednego z najlepszych szermierzy Imperium. Jego umiejętności nie mają wyłącznie charakteru ceremonialnego. Przeszedł pełne szkolenie bojowe Gwardii Światła i potrafi walczyć zarówno w lekkim wyposażeniu reprezentacyjnym, jak i w ciężkiej zbroi bojowej używanej przez formację.\n\nW rodzie Han stanowi naturalne połączenie tradycji arystokratycznej i wojskowej. Jego pozycja nie wynika wyłącznie z nazwiska — dowodzenie Gwardią Światła wymaga wysokiego poziomu wyszkolenia, dyscypliny oraz zdolności dowódczych.",
+      "aliases": [],
+      "tags": [
+        "Han",
+        "Ród Han",
+        "arystokracja",
+        "Gwardia Światła",
+        "wojsko",
+        "szermierka"
+      ],
+      "infobox": {
+        "ród": "Ród Han",
+        "wiek w roku 607": 24,
+        "rok urodzenia": 583,
+        "rodzice": "Tetenus Han i Helena Han",
+        "siostra": "Julia Han",
+        "stanowisko": "Przywódca Gwardii Światła",
+        "reputacja": "jeden z najlepszych szermierzy Imperium"
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Gustava Hana i jego roli w Gwardii Światła"
+    },
+    {
+      "slug": "julia-han",
+      "firstName": "Julia",
+      "lastName": "Han",
+      "birthYear": 586,
+      "deathYear": null,
+      "summary": "Dwudziestojednoletnia córka Tetenusa i Heleny Han, od dwóch lat żona Juana de la Cruz w małżeństwie politycznym.",
+      "description": "Julia Han urodziła się w roku 586 jako córka Tetenusa i Heleny Han. W roku 607 ma 21 lat i jest młodszą o trzy lata siostrą Gustava Hana. Od dwóch lat pozostaje żoną Juana de la Cruz. Ich małżeństwo zostało zawarte z powodów dynastycznych i politycznych, a nie z romantycznego uczucia.\n\nJuan jest starszy od Julii o 21 lat. Ich małżeństwo najprawdopodobniej nigdy nie zostało skonsumowane. Juan nie próbuje zmuszać Julii do intymności ani wykorzystywać wobec niej swojej pozycji, co Julia rzeczywiście docenia i za co darzy go szacunkiem.",
+      "aliases": [],
+      "tags": [
+        "Han",
+        "Ród Han",
+        "arystokracja",
+        "de la Cruz",
+        "Juan de la Cruz"
+      ],
+      "infobox": {
+        "ród": "Ród Han",
+        "wiek w roku 607": 21,
+        "rok urodzenia": 586,
+        "rodzice": "Tetenus Han i Helena Han",
+        "brat": "Gustav Han",
+        "małżonek": "Juan de la Cruz",
+        "charakter małżeństwa": "małżeństwo polityczne",
+        "różnica wieku z Juanem": "21 lat"
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Julii Han do pełnego kanonu rodu Han"
+    },
+    {
+      "slug": "barnaba-han",
+      "firstName": "Barnaba",
+      "lastName": "Han",
+      "birthYear": 568,
+      "deathYear": null,
+      "summary": "Młodsza siostra Tetenusa Hana, matka Konstancji i Liliany de la Cruz; oficjalnie uznana za zmarłą, w rzeczywistości zaginiona.",
+      "description": "Barnaba Han urodziła się około roku 568. Gdyby żyła w roku 607, miałaby około 39 lat. Jest siostrą Tetenusa Hana i Fidericka Hana oraz matką Konstancji i Liliany de la Cruz.\n\nOficjalnie Barnaba figuruje jako zmarła. Rzeczywisty stan sprawy jest jednak inny: Barnaba zaginęła, a jej los pozostaje nieznany. Nie istnieje potwierdzenie jej śmierci pozwalające uznać ją za faktycznie zmarłą.\n\nJej związek z Ignaciusem de la Cruz sprawił, że ród Han pozostaje bardzo blisko związany z Domem Panującym. Tetenus Han jest wujem Konstancji i Liliany od strony matki.",
+      "aliases": [],
+      "tags": [
+        "Han",
+        "Ród Han",
+        "arystokracja",
+        "de la Cruz",
+        "zaginiona"
+      ],
+      "infobox": {
+        "ród": "Ród Han",
+        "wiek w roku 607": "około 39 lat",
+        "rok urodzenia": "około 568",
+        "rodzeństwo": "Tetenus Han, Fiderick Han",
+        "dzieci": "Konstancja de la Cruz, Liliana de la Cruz",
+        "oficjalny status": "uznana za zmarłą",
+        "rzeczywisty status": "zaginiona"
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Barnaby Han i rozróżnienie statusu oficjalnego od rzeczywistego"
+    },
+    {
+      "slug": "fiderick-han",
+      "firstName": "Fiderick",
+      "lastName": "Han",
+      "birthYear": 570,
+      "deathYear": null,
+      "summary": "Trzydziestosiedmioletni brat Tetenusa i Barnaby Han.",
+      "description": "Fiderick Han urodził się w roku 570. W roku 607 ma 37 lat. Jest młodszym bratem Tetenusa Hana i Barnaby Han oraz członkiem jednego z Wielkich Rodów Imperium. Jego dokładna funkcja, kariera i życie prywatne nie zostały jeszcze ustalone.",
+      "aliases": [],
+      "tags": [
+        "Han",
+        "Ród Han",
+        "arystokracja"
+      ],
+      "infobox": {
+        "ród": "Ród Han",
+        "wiek w roku 607": 37,
+        "rok urodzenia": 570,
+        "rodzeństwo": "Tetenus Han, Barnaba Han"
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Fidericka Hana do kanonu rodu Han"
+    }
+  ],
+  "institutions": [
+    {
+      "slug": "gwardia-swiatla",
+      "title": "Gwardia Światła",
+      "summary": "Elitarna złota gwardia wojskowo-reprezentacyjna chroniąca najwyższe warstwy imperialnej elity i przede wszystkim Złote Miasto.",
+      "content": "## Charakter formacji\n\nGwardia Światła jest elitarną formacją wojskowo-reprezentacyjną Imperium Technokratycznego, tradycyjnie silnie związaną z rodem Han. Jej członkowie są powszechnie rozpoznawani jako Złota Gwardia ze względu na charakterystyczne złote elementy wyposażenia oraz ceremonialne złote płaszcze.\n\n## Zadania\n\nPodstawowym zadaniem Gwardii Światła jest ochrona najwyższych warstw imperialnej elity. Formacja zabezpiecza najważniejsze uroczystości państwowe, obiekty należące do Domu Panującego oraz miejsca przebywania najważniejszych przedstawicieli arystokracji i administracji. Szczególne znaczenie ma jej obecność w Złotym Mieście, które stanowi główny obszar stałej działalności Gwardii.\n\n## Strój reprezentacyjny\n\nW służbie reprezentacyjnej gwardziści występują w charakterystycznych złotych płaszczach oraz eleganckim wyposażeniu ceremonialnym. Ich obecność podczas oficjalnych wydarzeń jest jednym z najbardziej rozpoznawalnych symboli bezpieczeństwa i majestatu imperialnych instytucji.\n\n## Wyposażenie bojowe\n\nCeremonialny wygląd nie oznacza, że Gwardia Światła pełni wyłącznie funkcję reprezentacyjną. W sytuacji bojowej jej żołnierze wykorzystują masywne złote zbroje płytowe, znacznie cięższe od wyposażenia noszonego podczas zwykłej służby. Zbroje zapewniają bardzo wysoki poziom ochrony i są przeznaczone do działań w najbardziej niebezpiecznych warunkach.\n\nCharakterystycznym elementem bojowego wyposażenia Gwardii są również plecakowe systemy odrzutowe, umożliwiające gwałtowne przemieszczanie się, pokonywanie różnic wysokości oraz szybkie zajmowanie pozycji niedostępnych dla zwykłej piechoty. Połączenie ciężkiego pancerza, mobilności powietrznej i wyszkolenia w walce wręcz pozwala Gwardii błyskawicznie przejść od funkcji ochronnej do bezpośredniego działania bojowego.\n\n## Dowództwo\n\nObecnym Przywódcą Gwardii Światła jest Gustav Han, 24-letni syn Tetenusa Hana, uznawany za jednego z najlepszych szermierzy Imperium.",
+      "infobox": {
+        "typ": "elitarna formacja wojskowo-reprezentacyjna",
+        "potoczna nazwa": "Złota Gwardia",
+        "główne zadanie": "ochrona elit i Złotego Miasta",
+        "strój reprezentacyjny": "złote płaszcze",
+        "strój bojowy": "masywne złote zbroje płytowe",
+        "wyposażenie specjalne": "plecakowe systemy odrzutowe",
+        "przywódca": "Gustav Han",
+        "powiązany ród": "Ród Han"
+      },
+      "aliases": [
+        "Złota Gwardia"
+      ],
+      "tags": [
+        "wojsko",
+        "Gwardia Światła",
+        "Złote Miasto",
+        "Han",
+        "elita"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": true,
+      "changeNote": "Dodanie Gwardii Światła jako instytucji wojskowo-reprezentacyjnej"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "tetenus-han",
+      "target": "helena-han",
+      "type": "spouse"
+    },
+    {
+      "source": "gustav-han",
+      "target": "tetenus-han",
+      "type": "father"
+    },
+    {
+      "source": "gustav-han",
+      "target": "helena-han",
+      "type": "mother"
+    },
+    {
+      "source": "julia-han",
+      "target": "tetenus-han",
+      "type": "father"
+    },
+    {
+      "source": "julia-han",
+      "target": "helena-han",
+      "type": "mother"
+    },
+    {
+      "source": "gustav-han",
+      "target": "julia-han",
+      "type": "sibling"
+    },
+    {
+      "source": "tetenus-han",
+      "target": "barnaba-han",
+      "type": "sibling"
+    },
+    {
+      "source": "tetenus-han",
+      "target": "fiderick-han",
+      "type": "sibling"
+    },
+    {
+      "source": "barnaba-han",
+      "target": "fiderick-han",
+      "type": "sibling"
+    },
+    {
+      "source": "barnaba-han",
+      "target": "ignacius-de-la-cruz",
+      "type": "spouse"
+    },
+    {
+      "source": "konstancja-de-la-cruz",
+      "target": "barnaba-han",
+      "type": "mother"
+    },
+    {
+      "source": "liliana-de-la-cruz",
+      "target": "barnaba-han",
+      "type": "mother"
+    },
+    {
+      "source": "julia-han",
+      "target": "juan-de-la-cruz",
+      "type": "spouse"
+    },
+    {
+      "source": "gustav-han",
+      "target": "gwardia-swiatla",
+      "type": "other",
+      "description": "Gustav Han jest Przywódcą Gwardii Światła."
+    }
+  ]
+}
