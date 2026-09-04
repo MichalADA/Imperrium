@@ -3,6 +3,13 @@ import type { CharacterChoice, CharacterRelationshipsPayload, Dashboard, Entry, 
 const API_BASE = "/api";
 const auth = (token: string): Record<string, string> => token ? { Authorization: `Bearer ${token}` } : {};
 
+type EntryListResponse = {
+  items: EntryCard[];
+  total: number;
+  page: number;
+  pages: number;
+};
+
 async function request<T>(path: string, options?: RequestInit): Promise<T> {
   const response = await fetch(`${API_BASE}${path}`, options);
   if (!response.ok) {
@@ -14,10 +21,28 @@ async function request<T>(path: string, options?: RequestInit): Promise<T> {
   return response.json() as Promise<T>;
 }
 
+async function listEntries(type?: EntryType): Promise<{ items: EntryCard[]; total: number }> {
+  const limit = 100;
+  const typeQuery = type ? `&type=${encodeURIComponent(type)}` : "";
+  const first = await request<EntryListResponse>(`/entries?page=1&limit=${limit}${typeQuery}`);
+
+  if (first.pages <= 1) return { items: first.items, total: first.total };
+
+  const remaining = await Promise.all(
+    Array.from({ length: first.pages - 1 }, (_, index) =>
+      request<EntryListResponse>(`/entries?page=${index + 2}&limit=${limit}${typeQuery}`),
+    ),
+  );
+
+  return {
+    items: [first, ...remaining].flatMap((page) => page.items),
+    total: first.total,
+  };
+}
+
 export const api = {
   dashboard: () => request<Dashboard>("/dashboard"),
-  list: (type?: EntryType) =>
-    request<{ items: EntryCard[]; total: number }>(`/entries${type ? `?type=${type}` : ""}`),
+  list: listEntries,
   get: (slug: string, token = "") => request<Entry>(`/entries/${encodeURIComponent(slug)}`, {
     headers: auth(token),
   }),
