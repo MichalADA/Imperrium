@@ -1,0 +1,166 @@
+{
+  "mode": "upsert",
+  "families": [
+    {
+      "slug": "montes",
+      "name": "Ród Montes",
+      "summary": "Jeden z wielkich rodów arystokratycznych Imperium, związany z prowincją Montes i tradycją prawa oraz sądownictwa.",
+      "description": "Ród Montes jest jednym z wielkich rodów arystokratycznych Imperium Technokratycznego. Od stuleci pozostaje związany z prowincją Montes, jej surowym, górskim charakterem oraz z imperialnym systemem prawa i sądownictwa. Charakterystyczną cechą fizyczną członków rodu są naturalnie śnieżnobiałe włosy oraz raczej niski wzrost. Symbolem rodu są otwarta księga i strzeliste, spiczaste góry. Księga oznacza prawo, wiedzę i sądownictwo, natomiast góry reprezentują ojczystą prowincję rodu. Obecną głową rodu jest Nataniel Montes. Jego małżeństwo z Solveig Montes, z domu voniz Hagrald, zaczęło się od skandalu: Solveig pochodziła z niższej arystokracji wasalnej Montesów, a ich najstarszy syn Alaric był dzieckiem nieplanowanym. Z czasem jednak ich związek przerodził się w wyjątkowo udane małżeństwo, co na najwyższych szczeblach imperialnej arystokracji nie jest regułą.",
+      "infobox": {
+        "głowa rodu": "Nataniel Montes",
+        "prowincja": "Montes",
+        "symbol": "otwarta księga i strzeliste, spiczaste góry",
+        "cechy rodu": "śnieżnobiałe włosy, raczej niski wzrost"
+      },
+      "tags": ["ród", "Montes", "arystokracja", "prawo", "sądownictwo"],
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie kanonu rodu Montes"
+    }
+  ],
+  "characters": [
+    {
+      "slug": "nataniel-montes",
+      "firstName": "Nataniel",
+      "lastName": "Montes",
+      "birthYear": 565,
+      "deathYear": null,
+      "summary": "Głowa rodu Montes.",
+      "description": "Nataniel Montes, urodzony w roku 565, jest obecną głową rodu Montes. Ma około 174 cm wzrostu i charakterystyczne dla rodu śnieżnobiałe włosy. Jego małżeństwo z Solveig, z domu voniz Hagrald, rozpoczęło się od głośnego skandalu dynastycznego, lecz po latach stało się jednym z najbardziej udanych małżeństw wśród najwyższej arystokracji Imperium.",
+      "infobox": {
+        "wiek w roku 607": 42,
+        "wzrost": "174 cm",
+        "ród": "Montes",
+        "małżonka": "Solveig Montes"
+      },
+      "tags": ["Montes", "arystokracja"],
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "solveig-montes",
+      "firstName": "Solveig",
+      "lastName": "Montes",
+      "birthYear": 569,
+      "deathYear": null,
+      "summary": "Żona Nataniela Montes, z domu voniz Hagrald.",
+      "description": "Solveig Montes urodziła się w roku 569 jako Solveig voniz Hagrald. Pochodziła z niższej arystokracji wasalnej podlegającej rodowi Montes. Gdy miała 16 lat, po jednym z arystokratycznych bankietów zaszła w ciążę z dwudziestoletnim wówczas Natanielem Montes. Ich syn Alaric był nieplanowanym dzieckiem, a sytuacja wywołała wielki skandal, ponieważ Solveig należała do niższej warstwy wasalnej określanej tytułem voniz, a nie do wyższej arystokracji von. Małżeństwo zostało zawarte początkowo przede wszystkim z powodu odpowiedzialności i presji dynastycznej, lecz z czasem przerodziło się w bardzo szczęśliwy i trwały związek.",
+      "infobox": {
+        "wiek w roku 607": 38,
+        "nazwisko rodowe": "voniz Hagrald",
+        "ród": "Montes"
+      },
+      "aliases": ["Solveig voniz Hagrald"],
+      "tags": ["Montes", "Hagrald", "arystokracja"],
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "alaric-montes",
+      "firstName": "Alaric",
+      "lastName": "Montes",
+      "birthYear": 585,
+      "deathYear": null,
+      "summary": "Najstarszy syn Nataniela i Solveig Montes oraz dziedzic rodu.",
+      "description": "Alaric Montes urodził się w roku 585. Jest najstarszym synem Nataniela i Solveig Montes oraz dziedzicem rodu. Jego narodziny były następstwem nieplanowanej ciąży Solveig i stały się początkiem wielkiego skandalu dynastycznego wokół przyszłej głowy rodu Montes. Ma charakterystyczne śnieżnobiałe włosy rodu.",
+      "infobox": {
+        "wiek w roku 607": 22,
+        "rola": "dziedzic rodu Montes"
+      },
+      "tags": ["Montes", "dziedzic"],
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "sigrid-montes",
+      "firstName": "Sigrid",
+      "lastName": "Montes",
+      "birthYear": 587,
+      "deathYear": null,
+      "summary": "Prokurator Generalny prowincji Montes, pracuje również w Sądzie Imperialnym.",
+      "description": "Sigrid Montes urodziła się w roku 587. Ma około 165 cm wzrostu i śnieżnobiałe włosy charakterystyczne dla rodu Montes. Mimo młodego wieku pełni funkcję Prokuratora Generalnego prowincji Montes, a równocześnie pracuje w Sądzie Imperialnym, co czyni ją jedną z najwyżej postawionych młodych prawniczek w Imperium.",
+      "infobox": {
+        "wiek w roku 607": 20,
+        "wzrost": "165 cm",
+        "stanowisko": "Prokurator Generalny prowincji Montes",
+        "dodatkowa funkcja": "pracownik Sądu Imperialnego"
+      },
+      "tags": ["Montes", "prawo", "Sąd Imperialny", "prokuratura"],
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "ingrid-montes",
+      "firstName": "Ingrid",
+      "lastName": "Montes",
+      "birthYear": 591,
+      "deathYear": null,
+      "summary": "Najmłodsza z nastoletnich córek Nataniela Montes, wyróżniająca się niezwykle jasną cerą i śnieżnobiałymi włosami.",
+      "description": "Ingrid Montes urodziła się w roku 591. Ma około 157 cm wzrostu i wyróżnia się nawet na tle własnego rodu wyjątkowo jasną, niemal porcelanowobiałą cerą oraz naturalnie śnieżnobiałymi włosami. Jej wygląd bywa opisywany jako najbardziej wyrazisty przykład charakterystycznych cech fizycznych rodu Montes.",
+      "infobox": {
+        "wiek w roku 607": 16,
+        "wzrost": "157 cm",
+        "cechy": "niezwykle jasna cera, śnieżnobiałe włosy"
+      },
+      "tags": ["Montes"],
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "astrid-montes",
+      "firstName": "Astrid",
+      "lastName": "Montes",
+      "birthYear": 604,
+      "deathYear": null,
+      "summary": "Najmłodsza córka Nataniela i Solveig Montes.",
+      "description": "Astrid Montes urodziła się w roku 604. Jest najmłodszym dzieckiem Nataniela i Solveig Montes. Odziedziczyła charakterystyczne dla rodu śnieżnobiałe włosy.",
+      "infobox": {
+        "wiek w roku 607": 3
+      },
+      "tags": ["Montes"],
+      "status": "PUBLISHED"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "nataniel-montes",
+      "target": "solveig-montes",
+      "type": "spouse",
+      "description": "Małżeństwo rozpoczęte po skandalu związanym z narodzinami Alarica; obecnie wyjątkowo udany związek."
+    },
+    {
+      "source": "alaric-montes",
+      "target": "nataniel-montes",
+      "type": "father"
+    },
+    {
+      "source": "alaric-montes",
+      "target": "solveig-montes",
+      "type": "mother"
+    },
+    {
+      "source": "sigrid-montes",
+      "target": "nataniel-montes",
+      "type": "father"
+    },
+    {
+      "source": "sigrid-montes",
+      "target": "solveig-montes",
+      "type": "mother"
+    },
+    {
+      "source": "ingrid-montes",
+      "target": "nataniel-montes",
+      "type": "father"
+    },
+    {
+      "source": "ingrid-montes",
+      "target": "solveig-montes",
+      "type": "mother"
+    },
+    {
+      "source": "astrid-montes",
+      "target": "nataniel-montes",
+      "type": "father"
+    },
+    {
+      "source": "astrid-montes",
+      "target": "solveig-montes",
+      "type": "mother"
+    }
+  ]
+}
