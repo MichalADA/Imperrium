@@ -1,0 +1,39 @@
+{
+  "mode": "upsert",
+  "characters": [
+    {
+      "slug": "ingrid-montes",
+      "firstName": "Ingrid",
+      "lastName": "Montes",
+      "birthYear": 591,
+      "deathYear": null,
+      "summary": "Szesnastoletnia córka Nataniela i Solveig Montes, uczennica elitarnej Szkoły im. Izabeli de la Cruz w Złotym Mieście. Inteligentna, zadziorna, ciekawa świata i władająca ośmioma językami.",
+      "description": "Ingrid Montes urodziła się w roku 591 jako trzecie dziecko Nataniela i Solveig Montes. W roku 607 ma 16 lat. Jest drugą córką obecnej głowy rodu Montes i należy do najmłodszego pokolenia jednego z Wielkich Rodów Imperium Technokratycznego. Ma około 155 cm wzrostu, niezwykle jasną, niemal porcelanowobiałą cerę oraz naturalnie śnieżnobiałe włosy charakterystyczne dla biologicznych członków rodu Montes. Jest powszechnie uważana za wyjątkowo piękną młodą kobietę i wyróżnia się nawet na tle własnej rodziny.\n\nObecnie Ingrid kształci się w elitarnej Szkole im. Izabeli de la Cruz w Cita De la Luce. Szkoła znajduje się w Złotym Mieście, prestiżowej dzielnicy związanej z najwyższymi warstwami imperialnej elity. Podczas nauki Ingrid mieszka w należącej do rodu Montes rezydencji znajdującej się w Złotym Mieście.\n\nIngrid jest bardzo inteligentna i wyjątkowo ciekawa świata. Ta ciekawość znajduje odzwierciedlenie również w jej zdolnościach językowych. W wieku 16 lat posługuje się ośmioma językami. Nie osiąga jeszcze poziomu starszego rodzeństwa, ponieważ Sigrid zna jedenaście języków, a Alaric dziesięć, jednak jak na swój wiek Ingrid również wyróżnia się pod tym względem bardzo mocno. Jej znajomość języków nie wynika wyłącznie z obowiązkowej edukacji arystokratycznej. Ingrid autentycznie interesują inne prowincje, kultury i ludzie, dlatego nauka języków dobrze odpowiada jej naturalnej ciekawości świata.\n\nW przeciwieństwie do Sigrid, która traktuje języki przede wszystkim jako narzędzie pracy prawniczej i dostępu do dokumentów, Ingrid podchodzi do nich znacznie bardziej spontanicznie. Interesuje ją możliwość bezpośredniej rozmowy z ludźmi, rozumienia ich sposobu myślenia oraz poznawania świata poza zamkniętym środowiskiem wielkiej arystokracji. Jej zdolności językowe są więc jednym z przejawów zarówno inteligencji, jak i bardzo silnej ciekawości świata.\n\nIngrid ma wyraźnie zadziorny charakter. Jest uparta, pewna własnego zdania, bardzo szybka w odpowiedziach i niełatwo ją onieśmielić. Nie lubi, gdy inni próbują narzucać jej sposób myślenia wyłącznie ze względu na wiek, stanowisko albo pozycję społeczną. Jednocześnie nie jest osobą bezmyślnie buntowniczą. Potrafi szybko analizować sytuację i bardzo dobrze rozumie otaczające ją relacje społeczne.\n\nJedną z jej najmocniejszych cech jest lojalność wobec rodziny. Szczególnie bliska pozostaje jej relacja ze starszym bratem Alarikiem. Ingrid potrafi bardzo ostro reagować, kiedy osoba spoza rodziny obraża Alarica, wyśmiewa jego wygląd, szczupłą sylwetkę albo problemy z włosami. Sama może się z nim droczyć, ale zupełnie inaczej traktuje rodzinne przekomarzanie niż atak kogoś obcego.\n\nJej relacja ze starszą siostrą Sigrid jest bardziej kontrastowa. Ingrid kocha siostrę i pozostaje wobec niej lojalna, ale uważa ją za zdecydowanie zbyt poważną. Nie zawsze rozumie, dlaczego Sigrid podporządkowuje tak dużą część życia pracy, prawu i obowiązkom. Sigrid z kolei uważa Ingrid za bardziej impulsywną i zadziorną. Mimo różnic obie pozostają ze sobą blisko związane.\n\nIngrid wzbudza ogromne zainteresowanie wśród młodych mężczyzn należących do imperialnej arystokracji i elit. Liczbą adoratorów może dorównywać Sophie Delan. Przed jednym z ostatnich wielkich bali otrzymała około stu zaproszeń od młodych arystokratów zainteresowanych wspólnym pojawieniem się na wydarzeniu. Nie przyjęła żadnego z nich.\n\nObecnie Ingrid nie jest zakochana w żadnym chłopaku. Ogromna liczba adoratorów nie robi na niej szczególnego wrażenia i nie czuje potrzeby wyboru partnera tylko dlatego, że otoczenie tego oczekuje. Zdaje sobie również sprawę, że część zainteresowania wynika nie tylko z jej urody, ale także z nazwiska Montes i pozycji jej ojca.\n\nNa obecnym etapie życia znacznie bardziej interesuje ją edukacja, poznawanie świata i rozwijanie własnych zainteresowań niż wejście w poważny związek. Choć nie ma jeszcze równie jasno wyznaczonej drogi jak Alaric czy Sigrid, jej inteligencja, znajomość ośmiu języków, ciekawość świata i silny charakter sprawiają, że zdecydowanie nie pozostaje w cieniu starszego rodzeństwa.",
+      "infobox": {
+        "wiek w roku 607": 16,
+        "rok urodzenia": 591,
+        "wzrost": "155 cm",
+        "ród": "Montes",
+        "rodzice": "Nataniel Montes i Solveig Montes",
+        "miejsce nauki": "Szkoła im. Izabeli de la Cruz",
+        "miasto": "Cita De la Luce",
+        "dzielnica": "Złote Miasto",
+        "miejsce zamieszkania": "rezydencja rodu Montes w Złotym Mieście",
+        "języki": "8 języków",
+        "charakter": "inteligentna, zadziorna, ciekawa świata, uparta, lojalna wobec rodziny",
+        "status związku": "nie jest obecnie zakochana ani związana",
+        "życie towarzyskie": "bardzo liczni adoratorzy; przed jednym z ostatnich bali otrzymała około 100 zaproszeń"
+      },
+      "tags": [
+        "Montes",
+        "arystokracja",
+        "poliglota",
+        "Cita De la Luce",
+        "Złote Miasto",
+        "Szkoła im. Izabeli de la Cruz"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie informacji o znajomości 8 języków przez Ingrid Montes i rozwinięcie jej zdolności językowych"
+    }
+  ]
+}
