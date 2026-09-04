@@ -107,6 +107,14 @@ function CharacterRelations({ entry }: { entry: Entry }) {
   );
 }
 
+function normalizeHouseTag(value: string): string {
+  return value
+    .toLocaleLowerCase("pl")
+    .replace(/^ród\s+/i, "")
+    .replace(/^rod\s+/i, "")
+    .trim();
+}
+
 function HouseMembers({ entry }: { entry: Entry }) {
   const { data, loading, error } = useAsync(() => api.list("CHARACTER"), [entry.slug]);
 
@@ -121,42 +129,47 @@ function HouseMembers({ entry }: { entry: Entry }) {
 
   if (error || !data) return null;
 
-  const houseName = entry.title.replace(/^Ród\s+/i, "").trim().toLocaleLowerCase("pl");
+  const houseName = normalizeHouseTag(entry.title);
   const headName = Object.entries(entry.infobox).find(([key]) => {
     const normalized = key.toLocaleLowerCase("pl").replace(/[_-]+/g, " ").trim();
     return normalized === "głowa rodu" || normalized === "glowa rodu";
   })?.[1];
 
-  const members = data.items.filter((character) => {
-    const values = [
-      character.title,
-      ...character.aliases,
-      ...character.tags,
-      ...Object.values(character.infobox).map((value) => String(value ?? "")),
-    ]
-      .join(" ")
-      .toLocaleLowerCase("pl");
-
-    return values.includes(houseName);
-  });
+  const members = data.items
+    .filter((character) => character.tags.some((tag) => normalizeHouseTag(tag) === houseName))
+    .sort((a, b) => {
+      const aHead = String(headName ?? "").toLocaleLowerCase("pl").trim() === a.title.toLocaleLowerCase("pl").trim();
+      const bHead = String(headName ?? "").toLocaleLowerCase("pl").trim() === b.title.toLocaleLowerCase("pl").trim();
+      if (aHead !== bHead) return aHead ? -1 : 1;
+      if (a.birthYear !== null && b.birthYear !== null) return a.birthYear - b.birthYear;
+      if (a.birthYear !== null) return -1;
+      if (b.birthYear !== null) return 1;
+      return a.title.localeCompare(b.title, "pl");
+    });
 
   if (!members.length) return null;
 
   return (
     <section className="mt-10" aria-labelledby="house-members-heading">
       <div className="mb-4 flex items-center gap-2"><UsersRound className="h-4 w-4 text-gold" /><h2 id="house-members-heading" className="font-serif text-2xl">Przedstawiciele rodu</h2></div>
-      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
         {members.map((member) => {
           const isHead = String(headName ?? "").toLocaleLowerCase("pl").trim() === member.title.toLocaleLowerCase("pl").trim();
+          const portrait = mediaUrl(member.imagePath);
 
           return (
-            <Link key={member.slug} to={`/postacie/${member.slug}`} className="surface-muted block p-4 transition hover:border-gold/35">
-              <div className="flex items-start justify-between gap-3">
-                <div>
-                  <h3 className="font-serif text-lg text-cream">{member.title}</h3>
-                  {member.summary && <p className="mt-1 text-sm leading-5 text-white/42">{member.summary}</p>}
+            <Link key={member.slug} to={`/postacie/${member.slug}`} className="surface-muted group overflow-hidden transition hover:-translate-y-0.5 hover:border-gold/35">
+              {portrait && (
+                <div className="aspect-[4/3] overflow-hidden border-b border-white/[0.07] bg-black/20">
+                  <img src={portrait} alt={`Portret ${member.title}`} className="h-full w-full object-cover object-top transition duration-300 group-hover:scale-[1.02]" />
                 </div>
-                {isHead && <span className="badge shrink-0">głowa rodu</span>}
+              )}
+              <div className="p-4">
+                <div className="flex items-start justify-between gap-3">
+                  <h3 className="font-serif text-lg text-cream">{member.title}</h3>
+                  {isHead && <span className="badge shrink-0">głowa rodu</span>}
+                </div>
+                {member.summary && <p className="mt-2 text-sm leading-5 text-white/42">{member.summary}</p>}
               </div>
             </Link>
           );
