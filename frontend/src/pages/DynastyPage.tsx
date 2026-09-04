@@ -31,7 +31,7 @@ function getParents(entry: Entry, dynastySlugs: Set<string>): EntryCard[] {
   return entry.outgoing
     .filter((relation) => relation.type === "father" || relation.type === "mother" || relation.type === "parent")
     .map((relation) => relation.target)
-    .filter((target): target is EntryCard => Boolean(target) && dynastySlugs.has(target.slug));
+    .filter((target): target is EntryCard => target !== undefined && dynastySlugs.has(target.slug));
 }
 
 function isTwin(entry: Entry): boolean {
