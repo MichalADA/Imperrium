@@ -1,0 +1,201 @@
+{
+  "mode": "upsert",
+  "languages": [
+    {
+      "slug": "imperial-latin",
+      "title": "Imperial Latin",
+      "summary": "Archaiczny, melodyjny język elit i domowy język dynastii de la Cruz.",
+      "content": "## Charakter języka\n\nImperial Latin jest konserwatywnym, ceremonialnym językiem najwyższych warstw Imperium. Pełni funkcję języka domowego dynastii de la Cruz, języka części arystokracji, dawnej administracji, prawa wysokiego szczebla, ceremoniału oraz prestiżowej edukacji. Jest obowiązkowy na Uniwersytecie Michalusa i pozostaje w użyciu wśród Spezzi.\n\nNajbardziej niezwykłą cechą Imperial Latin jest jego wyjątkowo silna ciągłość. Współczesny wykształcony użytkownik potrafi porozumieć się z człowiekiem sprzed około sześciuset lat bez konieczności uczenia się odrębnego języka historycznego. Zmieniały się akcenty, część słownictwa i styl, lecz rdzeń gramatyki i wymowy został przez elity świadomie zakonserwowany.\n\n## Brzmienie\n\nJęzyk jest długi, płynny i ceremonialny. Preferuje otwarte samogłoski, wyraźne końcówki i regularny rytm. Samogłoski nie są silnie redukowane, dlatego nawet długa wypowiedź zachowuje klarowność. `r` jest najczęściej lekko drżące, `v` wymawia się wyraźnie, a `c` przed `e` i `i` pozostaje twardsze niż we współczesnym Latin.\n\n## Gramatyka i styl\n\nImperial Latin zachowuje rozbudowaną fleksję, formalne formy adresatywne i kilka rejestrów grzecznościowych. W tekstach prawnych i dynastycznych bardzo ważny jest szyk zdania, ponieważ zmiana kolejności może podkreślać rangę osoby, instytucji lub czynności.\n\n## Przykładowa wymowa\n\n- `Aurea lex servat Imperium.` — „Złote prawo strzeże Imperium.”  \n  IPA: `/ˈau̯.re.a leks ˈser.vat imˈpe.ri.um/`  \n  Przybliżenie po polsku: **AU-re-a leks SER-wat im-PE-ri-um**.\n- `Domus Crucis memoriam tenet.` — „Dom de la Cruz zachowuje pamięć.”  \n  IPA: `/ˈdo.mus ˈkruː.t͡ʃis meˈmo.ri.am ˈte.net/`  \n  Przybliżenie: **DO-mus KRU-czis me-MO-ri-am TE-net**.\n- `Scientia supra timorem.` — „Wiedza ponad strachem.”  \n  IPA: `/skiˈen.ti.a ˈsu.pra tiˈmo.rem/`  \n  Przybliżenie: **ski-EN-ti-a SU-pra ti-MO-rem**.\n\nWymowa arystokratyczna jest zwykle wolniejsza i bardziej staranna niż wymowa akademicka lub wojskowa.",
+      "infobox": {
+        "status": "Urzędowy",
+        "charakter": "Archaiczny, melodyjny, ceremonialny",
+        "użytkownicy": "Elity, dynastia de la Cruz, Spezzi",
+        "uczelnia": "Obowiązkowy na Uniwersytecie Michalusa",
+        "ciągłość": "Około 600 lat wysokiej wzajemnej zrozumiałości"
+      },
+      "aliases": [
+        "Imperialny Latin"
+      ],
+      "tags": [
+        "język urzędowy",
+        "elity",
+        "dynastia",
+        "de la Cruz",
+        "Uniwersytet Michalusa"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": true,
+      "changeNote": "Rozbudowanie kanonu językowego i dodanie przykładów wymowy"
+    },
+    {
+      "slug": "latin",
+      "title": "Latin",
+      "summary": "Najważniejsza lingua franca Imperium, z około 450 mln rodzimych użytkowników.",
+      "content": "## Rola w Imperium\n\nLatin jest najważniejszym językiem wspólnym Imperium i podstawowym środkiem komunikacji między mieszkańcami różnych prowincji. Około 450 milionów ludzi używa go jako języka rodzimego, a znacznie większa liczba zna go jako drugi język.\n\nBez znajomości Latin bardzo trudno funkcjonować poza własną prowincją. Język dominuje w handlu, podróżach, administracji międzyprowincjonalnej, mediach, komunikacji cyfrowej i na platformie Xen.\n\n## Brzmienie\n\nW porównaniu z Imperial Latin współczesny Latin jest szybszy, krótszy i bardziej potoczny. Końcówki bywają upraszczane, nieakcentowane samogłoski mogą się lekko redukować, a rytm zdania jest bardziej naturalny dla codziennej rozmowy. Nadal zachowuje jednak melodyjność i dużą liczbę wyraźnych samogłosek.\n\n## Gramatyka\n\nLatin ma znacznie prostszą fleksję niż Imperial Latin. W języku codziennym większą rolę odgrywa szyk zdania i przyimki. Dzięki temu jest relatywnie łatwy do opanowania na poziomie komunikacyjnym i dobrze nadaje się do roli lingua franca.\n\n## Przykładowa wymowa\n\n- `Mi parla Latin ogni dia.` — „Mówię po Latin każdego dnia.”  \n  IPA: `/mi ˈpar.la laˈtin ˈoɲ.dʒi ˈdi.a/`  \n  Przybliżenie: **mi PAR-la la-TIN ON-dżi DI-a**.\n- `Vena con me al centro.` — „Chodź ze mną do centrum.”  \n  IPA: `/ˈve.na kon me al ˈt͡ʃen.tro/`  \n  Przybliżenie: **WE-na kon me al CZEN-tro**.\n- `Xen esta aperta sempre.` — „Xen jest zawsze otwarty.”  \n  IPA: `/ksen ˈes.ta aˈper.ta ˈsem.pre/`  \n  Przybliżenie: **ksen ES-ta a-PER-ta SEM-pre**.\n\nRegionalne akcenty są powszechne i zwykle nie utrudniają komunikacji.",
+      "infobox": {
+        "status": "Urzędowy",
+        "rola": "Główna lingua franca Imperium",
+        "native speakerzy": "około 450 mln",
+        "platforma": "Dominuje w Xen",
+        "charakter": "Szybki, codzienny, melodyjny"
+      },
+      "aliases": [
+        "Wspólny Latin"
+      ],
+      "tags": [
+        "język urzędowy",
+        "lingua franca",
+        "Xen"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": true,
+      "changeNote": "Rozbudowanie kanonu językowego i dodanie przykładów wymowy"
+    },
+    {
+      "slug": "hanski",
+      "title": "Hański",
+      "summary": "Język pochodzący z prowincji Han, używany także w Profan.",
+      "content": "## Pochodzenie i zasięg\n\nHański jest rodzimym językiem prowincji Han i jednym z głównych języków używanych w Profan. W Profan wykształciła się wyraźna odmiana profańska, różniąca się akcentem, tempem mowy i częścią słownictwa.\n\n## Charakter\n\nHański ma klimat niemiecko-szwajcarsko-austriacki z wyraźnymi wpływami włoskimi. Jego spółgłoski potrafią być twarde i zwarte, ale końcówki wielu słów pozostają otwarte i melodyjne. Dzięki temu język może brzmieć jednocześnie surowo i elegancko.\n\nW standardzie hańskim często występują zbitki `sch`, `ch`, `gr`, `st` oraz samogłoski zaokrąglone `ü` i `ö`. Wpływy południowe są widoczne w miękkich końcówkach `-a`, `-o`, `-i` i w bardziej śpiewnym rytmie zdań.\n\n## Odmiana profańska\n\nProfański hański jest szybszy, ma łagodniejsze `ch`, częściej skraca końcówki i posiada liczne lokalne zapożyczenia. Mieszkaniec Han rozumie go bez większego problemu, ale po kilku zdaniach zwykle od razu rozpoznaje pochodzenie rozmówcy.\n\n## Przykładowa wymowa\n\n- `Grüven tag, mi frai.` — „Dobrego dnia, przyjacielu.”  \n  IPA: `/ˈɡryː.vən taːɡ mi fraɪ̯/`  \n  Przybliżenie: **GRÜ-wen taak mi fraj**.\n- `Der valdo ist grün e largo.` — „Dolina jest zielona i szeroka.”  \n  IPA: `/der ˈval.do ɪst ɡryːn e ˈlar.ɡo/`  \n  Przybliżenie: **der WAL-do ist grüün e LAR-go**.\n- Odmiana profańska: `Grüve, mir gehn z'Profan.` — „Cześć, idziemy do Profan.”  \n  IPA: `/ˈɡryː.və mir ɡeːn ts proˈfan/`  \n  Przybliżenie: **GRÜ-we mir geen c pro-FAN**.\n\nHański standardowy kojarzy się z Han, natomiast odmiana profańska ma wyraźnie bardziej miejski i mieszany charakter.",
+      "infobox": {
+        "status": "Urzędowy",
+        "pochodzenie": "Han",
+        "użycie": "Han i Profan",
+        "odmiana": "Profańska",
+        "inspiracje": "Niemiecki, szwajcarski, austriacki i włoski"
+      },
+      "aliases": [
+        "Język Han",
+        "Hański standardowy"
+      ],
+      "tags": [
+        "język urzędowy",
+        "Han",
+        "Profan"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": false,
+      "changeNote": "Rozbudowanie kanonu językowego i dodanie przykładów wymowy"
+    },
+    {
+      "slug": "delan",
+      "title": "Delan",
+      "summary": "Melodyjny język Delanium i rodu Delan, inspirowany portugalskim, flamandzkim i włoskim.",
+      "content": "## Pochodzenie\n\nDelan jest historycznym językiem prowincji Delanium i jednym z najważniejszych elementów tożsamości rodu Delan. Pozostaje blisko związany z Latin, lecz przez stulecia wykształcił własną fonetykę, idiomy i słownictwo.\n\nWspółczesny Delan łączy inspiracje portugalskie, flamandzkie i włoskie. Nie jest jednak mieszaniną tych języków, lecz samodzielnym językiem o własnej historii.\n\n## Brzmienie\n\nDelan jest bardzo melodyjny. Charakterystyczne są nosowe samogłoski, miękkie przejścia między sylabami, dźwięczne `v`, lekko gardłowe `g` i `r` oraz wyraźne włoskopodobne zakończenia samogłoskowe.\n\nW szybkiej mowie niektóre nieakcentowane samogłoski ulegają redukcji. Akcent zwykle pada na przedostatnią sylabę, ale stare słownictwo arystokratyczne zachowuje wiele wyjątków.\n\n## Słownictwo\n\nDelan ma liczne false friends z Latin. Słowo wyglądające znajomo dla użytkownika Latin może mieć w Delan zupełnie inne znaczenie, co jest częstym źródłem żartów i nieporozumień między prowincjami.\n\n## Przykładowa wymowa\n\n- `Bonvéra, meu cora sta sereno.` — „Dobry wieczór, moje serce jest spokojne.”  \n  IPA: `/bõˈvɛ.ra meu̯ ˈko.ra sta seˈre.no/`  \n  Przybliżenie: **bon-WE-ra meu KO-ra sta se-RE-no**.\n- `Vlaendero vento porta la maré.` — „Północny wiatr niesie przypływ.”  \n  IPA: `/ˈvlɛn.de.ro ˈvẽn.to ˈpor.ta la maˈrɛ/`  \n  Przybliżenie: **WLEN-de-ro WEN-to POR-ta la ma-RE**.\n- `Casa Delan non dorme mai.` — „Dom Delan nigdy nie śpi.”  \n  IPA: `/ˈka.za deˈlan non ˈdor.me mai̯/`  \n  Przybliżenie: **KA-za de-LAN non DOR-me maj**.\n\nMowa najwyższej arystokracji Delan jest staranniejsza i mniej redukuje samogłoski niż język uliczny Delanium.",
+      "infobox": {
+        "status": "Urzędowy",
+        "prowincja": "Delanium",
+        "związek": "Ród Delan",
+        "inspiracje": "Portugalski, flamandzki i włoski",
+        "cecha": "Liczne false friends z Latin"
+      },
+      "aliases": [
+        "Język Delan"
+      ],
+      "tags": [
+        "język urzędowy",
+        "Delanium",
+        "Delan",
+        "false friends"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": false,
+      "changeNote": "Rozbudowanie kanonu językowego i dodanie przykładów wymowy"
+    },
+    {
+      "slug": "montes-jezyk",
+      "title": "Montes — język",
+      "summary": "Język prowincji Montes, inspirowany szwedzkim i językami uralskimi.",
+      "content": "## Charakter\n\nJęzyk Montes powstał w jednej z najzimniejszych i najbardziej górzystych części Imperium. Jego brzmienie jest chłodne, czyste i rytmiczne. Inspiracje szwedzkie łączą się z cechami języków uralskich, tworząc system bardzo odmienny od Latin.\n\n## Fonetyka\n\nW Montes długość samogłoski może zmieniać znaczenie słowa. Język posiada harmonię samogłoskową przód–tył, przez co sufiksy zmieniają swoją postać zależnie od samogłosek w rdzeniu.\n\n`r` jest krótkie i wyraźne, `v` często zbliża się do polskiego `w`, a długie `ā`, `ē`, `ī`, `ō`, `ū` są rzeczywiście wymawiane około dwa razy dłużej.\n\n## Gramatyka\n\nMontes jest językiem aglutynacyjnym. Zamiast wielu osobnych przyimków używa długich ciągów sufiksów. Szczególnie bogaty jest system przypadków przestrzennych opisujących ruch w górę, w dół, do wnętrza doliny, z wnętrza doliny, w stronę szczytu czy wzdłuż zbocza.\n\nIzolacja górskich społeczności stworzyła liczne dialekty dolinne. W języku istnieje również wiele zaadaptowanych zapożyczeń z Latin, zwłaszcza w prawie, administracji i nauce.\n\n## Słownictwo\n\nMontes ma bardzo rozbudowane słownictwo dotyczące śniegu, lodu, wiatru, widoczności, nachylenia zbocza, jakości szlaku i rodzaju mrozu.\n\n## Przykładowa wymowa\n\n- `LĀKI · TIETO · VĀRUT` — motto rodu Montes: „Prawo · Wiedza · Góry”.  \n  IPA: `/ˈlaː.ki ˈtie̯.to ˈʋaː.rut/`  \n  Przybliżenie: **LAA-ki TIE-to WAA-rut**.\n- `Sēna vārulle kulen.` — „Idę w stronę wysokich gór.”  \n  IPA: `/ˈseː.na ˈʋaː.rulːe ˈku.len/`  \n  Przybliżenie: **SEE-na WAA-rul-le KU-len**.\n- `Järi kylmässä talven.` — „Jezioro leży w zimowym mrozie.”  \n  IPA: `/ˈjæ.ri ˈkyl.mæsːæ ˈtal.ʋen/`  \n  Przybliżenie: **JE-ri KÜL-mes-sa TAL-wen**.\n\nDla użytkownika Latin język Montes brzmi bardzo regularnie, ale trudność sprawiają długie słowa tworzone przez sufiksy.",
+      "infobox": {
+        "status": "Urzędowy",
+        "prowincja": "Montes",
+        "inspiracje": "Szwedzki i języki uralskie",
+        "typ": "Aglutynacyjny",
+        "cechy": "Harmonia samogłoskowa, długość samogłosek, bogate przypadki przestrzenne",
+        "motto rodu": "LĀKI · TIETO · VĀRUT"
+      },
+      "aliases": [
+        "Język Montes"
+      ],
+      "tags": [
+        "język urzędowy",
+        "Montes",
+        "język aglutynacyjny"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": false,
+      "changeNote": "Rozbudowanie kanonu językowego i dodanie przykładów wymowy"
+    },
+    {
+      "slug": "berrani-jezyk",
+      "title": "Berrani — język",
+      "summary": "Język prowincji Berrani, inspirowany francuskim i angielskim.",
+      "content": "## Charakter\n\nBerrani jest językiem prowincji Berrani. Łączy płynność i nosowe samogłoski kojarzące się z francuskim z bardziej zwartą, analityczną składnią i częścią spółgłosek charakterystycznych dla angielskiego.\n\nW dużych miastach język brzmi szybko i nowocześnie, natomiast wyższe warstwy społeczne zachowują bardziej staranną wymowę samogłosek i tradycyjne formy grzecznościowe.\n\n## Brzmienie\n\n`r` może być gardłowe lub lekko drżące zależnie od regionu. Końcowe spółgłoski często są słyszalne, ale niektóre historyczne końcówki pozostają nieme. Samogłoski nosowe są częste, choć mniej rozbudowane niż w językach, które stanowiły inspirację.\n\n## Gramatyka\n\nBerrani jest stosunkowo analityczny. Szyk zdania jest ważny, czasowniki mają mniej form niż w Imperial Latin, a wiele znaczeń wyraża się za pomocą czasowników pomocniczych i krótkich partykuł.\n\n## Przykładowa wymowa\n\n- `Bon soiren, we marche à Berrane.` — „Dobry wieczór, idziemy do Berrani.”  \n  IPA: `/bɔ̃ ˈswa.rən wi marʃ a beˈran/`  \n  Przybliżenie: **bon SWA-ren łi marsz a be-RAN**.\n- `La cité stays claire la nuit.` — „Miasto pozostaje jasne nocą.”  \n  IPA: `/la siˈte steɪ̯z klɛr la nɥi/`  \n  Przybliżenie: **la si-TE stejz kler la nüi**.\n- `Je know ton nom.` — „Znam twoje imię.”  \n  IPA: `/ʒə noʊ̯ tɔ̃ nɔm/`  \n  Przybliżenie: **że nou ton nom**.\n\nWspółczesny Berrani łatwo rozpoznać po charakterystycznym przechodzeniu między miękkimi samogłoskami a twardszymi anglopodobnymi zakończeniami.",
+      "infobox": {
+        "status": "Urzędowy",
+        "prowincja": "Berrani",
+        "inspiracje": "Francuski i angielski",
+        "charakter": "Płynny, analityczny, miejski"
+      },
+      "aliases": [
+        "Język Berrani"
+      ],
+      "tags": [
+        "język urzędowy",
+        "Berrani"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": false,
+      "changeNote": "Rozbudowanie kanonu językowego i dodanie przykładów wymowy"
+    },
+    {
+      "slug": "montreli-jezyk",
+      "title": "Montreli — język",
+      "summary": "Język prowincji Montreli, inspirowany holenderskim i włoskim.",
+      "content": "## Charakter\n\nMontreli jest językiem nadmorskiej prowincji Montreli. Jego brzmienie łączy twardsze, gardłowe elementy kojarzone z holenderskim z otwartymi, melodyjnymi samogłoskami i rytmem inspirowanym włoskim.\n\nPrzez silne tradycje portowe język posiada ogromne słownictwo dotyczące żeglugi, handlu, portów, kierunków wiatru, prądów morskich i logistyki.\n\n## Brzmienie\n\n`g` i `ch` mogą być wymawiane gardłowo, szczególnie na północy prowincji. `r` jest zwykle drżące, a końcowe `-a`, `-o`, `-e` pozostają wyraźne. W rezultacie zdanie potrafi zaczynać się dość twardo, a kończyć bardzo melodyjnie.\n\n## Gramatyka\n\nMontreli ma prostszy system przypadków niż Montes i preferuje stały szyk zdania. Rodzajniki oraz liczba mnoga wykazują kilka regionalnych wariantów. Mowa portowa jest szybsza i zawiera liczne skróty.\n\n## Przykładowa wymowa\n\n- `Ghe sera, marino va thuys.` — „Dobry wieczór, marynarz wraca do domu.”  \n  IPA: `/ɣe ˈse.ra maˈri.no va tœy̯s/`  \n  Przybliżenie: **che SE-ra ma-RI-no wa töjs**.\n- `Porto leeft con vento.` — „Port żyje wraz z wiatrem.”  \n  IPA: `/ˈpor.to leːft kon ˈvɛn.to/`  \n  Przybliżenie: **POR-to leeft kon WEN-to**.\n- `La nave komt domani.` — „Statek przypływa jutro.”  \n  IPA: `/la ˈna.ve kɔmt doˈma.ni/`  \n  Przybliżenie: **la NA-we komt do-MA-ni**.\n\nDla obcych charakterystyczny jest kontrast między gardłowym początkiem wielu słów a miękkimi, otwartymi końcówkami.",
+      "infobox": {
+        "status": "Urzędowy",
+        "prowincja": "Montreli",
+        "inspiracje": "Holenderski i włoski",
+        "charakter": "Nadmorski, twardo-melodyjny",
+        "słownictwo": "Bardzo bogate słownictwo morskie i portowe"
+      },
+      "aliases": [
+        "Język Montreli"
+      ],
+      "tags": [
+        "język urzędowy",
+        "Montreli",
+        "język morski"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": false,
+      "changeNote": "Rozbudowanie kanonu językowego i dodanie przykładów wymowy"
+    },
+    {
+      "slug": "vir-jezyk",
+      "title": "Vir — język",
+      "summary": "Bardzo melodyjny, tonalny język trudny dla osób z zewnątrz.",
+      "content": "## Charakter\n\nVir jest językiem tonalnym i fonetycznie przypomina kantoński. Jego brzmienie jest bardzo melodyjne, szybkie i zwarte. Znaczenie sylaby zależy nie tylko od spółgłosek i samogłosek, lecz także od tonu, z jakim zostanie wypowiedziana.\n\nZamknięty charakter społeczności Vir dodatkowo utrudnia naukę osobom z zewnątrz. Naturalna wymowa jest silnym markerem pochodzenia, a obcy nawet po wielu latach często zachowują rozpoznawalny akcent.\n\n## System tonalny\n\nStandardowy Vir rozróżnia sześć podstawowych tonów. W zapisie edukacyjnym oznacza się je cyframi:\n\n- `1` — wysoki równy,\n- `2` — rosnący,\n- `3` — średni równy,\n- `4` — niski opadający,\n- `5` — niski rosnący,\n- `6` — niski równy.\n\nZmiana tonu może całkowicie zmienić znaczenie wyrazu.\n\n## Fonetyka\n\nSylaby są zwykle krótkie. Częste są końcówki `-k`, `-t`, `-p`, `-ng` i `-m`. Język unika bardzo długich zbitek spółgłoskowych, ale wymaga precyzyjnej kontroli tonu i długości samogłoski.\n\n## Przykładowa wymowa\n\n- `Vaa1 seng4 niu2.` — „Miasto budzi się.”  \n  IPA orientacyjne: `/vaː˥ seŋ˨˩ niu̯˧˥/`  \n  Przybliżenie: **waa¹ seng⁴ niu²** — ważniejsze od polskiego zapisu są tony.\n- `Hoi2 lam6 gei1.` — „Morze jest spokojne.”  \n  IPA: `/hɔi̯˧˥ lam˨ kei̯˥/`  \n  Przybliżenie: **hoj² lam⁶ gej¹**.\n- `Ma1`, `ma3`, `ma6` są trzema różnymi słowami mimo identycznych głosek:  \n  `ma1` — „światło”, `ma3` — „brama”, `ma6` — „noc”.\n\n## Trudność dla obcych\n\nNajwiększym problemem nie jest sama gramatyka, lecz automatyczne rozpoznawanie tonów w szybkiej rozmowie. Błąd tonalny może sprawić, że poprawnie zbudowane zdanie zabrzmi absurdalnie lub zmieni sens.",
+      "infobox": {
+        "status": "Urzędowy",
+        "prowincja": "Vir",
+        "typ": "Tonalny",
+        "podobieństwo": "Fonetycznie podobny do kantońskiego",
+        "liczba tonów": "6",
+        "trudność": "Bardzo wysoka dla obcych"
+      },
+      "aliases": [
+        "Język Vir"
+      ],
+      "tags": [
+        "język urzędowy",
+        "Vir",
+        "język tonalny"
+      ],
+      "status": "PUBLISHED",
+      "isFeatured": false,
+      "changeNote": "Rozbudowanie kanonu językowego i dodanie przykładów wymowy"
+    }
+  ]
+}
