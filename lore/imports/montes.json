@@ -2,17 +2,23 @@
   "mode": "upsert",
   "families": [
     {
-      "slug": "montes",
+      "slug": "rod-montes",
       "name": "Ród Montes",
       "summary": "Jeden z wielkich rodów arystokratycznych Imperium, związany z prowincją Montes i tradycją prawa oraz sądownictwa.",
-      "description": "Ród Montes jest jednym z wielkich rodów arystokratycznych Imperium Technokratycznego. Od stuleci pozostaje związany z prowincją Montes, jej surowym, górskim charakterem oraz z imperialnym systemem prawa i sądownictwa. Charakterystyczną cechą fizyczną członków rodu są naturalnie śnieżnobiałe włosy oraz raczej niski wzrost. Symbolem rodu są otwarta księga i strzeliste, spiczaste góry. Księga oznacza prawo, wiedzę i sądownictwo, natomiast góry reprezentują ojczystą prowincję rodu. Obecną głową rodu jest Nataniel Montes. Jego małżeństwo z Solveig Montes, z domu voniz Hagrald, zaczęło się od skandalu: Solveig pochodziła z niższej arystokracji wasalnej Montesów, a ich najstarszy syn Alaric był dzieckiem nieplanowanym. Z czasem jednak ich związek przerodził się w wyjątkowo udane małżeństwo, co na najwyższych szczeblach imperialnej arystokracji nie jest regułą.",
+      "description": "Ród Montes jest jednym z wielkich rodów arystokratycznych Imperium Technokratycznego. Od stuleci pozostaje związany z prowincją Montes, jej surowym, górskim charakterem oraz z imperialnym systemem prawa i sądownictwa. Charakterystyczną cechą fizyczną biologicznych członków rodu są naturalnie śnieżnobiałe włosy oraz raczej niski wzrost. Symbolem rodu są otwarta księga i strzeliste, spiczaste góry. Księga oznacza prawo, wiedzę i sądownictwo, natomiast góry reprezentują ojczystą prowincję rodu. Obecną głową rodu jest Nataniel Montes. Jego małżeństwo z Solveig Montes, z domu voniz Hagrald, zaczęło się od skandalu: Solveig pochodziła z niższej arystokracji wasalnej Montesów, a ich najstarszy syn Alaric był dzieckiem nieplanowanym. Z czasem jednak ich związek przerodził się w wyjątkowo udane małżeństwo, co na najwyższych szczeblach imperialnej arystokracji nie jest regułą.",
       "infobox": {
         "głowa rodu": "Nataniel Montes",
         "prowincja": "Montes",
         "symbol": "otwarta księga i strzeliste, spiczaste góry",
         "cechy rodu": "śnieżnobiałe włosy, raczej niski wzrost"
       },
-      "tags": ["ród", "Montes", "arystokracja", "prawo", "sądownictwo"],
+      "tags": [
+        "ród",
+        "Montes",
+        "arystokracja",
+        "prawo",
+        "sądownictwo"
+      ],
       "status": "PUBLISHED",
       "changeNote": "Dodanie kanonu rodu Montes"
     }
@@ -32,7 +38,10 @@
         "ród": "Montes",
         "małżonka": "Solveig Montes"
       },
-      "tags": ["Montes", "arystokracja"],
+      "tags": [
+        "Montes",
+        "arystokracja"
+      ],
       "status": "PUBLISHED"
     },
     {
@@ -48,8 +57,14 @@
         "nazwisko rodowe": "voniz Hagrald",
         "ród": "Montes"
       },
-      "aliases": ["Solveig voniz Hagrald"],
-      "tags": ["Montes", "Hagrald", "arystokracja"],
+      "aliases": [
+        "Solveig voniz Hagrald"
+      ],
+      "tags": [
+        "Montes",
+        "Hagrald",
+        "arystokracja"
+      ],
       "status": "PUBLISHED"
     },
     {
@@ -64,7 +79,10 @@
         "wiek w roku 607": 22,
         "rola": "dziedzic rodu Montes"
       },
-      "tags": ["Montes", "dziedzic"],
+      "tags": [
+        "Montes",
+        "dziedzic"
+      ],
       "status": "PUBLISHED"
     },
     {
@@ -81,7 +99,12 @@
         "stanowisko": "Prokurator Generalny prowincji Montes",
         "dodatkowa funkcja": "pracownik Sądu Imperialnego"
       },
-      "tags": ["Montes", "prawo", "Sąd Imperialny", "prokuratura"],
+      "tags": [
+        "Montes",
+        "prawo",
+        "Sąd Imperialny",
+        "prokuratura"
+      ],
       "status": "PUBLISHED"
     },
     {
@@ -90,14 +113,16 @@
       "lastName": "Montes",
       "birthYear": 591,
       "deathYear": null,
-      "summary": "Najmłodsza z nastoletnich córek Nataniela Montes, wyróżniająca się niezwykle jasną cerą i śnieżnobiałymi włosami.",
-      "description": "Ingrid Montes urodziła się w roku 591. Ma około 157 cm wzrostu i wyróżnia się nawet na tle własnego rodu wyjątkowo jasną, niemal porcelanowobiałą cerą oraz naturalnie śnieżnobiałymi włosami. Jej wygląd bywa opisywany jako najbardziej wyrazisty przykład charakterystycznych cech fizycznych rodu Montes.",
+      "summary": "Druga córka Nataniela i Solveig Montes, wyróżniająca się niezwykle jasną cerą i śnieżnobiałymi włosami.",
+      "description": "Ingrid Montes urodziła się w roku 591. Ma około 155 cm wzrostu i wyróżnia się nawet na tle własnego rodu wyjątkowo jasną, niemal porcelanowobiałą cerą oraz naturalnie śnieżnobiałymi włosami. Jej wygląd bywa opisywany jako jeden z najbardziej wyrazistych przykładów charakterystycznych cech fizycznych rodu Montes.",
       "infobox": {
         "wiek w roku 607": 16,
-        "wzrost": "157 cm",
+        "wzrost": "155 cm",
         "cechy": "niezwykle jasna cera, śnieżnobiałe włosy"
       },
-      "tags": ["Montes"],
+      "tags": [
+        "Montes"
+      ],
       "status": "PUBLISHED"
     },
     {
@@ -107,11 +132,13 @@
       "birthYear": 604,
       "deathYear": null,
       "summary": "Najmłodsza córka Nataniela i Solveig Montes.",
-      "description": "Astrid Montes urodziła się w roku 604. Jest najmłodszym dzieckiem Nataniela i Solveig Montes. Odziedziczyła charakterystyczne dla rodu śnieżnobiałe włosy.",
+      "description": "Astrid Montes urodziła się w roku 604. Jest najmłodszym dzieckiem Nataniela i Solveig Montes. Od urodzenia ma naturalnie śnieżnobiałe włosy charakterystyczne dla biologicznych członków rodu Montes.",
       "infobox": {
         "wiek w roku 607": 3
       },
-      "tags": ["Montes"],
+      "tags": [
+        "Montes"
+      ],
       "status": "PUBLISHED"
     }
   ],
@@ -122,6 +149,7 @@
       "type": "spouse",
       "description": "Małżeństwo rozpoczęte po skandalu związanym z narodzinami Alarica; obecnie wyjątkowo udany związek."
     },
+
     {
       "source": "alaric-montes",
       "target": "nataniel-montes",
@@ -132,6 +160,7 @@
       "target": "solveig-montes",
       "type": "mother"
     },
+
     {
       "source": "sigrid-montes",
       "target": "nataniel-montes",
@@ -142,6 +171,7 @@
       "target": "solveig-montes",
       "type": "mother"
     },
+
     {
       "source": "ingrid-montes",
       "target": "nataniel-montes",
@@ -152,6 +182,7 @@
       "target": "solveig-montes",
       "type": "mother"
     },
+
     {
       "source": "astrid-montes",
       "target": "nataniel-montes",
@@ -161,6 +192,37 @@
       "source": "astrid-montes",
       "target": "solveig-montes",
       "type": "mother"
+    },
+
+    {
+      "source": "alaric-montes",
+      "target": "sigrid-montes",
+      "type": "sibling"
+    },
+    {
+      "source": "alaric-montes",
+      "target": "ingrid-montes",
+      "type": "sibling"
+    },
+    {
+      "source": "alaric-montes",
+      "target": "astrid-montes",
+      "type": "sibling"
+    },
+    {
+      "source": "sigrid-montes",
+      "target": "ingrid-montes",
+      "type": "sibling"
+    },
+    {
+      "source": "sigrid-montes",
+      "target": "astrid-montes",
+      "type": "sibling"
+    },
+    {
+      "source": "ingrid-montes",
+      "target": "astrid-montes",
+      "type": "sibling"
     }
   ]
 }

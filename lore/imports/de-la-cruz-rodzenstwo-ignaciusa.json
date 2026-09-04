@@ -1,0 +1,110 @@
+{
+  "mode": "upsert",
+  "characters": [
+    {
+      "slug": "teodora-de-la-cruz",
+      "firstName": "Teodora",
+      "lastName": "de la Cruz",
+      "birthYear": 563,
+      "deathYear": null,
+      "summary": "Czterdziestoczteroletnia Księżna Imperium Technokratycznego, córka Teodozjusza II de la Cruz, znana powszechnie jako Dobra Księżna ze względu na działalność dobroczynną i pomoc potrzebującym.",
+      "description": "Teodora de la Cruz urodziła się w roku 563 jako jedno z dzieci Teodozjusza II de la Cruz. Jest młodsza od swojego brata Ignaciusa o cztery lata i w roku 607 ma 44 lata. Nosi oficjalny tytuł Księżnej Imperium Technokratycznego.\n\nW społeczeństwie Teodora znana jest przede wszystkim pod przydomkiem „Dobra Księżna”. Określenie to nie wynika jedynie z oficjalnego wizerunku dynastii, lecz przede wszystkim z jej rzeczywistej działalności dobroczynnej oraz sposobu, w jaki odnosi się do ludzi znajdujących się poza środowiskiem najwyższej arystokracji.\n\nTeodora świadomie pozostaje na uboczu życia dworskiego. Rzadko pojawia się na dworze i nie wykazuje większego zainteresowania nieustanną rywalizacją o wpływy, prestiżem Wielkich Rodów ani arystokratycznymi intrygami. Nie oznacza to zerwania więzi z rodziną de la Cruz. Teodora po prostu zdecydowanie bardziej ceni spokojne życie rodzinne i działalność społeczną niż obecność w centrum imperialnej polityki.\n\nNa co dzień mieszka w Lacjum wraz ze swoim mężem Ferranem de la Abzuri oraz ich czworgiem dzieci. Małżeństwo Teodory i Ferrana stanowi ważną część jej prywatnego życia. Oboje wspólnie angażują się również w działalność dobroczynną.\n\nJednym z najbardziej znanych przedsięwzięć Teodory i Ferrana było założenie sierocińca w prowincji Viverna. Decyzja ta zwróciła szczególną uwagę ze względu na wrogi charakter relacji Viverna z politycznym środowiskiem, z którego wywodzi się Teodora. Dla niej pochodzenie dzieci oraz polityczna postawa ich prowincji nie stanowiły jednak powodu do odmowy pomocy.\n\nTeodora uważa, że dzieci nie ponoszą odpowiedzialności za konflikty dorosłych ani za polityczne stanowisko miejsca, w którym przyszły na świat. Działalność sierocińca w Viverna stała się jednym z najważniejszych symboli jej podejścia do obowiązków wynikających z uprzywilejowanej pozycji.\n\nTo właśnie działalność dobroczynna, a szczególnie przedsięwzięcia prowadzone wspólnie z Ferranem, zbudowały jej społeczną reputację Dobrej Księżnej. Jest postrzegana jako przedstawicielka dynastii de la Cruz, która potrafi świadomie oddzielić konflikty polityczne od odpowiedzialności wobec ludzi znajdujących się w trudnej sytuacji.\n\nTeodora nie jest przy tym osobą naiwną ani nieświadomą realiów imperialnej polityki. Dorastała w samym centrum dynastii de la Cruz i doskonale rozumie mechanizmy dworu. Jej dystans wobec życia dworskiego jest świadomym wyborem, a nie rezultatem braku wiedzy, ambicji czy możliwości uczestniczenia w polityce.\n\nNajważniejszym miejscem jej życia pozostaje Lacjum, gdzie wraz z Ferranem wychowuje czworo dzieci. Rodzina, działalność dobroczynna i życie z dala od ciągłych dworskich konfliktów są dla niej znacznie ważniejsze niż możliwość zwiększania osobistych wpływów na dworze.",
+      "infobox": {
+        "wiek w roku 607": 44,
+        "rok urodzenia": 563,
+        "dynastia": "de la Cruz",
+        "ojciec": "Teodozjusz II de la Cruz",
+        "rodzeństwo": "Octavian de la Cruz, Ignacius de la Cruz, Juan de la Cruz",
+        "tytuł": "Księżna Imperium Technokratycznego",
+        "przydomek": "Dobra Księżna",
+        "małżonek": "Ferran de la Abzuri",
+        "dzieci": "czworo dzieci",
+        "miejsce zamieszkania": "Lacjum",
+        "działalność": "działalność dobroczynna; wraz z Ferranem de la Abzuri założyła sierociniec w prowincji Viverna",
+        "stosunek do dworu": "rzadko pojawia się na dworze i świadomie pozostaje na uboczu życia dworskiego"
+      },
+      "tags": [
+        "de la Cruz",
+        "dynastia imperialna",
+        "Księżna Imperium Technokratycznego",
+        "Dobra Księżna",
+        "Lacjum",
+        "Viverna",
+        "działalność dobroczynna"
+      ],
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "juan-de-la-cruz",
+      "firstName": "Juan",
+      "lastName": "de la Cruz",
+      "birthYear": 565,
+      "deathYear": null,
+      "summary": "Czterdziestodwuletni Najwyższy Książę Imperium Technokratycznego i najmłodszy syn Teodozjusza II de la Cruz, zmagający się z alkoholizmem i pozostający od dwóch lat w politycznym małżeństwie z Julią Han.",
+      "description": "Juan de la Cruz urodził się w roku 565 jako najmłodsze dziecko Teodozjusza II de la Cruz. Jest dwa lata młodszy od Teodory i w roku 607 ma 42 lata. Nosi oficjalny tytuł Najwyższego Księcia Imperium Technokratycznego.\n\nWysoki i niezwykle prestiżowy tytuł Juana mocno kontrastuje z jego prywatnym życiem. Juan wyraźnie różni się od tradycyjnego ideału członka imperialnej dynastii. Jest otyłym mężczyzną zmagającym się z poważnym problemem alkoholowym. Nie próbuje również budować wokół siebie wizerunku idealnego, dostojnego księcia.\n\nZnany jest z ogromnych i bardzo wystawnych przyjęć organizowanych w swojej rezydencji w Octavii. Imprezy Juana mają opinię jednych z najbardziej intensywnych wydarzeń towarzyskich wśród części imperialnych elit. Alkohol pojawia się na nich w ogromnych ilościach, przyjęcia potrafią trwać bardzo długo, a sam Juan często pije zdecydowanie więcej, niż powinien.\n\nZa jego destrukcyjnym stylem życia znajduje się jednak trudna historia osobista. Juan jest homoseksualny. W młodości jego orientacja nie została zaakceptowana przez matkę oraz część związanego z rodziną środowiska religijnego. Matka Juana oraz kapłani podejmowali wobec niego przymusowe próby zmiany jego orientacji. Doświadczenia te pozostawiły w nim głęboki ślad i wpłynęły na jego późniejszy stosunek do dworu, religijnej presji oraz oczekiwań dynastycznych.\n\nProblemy Juana nie czynią go jednak człowiekiem złym ani świadomie okrutnym. Znaczna część jego destrukcyjnych zachowań skierowana jest przede wszystkim przeciwko niemu samemu. Nadużywa alkoholu, prowadzi chaotyczny tryb życia i regularnie ucieka w kolejne przyjęcia, ale nie czerpie przyjemności z krzywdzenia innych ludzi.\n\nOd dwóch lat Juan pozostaje w politycznym małżeństwie z Julią Han, córką Tetenusa Hana. Julia jest młodsza od Juana o 21 lat. W roku 607 Juan ma 42 lata, natomiast Julia 21. Ich małżeństwo zostało zawarte z powodów dynastycznych i politycznych, a nie wskutek wzajemnego romantycznego uczucia.\n\nNajprawdopodobniej przez dwa lata małżeństwo Juana i Julii nigdy nie zostało skonsumowane. Juan doskonale zdaje sobie sprawę zarówno z własnej orientacji, jak i z ogromnej różnicy wieku między nimi oraz dyskomfortu, jaki cała sytuacja może powodować u jego młodej żony. Nie próbuje zmuszać Julii do intymności ani egzekwować od niej małżeńskich obowiązków wbrew jej woli.\n\nJulia docenia Juana właśnie za to, że nie wykorzystuje wobec niej swojej pozycji. Ich relacja nie jest romantycznym małżeństwem, ale istnieje między nimi rzeczywisty poziom wzajemnego szacunku. Juan rozumie szczególnie dobrze, jak krzywdzące może być naruszanie czyjejś autonomii w sprawach intymnych, ponieważ sam w młodości doświadczył prób narzucania mu przez innych tego, kim powinien być.\n\nJuan pozostawia Julii znaczną swobodę i nie oczekuje od niej odgrywania prywatnie roli zakochanej żony. Julia z kolei, mimo świadomości jego licznych problemów, potrafi docenić fakt, że znalazła się w politycznym małżeństwie z człowiekiem, który nie zamierza jej do niczego zmuszać.\n\nW efekcie Juan jest postacią pełną sprzeczności. Formalnie jest Najwyższym Księciem Imperium Technokratycznego i należy do ścisłego centrum dynastii de la Cruz. Prywatnie jest otyłym alkoholikiem organizującym słynne imprezy w swojej rezydencji w Octavii i człowiekiem mocno poranionym przez wydarzenia młodości. Jednocześnie zachował zdolność do empatii i świadomie odmawia wyrządzania Julii krzywdy podobnej do tej, której sam doświadczył, kiedy inni próbowali decydować o jego życiu intymnym.",
+      "infobox": {
+        "wiek w roku 607": 42,
+        "rok urodzenia": 565,
+        "dynastia": "de la Cruz",
+        "ojciec": "Teodozjusz II de la Cruz",
+        "rodzeństwo": "Octavian de la Cruz, Ignacius de la Cruz, Teodora de la Cruz",
+        "tytuł": "Najwyższy Książę Imperium Technokratycznego",
+        "miejsce zamieszkania": "rezydencja w Octavii",
+        "orientacja": "homoseksualna",
+        "małżonka": "Julia Han",
+        "różnica wieku z Julią": "21 lat",
+        "charakter małżeństwa": "małżeństwo polityczne zawarte dwa lata wcześniej",
+        "status małżeństwa": "najprawdopodobniej nigdy nieskonsumowane",
+        "problemy": "alkoholizm",
+        "życie towarzyskie": "organizuje bardzo duże i wystawne imprezy w swojej rezydencji w Octavii"
+      },
+      "tags": [
+        "de la Cruz",
+        "dynastia imperialna",
+        "Najwyższy Książę Imperium Technokratycznego",
+        "Octavia",
+        "Julia Han"
+      ],
+      "status": "PUBLISHED"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "teodora-de-la-cruz",
+      "target": "teodozjusz-ii",
+      "type": "father"
+    },
+    {
+      "source": "juan-de-la-cruz",
+      "target": "teodozjusz-ii",
+      "type": "father"
+    },
+
+    {
+      "source": "teodora-de-la-cruz",
+      "target": "octavian-syn-teodozjusza-ii",
+      "type": "sibling"
+    },
+    {
+      "source": "teodora-de-la-cruz",
+      "target": "ignacius-de-la-cruz",
+      "type": "sibling"
+    },
+    {
+      "source": "teodora-de-la-cruz",
+      "target": "juan-de-la-cruz",
+      "type": "sibling"
+    },
+
+    {
+      "source": "juan-de-la-cruz",
+      "target": "octavian-syn-teodozjusza-ii",
+      "type": "sibling"
+    },
+    {
+      "source": "juan-de-la-cruz",
+      "target": "ignacius-de-la-cruz",
+      "type": "sibling"
+    }
+  ]
+}

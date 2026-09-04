@@ -1,0 +1,225 @@
+{
+  "mode": "upsert",
+
+  "families": [
+    {
+      "slug": "rod-montreli",
+      "name": "Ród Montreli",
+      "summary": "Jeden z Wielkich Rodów Imperium Technokratycznego, związany z nadmorską prowincją Montreli, jej portami, handlem morskim i tradycjami marynarskimi.",
+      "description": "Ród Montreli należy do Wielkich Rodów Imperium Technokratycznego i od pokoleń pozostaje silnie związany z nadmorską prowincją Montreli. Jego znaczenie historyczne, gospodarcze i polityczne wyrasta przede wszystkim z morza: portów, handlu, żeglugi oraz bliskich związków z Marynarką Imperium Technokratycznego.\n\nMontreli formalnie należą do najwyższej warstwy imperialnej arystokracji, jednak w nieformalnej hierarchii Wielkich Rodów bywają postrzegani jako mniej potężni finansowo i politycznie niż najbogatsze rody, takie jak Han czy Delan. Nie oznacza to, że są rodem ubogim lub mało znaczącym. Dysponują ogromnym majątkiem, wpływami i wielowiekową pozycją, lecz część starej arystokracji uważa ich za jeden ze słabszych spośród Wielkich Rodów.\n\nMontreli sami podchodzą do tej opinii ze znacznym dystansem. W kulturze rodziny większą wagę przywiązuje się do rzeczywistej odpowiedzialności za prowincję i ludzi niż do ciągłego demonstrowania wyższości społecznej. Kolejne pokolenia głów rodu utrzymywały bliski związek z nadmorskimi miastami, portami, kupcami i marynarzami prowincji.\n\nSzczególnie wyraźnie widoczne jest to za czasów Averiana Montreli, obecnej głowy rodu. Averian regularnie pojawia się w portowym mieście swojej prowincji, rozmawia z mieszkańcami, pracownikami portu, kupcami, kapitanami oraz marynarzami i nie uważa takich kontaktów za coś poniżej swojej pozycji. Zachowuje pełną świadomość swojego statusu arystokratycznego, ale nie wykorzystuje go do tworzenia niepotrzebnego dystansu.\n\nRód Montreli wyróżnia się również atmosferą panującą wewnątrz rodziny. Rezydencja Montrelich nie przypomina chłodnego, silnie ceremonialnego domu, w którym dzieci podporządkowane są przede wszystkim obowiązkom dynastycznym. Averian i jego żona Maelia stworzyli dom oparty na bliskości, wzajemnym szacunku i poczuciu bezpieczeństwa.\n\nW rodzinie istnieją obowiązki wynikające z przynależności do Wielkiego Rodu, ale nie towarzyszy im surowość charakterystyczna dla części innych dynastii arystokratycznych. Wspólne posiłki, rozmowy, żarty i naturalne okazywanie uczuć są normalną częścią życia Montrelich. Dzieci nie boją się rodziców i mogą otwarcie rozmawiać z nimi o problemach.\n\nAverian i Maelia Montreli są małżeństwem od wielu lat i pozostają ze sobą bardzo blisko. Ich związek nie jest wyłącznie dynastycznym porozumieniem. Oboje autentycznie się kochają, lubią ze sobą przebywać i stworzyli wyjątkowo stabilne środowisko dla trójki swoich dzieci: Gabriela, Miriam i Lilibeth.\n\nNajstarszy syn, Gabriel Montreli, jest dziedzicem rodu oraz oficerem Marynarki Imperium Technokratycznego w stopniu Podadmirała. Miriam, młodsza od niego o dwa lata, wyróżnia się dużą inteligencją społeczną, ciekawością świata oraz zainteresowaniem gospodarką morską i handlem. Najmłodsza Lilibeth jest znacznie młodsza od rodzeństwa i pozostaje oczkiem w głowie całej rodziny.\n\nRelacja Gabriela z Lilianą de la Cruz jest jednym z bardziej delikatnych tematów dotyczących obecnego pokolenia Montrelich. Gabriel i Liliana darzą się wzajemnym, autentycznym uczuciem, lecz w roku 607 nie tworzą oficjalnego związku. Jednym z głównych przeciwników potencjalnego małżeństwa jest Tetenus Han, prywatnie wuj Liliany ze strony jej matki, która pochodziła z rodu Han.\n\nTetenus nie musi kwestionować osobistych zalet Gabriela. Gabriel jest dziedzicem Wielkiego Rodu i mimo młodego wieku osiągnął bardzo wysoki stopień wojskowy. Problemem dla Tetenusa jest przede wszystkim pozycja rodu Montreli. Uważa on, że Liliana de la Cruz, będąca jednocześnie poprzez matkę związana z rodem Han, może zawrzeć znacznie bogatsze i bardziej prestiżowe dynastycznie małżeństwo.\n\nDla Montrelich takie podejście stanowi przykład charakterystycznego dla części starej arystokracji lekceważenia ich rodu. Averian i Maelia nie zamierzają jednak zmuszać Gabriela do rezygnacji z uczuć do Liliany. Dla nich szczęście syna ma znaczenie większe niż możliwość wykorzystania jego małżeństwa wyłącznie jako narzędzia politycznego.",
+      "infobox": {
+        "status": "Wielki Ród Imperium Technokratycznego",
+        "prowincja": "Montreli",
+        "charakter rodu": "nadmorski, portowy, handlowy i marynarski",
+        "głowa rodu w roku 607": "Averian Montreli",
+        "małżonka głowy rodu": "Maelia Montreli",
+        "dzieci głównej rodziny": "Gabriel, Miriam i Lilibeth Montreli",
+        "dziedzic": "Gabriel Montreli",
+        "pozycja wśród Wielkich Rodów": "formalnie jeden z Wielkich Rodów; przez część arystokracji postrzegany jako relatywnie słabszy i mniej zamożny od najpotężniejszych rodzin",
+        "atmosfera rodzinna": "spokojna, ciepła, kochająca i znacznie mniej surowa niż w wielu innych Wielkich Rodach"
+      },
+      "tags": [
+        "Montreli",
+        "Wielkie Rody",
+        "arystokracja",
+        "morze",
+        "port",
+        "marynarka"
+      ],
+      "status": "PUBLISHED"
+    }
+  ],
+
+  "characters": [
+    {
+      "slug": "averian-montreli",
+      "firstName": "Averian",
+      "lastName": "Montreli",
+      "birthYear": 559,
+      "deathYear": null,
+      "summary": "Czterdziestoośmioletnia głowa rodu Montreli, spokojny i serdeczny arystokrata silnie związany z mieszkańcami swojej nadmorskiej prowincji.",
+      "description": "Averian Montreli urodził się w roku 559 i w roku 607 ma 48 lat. Jest obecną głową Wielkiego Rodu Montreli oraz ojcem Gabriela, Miriam i Lilibeth.\n\nAverian reprezentuje styl przywództwa wyraźnie odmienny od surowego i silnie hierarchicznego modelu spotykanego w części Wielkich Rodów. Jest spokojny, uprzejmy i pewny własnej pozycji, dzięki czemu nie odczuwa potrzeby ciągłego demonstrowania swojej przewagi nad innymi ludźmi.\n\nW rodzinnej prowincji często można spotkać go poza rezydencją. Averian odwiedza port, rozmawia z kapitanami, kupcami, marynarzami, pracownikami nabrzeża oraz zwykłymi mieszkańcami. Nie próbuje udawać człowieka spoza arystokracji, ale uważa, że głowa rodu powinna znać ludzi, których życie zależy od decyzji podejmowanych przez elitę prowincji.\n\nJest człowiekiem politycznie doświadczonym i świadomym słabszej pozycji Montrelich w nieformalnej hierarchii Wielkich Rodów. Nie cierpi jednak z tego powodu na kompleks niższości i nie próbuje kompensować tego przesadną ceremonialnością.\n\nNajważniejszą częścią prywatnego życia Averiana pozostaje rodzina. Jego małżeństwo z Maelią jest wyjątkowo udane. Po wielu latach wspólnego życia nadal są sobie bardzo bliscy, okazują sobie uczucia i wspólnie podejmują najważniejsze decyzje dotyczące dzieci.\n\nAverian wychowuje Gabriela, Miriam i Lilibeth w przekonaniu, że ich nazwisko wiąże się z odpowiedzialnością, ale nie daje im prawa do pogardzania innymi. W rezydencji Montrelich jest przede wszystkim ojcem, a dopiero później głową Wielkiego Rodu.",
+      "infobox": {
+        "wiek w roku 607": 48,
+        "rok urodzenia": 559,
+        "ród": "Montreli",
+        "pozycja": "głowa rodu Montreli",
+        "małżonka": "Maelia Montreli",
+        "dzieci": "Gabriel Montreli, Miriam Montreli, Lilibeth Montreli",
+        "charakter": "spokojny, serdeczny, pragmatyczny, otwarty na ludzi",
+        "stosunek do mieszkańców": "utrzymuje bezpośredni kontakt z mieszkańcami prowincji i portu"
+      },
+      "tags": [
+        "Montreli",
+        "Wielki Ród",
+        "arystokracja",
+        "prowincja Montreli"
+      ],
+      "status": "PUBLISHED"
+    },
+
+    {
+      "slug": "maelia-montreli",
+      "firstName": "Maelia",
+      "lastName": "Montreli",
+      "birthYear": 559,
+      "deathYear": null,
+      "summary": "Czterdziestoośmioletnia żona Averiana Montreli i matka Gabriela, Miriam oraz Lilibeth, współtwórczyni wyjątkowo ciepłej atmosfery rodzinnego domu Montrelich.",
+      "description": "Maelia Montreli urodziła się w roku 559 i w roku 607 ma 48 lat. Jest żoną Averiana Montreli oraz matką Gabriela, Miriam i Lilibeth.\n\nMaelia jest ciepłą, inteligentną i bardzo dobrze wykształconą kobietą. Rodzina stanowi centrum jej prywatnego życia, jednak nie jest osobą pozbawioną własnego zdania ani sprowadzoną wyłącznie do roli małżonki głowy rodu.\n\nJej relacja z Averianem należy do wyjątkowo udanych małżeństw wśród imperialnej arystokracji. Oboje autentycznie się kochają i po wielu latach wspólnego życia nadal dobrze czują się w swoim towarzystwie. W prywatnych pomieszczeniach rezydencji nie muszą stale zachowywać ceremonialnego dystansu wymaganego podczas oficjalnych wydarzeń.\n\nMaelia odegrała ogromną rolę w stworzeniu charakterystycznej atmosfery domu Montrelich. Dzieci wiedzą, że mogą przyjść do niej z problemem bez obawy przed chłodną oceną czy karą za samo okazanie emocji.\n\nJest szczególnie opiekuńcza wobec najmłodszej Lilibeth, choć stara się nie wychowywać jej na rozpieszczone dziecko. Z Gabrielem i Miriam utrzymuje natomiast relację coraz bardziej przypominającą kontakt z młodymi dorosłymi niż z podporządkowanymi rodzicom dziećmi.\n\nMaelia wie również o uczuciach Gabriela wobec Liliany de la Cruz i zdaje sobie sprawę, że są one odwzajemnione. Nie traktuje relacji syna jako okazji do zdobycia większych wpływów. Przede wszystkim interesuje ją to, czy Gabriel jest szczęśliwy.",
+      "infobox": {
+        "wiek w roku 607": 48,
+        "rok urodzenia": 559,
+        "ród": "Montreli",
+        "małżonek": "Averian Montreli",
+        "dzieci": "Gabriel Montreli, Miriam Montreli, Lilibeth Montreli",
+        "charakter": "ciepła, inteligentna, opiekuńcza, spokojna",
+        "małżeństwo": "bardzo szczęśliwe i bliskie"
+      },
+      "tags": [
+        "Montreli",
+        "Wielki Ród",
+        "arystokracja"
+      ],
+      "status": "PUBLISHED"
+    },
+
+    {
+      "slug": "gabriel-montreli",
+      "firstName": "Gabriel",
+      "lastName": "Montreli",
+      "birthYear": 586,
+      "deathYear": null,
+      "summary": "Dwudziestojednoletni dziedzic rodu Montreli i Podadmirał Marynarki Imperium Technokratycznego, wzajemnie zakochany w Lilianie de la Cruz.",
+      "description": "Gabriel Montreli urodził się w roku 586 jako najstarsze dziecko Averiana i Maelii Montreli. W roku 607 ma 21 lat i jest dziedzicem Wielkiego Rodu Montreli.\n\nDorastając w nadmorskiej prowincji, od najmłodszych lat miał silny kontakt z morzem, portami i ludźmi związanymi z żeglugą. Kariera wojskowa w Marynarce Imperium Technokratycznego była dla niego naturalnym kierunkiem, a nie wyłącznie prestiżowym stanowiskiem przygotowanym dla syna Wielkiego Rodu.\n\nW wieku 21 lat Gabriel posiada stopień Podadmirała Marynarki Imperium Technokratycznego. Jest to niezwykle wysoki stopień jak na jego wiek i bez wątpienia jego nazwisko otworzyło przed nim możliwości niedostępne dla większości młodych oficerów. Sam Gabriel bardzo nie lubi jednak sprowadzania całej swojej kariery do pochodzenia. Zależy mu na rzeczywistym szacunku oficerów i marynarzy.\n\nPodobnie jak ojciec, Gabriel nie tworzy przesadnego dystansu między sobą a mieszkańcami rodzinnej prowincji. Kiedy przebywa w portowym mieście Montrelich, potrafi normalnie rozmawiać z mieszkańcami, marynarzami, kupcami i pracownikami portu. Jest świadomy tego, że jest dziedzicem jednego z Wielkich Rodów, ale nie uważa tego za powód do traktowania innych ludzi z pogardą.\n\nGabriel jest bardzo blisko związany z rodzicami i siostrami. Dorastał w spokojnym, kochającym domu i nie postrzega ojca jako człowieka, którego należy się bać. Averian jest dla niego zarówno głową rodu, jak i osobą, do której może zwrócić się po radę.\n\nNajważniejszą kwestią w prywatnym życiu Gabriela są jego uczucia wobec Liliany de la Cruz. Gabriel jest w niej głęboko zakochany, a Liliana odwzajemnia jego uczucia. Mimo tego w roku 607 nie tworzą oficjalnego związku.\n\nJedną z głównych przeszkód jest Tetenus Han. Matka Liliany oraz jej siostry Konstancji pochodziła z rodu Han, przez co Tetenus jest prywatnie ich wujem. Uważa on, że Liliana powinna w przyszłości poślubić człowieka z bogatszego i bardziej wpływowego rodu.\n\nTetenus nie musi uważać Gabriela za człowieka pozbawionego zalet. Gabriel jest dziedzicem Wielkiego Rodu, Podadmirałem Marynarki Imperialnej i przedstawicielem najwyższej warstwy arystokracji. Dla Tetenusa problemem pozostaje jednak sam status Montrelich w nieformalnej hierarchii elit. W jego ocenie Liliana de la Cruz może zawrzeć korzystniejsze dynastycznie małżeństwo.\n\nGabriel zdaje sobie sprawę z tego sposobu myślenia i bardzo go to dotyka. Nie wstydzi się swojego nazwiska i jest dumny z rodu Montreli, ale wie, że część arystokracji traktuje jego rodzinę jako słabszą od Hanów, Delanów czy innych najbogatszych Wielkich Rodów.\n\nAverian i Maelia wiedzą o uczuciach syna i nie próbują przekonywać go, aby zrezygnował z Liliany. Dla Gabriela wsparcie rodziny stanowi ważny kontrast wobec presji części otoczenia Liliany.",
+      "infobox": {
+        "wiek w roku 607": 21,
+        "rok urodzenia": 586,
+        "ród": "Montreli",
+        "pozycja dynastyczna": "dziedzic rodu Montreli",
+        "służba": "Marynarka Imperium Technokratycznego",
+        "stopień": "Podadmirał",
+        "rodzice": "Averian Montreli i Maelia Montreli",
+        "rodzeństwo": "Miriam Montreli i Lilibeth Montreli",
+        "uczucia": "wzajemnie zakochany w Lilianie de la Cruz",
+        "status relacji z Lilianą": "uczucie odwzajemnione, lecz brak oficjalnego związku",
+        "główna przeszkoda": "sprzeciw Tetenusa Hana wobec potencjalnego małżeństwa"
+      },
+      "tags": [
+        "Montreli",
+        "dziedzic",
+        "Marynarka Imperialna",
+        "Podadmirał",
+        "Liliana de la Cruz"
+      ],
+      "status": "PUBLISHED"
+    },
+
+    {
+      "slug": "miriam-montreli",
+      "firstName": "Miriam",
+      "lastName": "Montreli",
+      "birthYear": 588,
+      "deathYear": null,
+      "summary": "Dziewiętnastoletnia córka Averiana i Maelii Montreli, inteligentna, towarzyska i bardzo zainteresowana handlem, portami oraz gospodarką morską.",
+      "description": "Miriam Montreli urodziła się w roku 588 jako drugie dziecko Averiana i Maelii Montreli. W roku 607 ma 19 lat. Jest młodszą siostrą Gabriela i starszą siostrą Lilibeth.\n\nMiriam jest inteligentna, bardzo towarzyska i niezwykle ciekawa świata. W przeciwieństwie do spokojniejszego Gabriela ma naturalną łatwość wchodzenia w nowe środowiska i prowadzenia rozmów z ludźmi o bardzo różnych pozycjach społecznych.\n\nDorastanie w jednej z najważniejszych nadmorskich rodzin Imperium sprawiło, że od najmłodszych lat interesowały ją porty, statki i handel. Z czasem zainteresowanie przerodziło się w rzeczywistą wiedzę dotyczącą gospodarki morskiej, przewozu towarów, działalności portów i funkcjonowania przedsiębiorstw związanych z morzem.\n\nMiriam potrafi jednego dnia uczestniczyć w oficjalnym przyjęciu Wielkich Rodów, a następnego prowadzić długą rozmowę o kosztach transportu lub rozwoju infrastruktury portowej. Nie uważa spraw gospodarczych za temat nieodpowiedni dla młodej arystokratki.\n\nMa silną potrzebę samodzielności. Kocha rodzinę i nie buntuje się przeciwko niej dla samego buntu, ale nie chce, żeby jej przyszłość została zaplanowana wyłącznie na podstawie nazwiska i pozycji ojca.\n\nMiriam jest dowcipna, spostrzegawcza i potrafi być lekko złośliwa, szczególnie wobec Gabriela. Bardzo szybko zorientowała się, że brat ma wyjątkowo silne uczucia wobec Liliany de la Cruz, i lubi się z nim z tego powodu droczyć. Nigdy jednak nie wykorzystałaby jego uczuć do publicznego zawstydzenia go.\n\nZ Gabrielem łączy ją bardzo bliska relacja. Potrafią się kłócić i wzajemnie prowokować, ale w sytuacji rzeczywistego problemu każde z nich może liczyć na drugie.\n\nMiriam ma również ogromną słabość do ośmioletniej Lilibeth. Ze względu na różnicę wieku często zachowuje się wobec niej bardziej jak dodatkowa opiekunka niż zwyczajna starsza siostra, choć sama zdecydowanie nie określiłaby swojej roli w ten sposób.",
+      "infobox": {
+        "wiek w roku 607": 19,
+        "rok urodzenia": 588,
+        "ród": "Montreli",
+        "rodzice": "Averian Montreli i Maelia Montreli",
+        "rodzeństwo": "Gabriel Montreli i Lilibeth Montreli",
+        "zainteresowania": "handel morski, porty, gospodarka, podróże",
+        "charakter": "inteligentna, towarzyska, ciekawa świata, niezależna, dowcipna"
+      },
+      "tags": [
+        "Montreli",
+        "arystokracja",
+        "handel morski",
+        "gospodarka"
+      ],
+      "status": "PUBLISHED"
+    },
+
+    {
+      "slug": "lilibeth-montreli",
+      "firstName": "Lilibeth",
+      "lastName": "Montreli",
+      "birthYear": 599,
+      "deathYear": null,
+      "summary": "Ośmioletnia najmłodsza córka Averiana i Maelii Montreli, pogodna, ciekawska i bardzo mocno związana ze swoim znacznie starszym rodzeństwem.",
+      "description": "Lilibeth Montreli urodziła się w roku 599 jako trzecie i najmłodsze dziecko Averiana oraz Maelii Montreli. W roku 607 ma 8 lat.\n\nZe względu na dużą różnicę wieku między nią a rodzeństwem zajmuje w rodzinie szczególne miejsce. Gabriel jest od niej starszy o trzynaście lat, a Miriam o jedenaście. Oboje są wobec niej wyjątkowo opiekuńczy.\n\nLilibeth dorasta w bardzo spokojnej i kochającej atmosferze rodzinnego domu Montrelich. Wie, że może rozmawiać z rodzicami i rodzeństwem bez strachu oraz że popełnienie błędu nie powoduje automatycznie chłodnej reakcji czy rodzinnego konfliktu.\n\nJest pogodnym, bardzo ciekawskim dzieckiem. Uwielbia zadawać pytania i posiada charakterystyczny talent do poruszania tematów, których dorośli woleliby czasem nie omawiać przy oficjalnym stole.\n\nLilibeth fascynują statki, morze i historie opowiadane przez ludzi związanych z portem. Szczególnie lubi słuchać opowieści o odległych miejscach i innych częściach świata.\n\nMa bardzo dobrą pamięć i szybko przyswaja nowe informacje. Jej edukacja znajduje się jednak dopiero na wczesnym etapie i rodzina stara się nie narzucać jej jeszcze konkretnej przyszłej roli.\n\nGabriel traktuje najmłodszą siostrę bardzo opiekuńczo, natomiast Miriam często spędza z nią czas i nieformalnie przejmuje część roli starszej opiekunki. Lilibeth jest mocno przywiązana do obojga starszego rodzeństwa.",
+      "infobox": {
+        "wiek w roku 607": 8,
+        "rok urodzenia": 599,
+        "ród": "Montreli",
+        "rodzice": "Averian Montreli i Maelia Montreli",
+        "rodzeństwo": "Gabriel Montreli i Miriam Montreli",
+        "charakter": "pogodna, ciekawska, inteligentna, otwarta",
+        "zainteresowania": "morze, statki, opowieści o świecie"
+      },
+      "tags": [
+        "Montreli",
+        "arystokracja",
+        "dziecko"
+      ],
+      "status": "PUBLISHED"
+    }
+  ],
+
+  "relationships": [
+    {
+      "source": "averian-montreli",
+      "target": "maelia-montreli",
+      "type": "spouse"
+    },
+
+    {
+      "source": "gabriel-montreli",
+      "target": "averian-montreli",
+      "type": "father"
+    },
+    {
+      "source": "gabriel-montreli",
+      "target": "maelia-montreli",
+      "type": "mother"
+    },
+
+    {
+      "source": "miriam-montreli",
+      "target": "averian-montreli",
+      "type": "father"
+    },
+    {
+      "source": "miriam-montreli",
+      "target": "maelia-montreli",
+      "type": "mother"
+    },
+
+    {
+      "source": "lilibeth-montreli",
+      "target": "averian-montreli",
+      "type": "father"
+    },
+    {
+      "source": "lilibeth-montreli",
+      "target": "maelia-montreli",
+      "type": "mother"
+    },
+
+    {
+      "source": "gabriel-montreli",
+      "target": "miriam-montreli",
+      "type": "sibling"
+    },
+    {
+      "source": "gabriel-montreli",
+      "target": "lilibeth-montreli",
+      "type": "sibling"
+    },
+    {
+      "source": "miriam-montreli",
+      "target": "lilibeth-montreli",
+      "type": "sibling"
+    }
+  ]
+}
