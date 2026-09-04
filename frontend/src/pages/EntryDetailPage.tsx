@@ -132,7 +132,7 @@ function HouseMembers({ entry }: { entry: Entry }) {
   const houseName = normalizeHouseTag(entry.title);
   const headName = Object.entries(entry.infobox).find(([key]) => {
     const normalized = key.toLocaleLowerCase("pl").replace(/[_-]+/g, " ").trim();
-    return normalized === "głowa rodu" || normalized === "glowa rodu";
+    return normalized.startsWith("głowa rodu") || normalized.startsWith("glowa rodu");
   })?.[1];
 
   const members = data.items
