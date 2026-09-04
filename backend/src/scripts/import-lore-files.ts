@@ -2,19 +2,24 @@ import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
 
 import { prisma } from "../prisma.js";
-import { importInputSchema } from "../schemas/resource.js";
+import { importInputSchema, type ImportInput } from "../schemas/resource.js";
 import { applyLoreImport } from "../services/import-lore.js";
 
 const importDir = process.env.LORE_IMPORT_DIR?.trim();
 
-async function loadImports(directory: string) {
+type LoreFileImport = {
+  file: string;
+  payload: ImportInput;
+};
+
+async function loadImports(directory: string): Promise<LoreFileImport[]> {
   const entries = await readdir(directory, { withFileTypes: true });
   const files = entries
     .filter((entry) => entry.isFile() && entry.name.endsWith(".json"))
     .map((entry) => entry.name)
     .sort((a, b) => a.localeCompare(b, "pl"));
 
-  const imports = [];
+  const imports: LoreFileImport[] = [];
 
   for (const file of files) {
     const fullPath = path.join(directory, file);
@@ -39,14 +44,13 @@ try {
   if (!importDir) {
     console.log("LORE_IMPORT_DIR nie ustawiono — pomijam automatyczny import lore.");
   } else {
-    let imports;
+    let imports: LoreFileImport[] = [];
 
     try {
       imports = await loadImports(importDir);
     } catch (error) {
       if ((error as NodeJS.ErrnoException).code === "ENOENT") {
         console.log(`Katalog lore ${importDir} nie istnieje — pomijam automatyczny import.`);
-        imports = [];
       } else {
         throw error;
       }
@@ -56,7 +60,7 @@ try {
       console.log("Brak plików JSON do automatycznego importu lore.");
     } else {
       const summaries = await prisma.$transaction(async (transaction) => {
-        const results = [];
+        const results: Array<{ file: string; summary: Awaited<ReturnType<typeof applyLoreImport>> }> = [];
 
         for (const item of imports) {
           const summary = await applyLoreImport(transaction, item.payload, item.payload.mode);
