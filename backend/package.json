@@ -1,0 +1,47 @@
+{
+  "name": "imperium-wiki-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/src/index.js",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push --skip-generate",
+    "seed": "tsx prisma/seed.ts",
+    "seed:prod": "node dist/prisma/seed.js",
+    "verify:dynasty": "node dist/src/scripts/verify-dynasty.js",
+    "verify:media": "node dist/src/scripts/verify-media.js",
+    "verify:database": "node dist/src/scripts/verify-database.js",
+    "verify:persistence:prepare": "node dist/src/scripts/verify-persistence.js prepare",
+    "verify:persistence:check": "node dist/src/scripts/verify-persistence.js verify",
+    "test": "npm run build && npm run test:integration",
+    "test:integration": "node --test dist/src/__tests__/*.test.js",
+    "test:static": "npm run build && npm run verify:dynasty && npm run verify:media"
+  },
+  "dependencies": {
+    "@prisma/client": "6.7.0",
+    "cors": "2.8.5",
+    "express": "5.1.0",
+    "helmet": "8.1.0",
+    "morgan": "1.10.0",
+    "multer": "^2.0.2",
+    "openapi-types": "^12.1.3",
+    "prisma": "6.7.0",
+    "swagger-ui-express": "^5.0.1",
+    "zod": "3.24.2"
+  },
+  "devDependencies": {
+    "@types/cors": "2.8.17",
+    "@types/express": "5.0.1",
+    "@types/morgan": "1.9.9",
+    "@types/multer": "^2.0.0",
+    "@types/node": "22.15.3",
+    "@types/supertest": "^6.0.3",
+    "@types/swagger-ui-express": "^4.1.8",
+    "supertest": "^7.1.4",
+    "tsx": "4.19.3",
+    "typescript": "5.8.3"
+  }
+}

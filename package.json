@@ -1,0 +1,10 @@
+{
+  "name": "imperium-wiki",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lore:import": "node --import ./backend/node_modules/tsx/dist/loader.mjs scripts/import-lore.ts import",
+    "lore:validate": "node --import ./backend/node_modules/tsx/dist/loader.mjs scripts/import-lore.ts validate",
+    "test": "npm --prefix backend test"
+  }
+}

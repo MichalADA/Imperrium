@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --ink: #090a0c;
+  --panel: #111318;
+  --panel-soft: #171a20;
+  --line: rgba(216, 186, 122, 0.16);
+  --gold: #c9a55d;
+  --gold-soft: #e0c88f;
+  --cream: #eee5d3;
+  --muted: #9d9a93;
+  --red: #7b2028;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--ink);
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 92% -8%, rgba(123, 32, 40, 0.18), transparent 28rem),
+    radial-gradient(circle at 18% 110%, rgba(201, 165, 93, 0.08), transparent 36rem),
+    var(--ink);
+  color: var(--cream);
+  font-size: 16px;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: rgba(201, 165, 93, 0.3);
+  color: white;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #34312b;
+  border: 2px solid var(--ink);
+  border-radius: 8px;
+}
+
+@layer components {
+  .surface {
+    @apply rounded-2xl border bg-panel/90 shadow-imperial;
+    border-color: var(--line);
+  }
+
+  .surface-muted {
+    @apply rounded-xl border bg-white/[0.025];
+    border-color: var(--line);
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.24em] text-gold;
+  }
+
+  .page-title {
+    @apply mt-2 font-serif text-3xl font-medium tracking-tight text-cream md:text-4xl;
+  }
+
+  .button-primary {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-lg border border-gold/40 bg-gold px-4 py-2.5 text-sm font-semibold text-[#18130b] transition hover:bg-[#dfbf78] focus:outline-none focus:ring-2 focus:ring-gold/40;
+  }
+
+  .button-secondary {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-lg border border-white/10 bg-white/[0.035] px-4 py-2.5 text-sm font-medium text-cream transition hover:border-gold/30 hover:bg-gold/[0.08] focus:outline-none focus:ring-2 focus:ring-gold/30;
+  }
+
+  .field {
+    @apply w-full rounded-lg border border-white/10 bg-black/25 px-3.5 py-3 text-base text-cream outline-none transition placeholder:text-white/25 focus:border-gold/50 focus:ring-2 focus:ring-gold/10;
+  }
+
+  .badge {
+    @apply inline-flex items-center rounded-full border border-gold/20 bg-gold/[0.07] px-2.5 py-1 text-xs font-medium text-[#e0c88f];
+  }
+
+  .archive-rule {
+    height: 1px;
+    background: linear-gradient(90deg, rgba(201, 165, 93, 0.5), rgba(201, 165, 93, 0.04), transparent);
+  }
+}
+
+.article-copy {
+  color: #d5d0c6;
+  line-height: 1.78;
+}
+
+.article-copy h2,
+.article-copy h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--cream);
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 500;
+}
+
+.article-copy h2 {
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.55rem;
+  font-size: 1.55rem;
+}
+
+.article-copy h3 {
+  font-size: 1.25rem;
+}
+
+.article-copy p,
+.article-copy ol,
+.article-copy ul {
+  margin: 0.8rem 0;
+}
+
+.article-copy ol,
+.article-copy ul {
+  padding-left: 1.4rem;
+}
+
+.article-copy ol {
+  list-style: decimal;
+}
+
+.article-copy ul {
+  list-style: disc;
+}
+
+.article-copy strong {
+  color: var(--cream);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

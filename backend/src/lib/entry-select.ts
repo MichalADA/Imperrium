@@ -1,0 +1,18 @@
+export const entryCardSelect = {
+  id: true,
+  slug: true,
+  title: true,
+  type: true,
+  status: true,
+  summary: true,
+  aliases: true,
+  tags: true,
+  infobox: true,
+  isFeatured: true,
+  imagePath: true,
+  birthYear: true,
+  deathYear: true,
+  reignStartYear: true,
+  reignEndYear: true,
+  updatedAt: true,
+} as const;

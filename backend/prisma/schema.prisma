@@ -1,0 +1,112 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum EntryType {
+  CHARACTER
+  PROVINCE
+  CITY
+  LANGUAGE
+  COMPANY
+  EVENT
+  HOUSE
+  INSTITUTION
+  UNIVERSITY
+  TECHNOLOGY
+  GEOGRAPHY
+  MILITARY
+  DYNASTY
+  ARTICLE
+}
+
+enum PublicationStatus {
+  DRAFT
+  PUBLISHED
+}
+
+enum MediaRole {
+  PROFILE
+  COVER
+  GALLERY
+}
+
+model Entry {
+  id             String            @id @default(uuid())
+  slug           String            @unique
+  title          String
+  firstName      String?
+  lastName       String?
+  honorific      String?
+  type           EntryType
+  status         PublicationStatus @default(DRAFT)
+  summary        String            @db.Text
+  content        String            @db.Text
+  searchText     String            @db.Text
+  aliases        String[]
+  tags           String[]
+  infobox        Json
+  isFeatured     Boolean           @default(false)
+  imagePath      String?
+  birthYear      Int?
+  deathYear      Int?
+  reignStartYear Int?
+  reignEndYear   Int?
+  createdAt      DateTime          @default(now())
+  updatedAt      DateTime          @updatedAt
+  revisions      Revision[]
+  media          Media[]
+  outgoing       Relation[]        @relation("OutgoingRelations")
+  incoming       Relation[]        @relation("IncomingRelations")
+
+  @@index([type, status])
+  @@index([updatedAt])
+}
+
+model Relation {
+  id          String  @id @default(uuid())
+  sourceId    String
+  targetId    String
+  type        String
+  description String  @db.Text
+  isTwin      Boolean @default(false)
+  source      Entry   @relation("OutgoingRelations", fields: [sourceId], references: [id], onDelete: Cascade)
+  target      Entry   @relation("IncomingRelations", fields: [targetId], references: [id], onDelete: Cascade)
+
+  @@unique([sourceId, targetId, type])
+  @@index([sourceId])
+  @@index([targetId])
+}
+
+model Media {
+  id        String    @id @default(uuid())
+  entryId   String
+  role      MediaRole
+  path      String    @unique
+  mimeType  String
+  sizeBytes Int
+  altText   String?
+  position  Int       @default(0)
+  createdAt DateTime  @default(now())
+  entry     Entry     @relation(fields: [entryId], references: [id], onDelete: Cascade)
+
+  @@index([entryId, role, position])
+}
+
+model Revision {
+  id         String   @id @default(uuid())
+  entryId    String
+  title      String
+  summary    String   @db.Text
+  content    String   @db.Text
+  infobox    Json
+  changeNote String   @default("")
+  createdAt  DateTime @default(now())
+  entry      Entry    @relation(fields: [entryId], references: [id], onDelete: Cascade)
+
+  @@index([entryId, createdAt])
+}

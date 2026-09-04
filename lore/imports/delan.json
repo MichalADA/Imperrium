@@ -1,0 +1,290 @@
+{
+  "mode": "upsert",
+
+  "families": [
+    {
+      "slug": "rod-delan",
+      "name": "Ród Delan",
+      "summary": "Jeden z wielkich rodów arystokratycznych Imperium Technokratycznego.",
+      "description": "Starożytny i niezwykle prestiżowy ród arystokratyczny Imperium Technokratycznego, związany z prowincją Delanium. Barwą dynastyczną rodu jest głęboki burgund. Ród Delan jest kojarzony z luksusem, modą, prestiżem oraz znaczącymi wpływami w imperialnych elitach.",
+      "infobox": {
+        "prowincja": "Delanium",
+        "barwa": "głęboki burgund",
+        "status_rody": "wielki ród",
+        "glowa_rodu": "Nataniel Delan"
+      },
+      "tags": [
+        "wielki ród",
+        "arystokracja",
+        "Delanium",
+        "Delan"
+      ],
+      "status": "PUBLISHED"
+    }
+  ],
+
+  "characters": [
+    {
+      "slug": "nataniel-delan",
+      "firstName": "Nataniel",
+      "lastName": "Delan",
+      "title": "Głowa rodu Delan",
+      "birthYear": 557,
+      "deathYear": null,
+      "summary": "Obecna głowa wielkiego rodu Delan.",
+      "description": "Nataniel Delan jest obecną głową jednego z wielkich rodów Imperium Technokratycznego. Jest mężem Iphesti Delan oraz ojcem Antonia, Sophie, Auguste, Liliany i Mirabeli.",
+      "aliases": [],
+      "tags": [
+        "Delan",
+        "Ród Delan",
+        "arystokracja",
+        "głowa rodu"
+      ],
+      "infobox": {
+        "ród": "Ród Delan",
+        "prowincja": "Delanium",
+        "wiek": 50
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Nataniela Delan do kanonu rodu Delan"
+    },
+
+    {
+      "slug": "iphesti-delan",
+      "firstName": "Iphesti",
+      "lastName": "Delan",
+      "title": null,
+      "birthYear": 559,
+      "deathYear": null,
+      "summary": "Wpływowa arystokratka rodu Delan i żona Nataniela Delan.",
+      "description": "Iphesti Delan jest żoną Nataniela Delan oraz matką Antonia, Sophie, Auguste, Liliany i Mirabeli. Jest chłodną, zdyscyplinowaną i niezwykle wpływową przedstawicielką najwyższej arystokracji Imperium.",
+      "aliases": [],
+      "tags": [
+        "Delan",
+        "Ród Delan",
+        "arystokracja"
+      ],
+      "infobox": {
+        "ród": "Ród Delan",
+        "prowincja": "Delanium",
+        "wiek": 48
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Iphesti Delan do kanonu rodu Delan"
+    },
+
+    {
+      "slug": "antonio-delan",
+      "firstName": "Antonio",
+      "lastName": "Delan",
+      "title": null,
+      "birthYear": 584,
+      "deathYear": null,
+      "summary": "23-letni członek rodu Delan, znany z licznych kontrowersji.",
+      "description": "Antonio Delan jest 23-letnim członkiem wielkiego rodu Delan. Jest synem Nataniela i Iphesti Delan. W imperialnych elitach i przestrzeni publicznej jest postacią niesławną ze względu na liczne kontrowersje i skandale.",
+      "aliases": [],
+      "tags": [
+        "Delan",
+        "Ród Delan",
+        "arystokracja",
+        "kontrowersje"
+      ],
+      "infobox": {
+        "ród": "Ród Delan",
+        "prowincja": "Delanium",
+        "wiek": 23
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Antonia Delan do kanonu rodu Delan"
+    },
+
+    {
+      "slug": "auguste-delan",
+      "firstName": "Auguste",
+      "lastName": "Delan",
+      "title": null,
+      "birthYear": 593,
+      "deathYear": null,
+      "summary": "14-letnia córka Nataniela i Iphesti Delan.",
+      "description": "Auguste Delan jest 14-letnią córką Nataniela i Iphesti Delan oraz młodszą siostrą Antonia i Sophie. Wychowuje się w tradycjach jednego z najbardziej prestiżowych rodów Imperium.",
+      "aliases": [],
+      "tags": [
+        "Delan",
+        "Ród Delan",
+        "arystokracja"
+      ],
+      "infobox": {
+        "ród": "Ród Delan",
+        "prowincja": "Delanium",
+        "wiek": 14
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Auguste Delan do kanonu rodu Delan"
+    },
+
+    {
+      "slug": "liliana-delan",
+      "firstName": "Liliana",
+      "lastName": "Delan",
+      "title": null,
+      "birthYear": 600,
+      "deathYear": null,
+      "summary": "7-letnia córka Nataniela i Iphesti Delan.",
+      "description": "Liliana Delan jest 7-letnią córką Nataniela i Iphesti Delan. Jest jedną z dwóch najmłodszych córek rodziny Delan.",
+      "aliases": [],
+      "tags": [
+        "Delan",
+        "Ród Delan",
+        "arystokracja"
+      ],
+      "infobox": {
+        "ród": "Ród Delan",
+        "prowincja": "Delanium",
+        "wiek": 7
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Liliany Delan do kanonu rodu Delan"
+    },
+
+    {
+      "slug": "mirabela-delan",
+      "firstName": "Mirabela",
+      "lastName": "Delan",
+      "title": null,
+      "birthYear": 602,
+      "deathYear": null,
+      "summary": "5-letnia najmłodsza córka Nataniela i Iphesti Delan.",
+      "description": "Mirabela Delan jest 5-letnią i najmłodszą córką Nataniela i Iphesti Delan.",
+      "aliases": [],
+      "tags": [
+        "Delan",
+        "Ród Delan",
+        "arystokracja"
+      ],
+      "infobox": {
+        "ród": "Ród Delan",
+        "prowincja": "Delanium",
+        "wiek": 5
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Dodanie Mirabeli Delan do kanonu rodu Delan"
+    }
+  ],
+
+  "relationships": [
+    {
+      "source": "nataniel-delan",
+      "target": "iphesti-delan",
+      "type": "spouse"
+    },
+
+    {
+      "source": "antonio-delan",
+      "target": "nataniel-delan",
+      "type": "father"
+    },
+    {
+      "source": "antonio-delan",
+      "target": "iphesti-delan",
+      "type": "mother"
+    },
+
+    {
+      "source": "sophie-delan",
+      "target": "nataniel-delan",
+      "type": "father"
+    },
+    {
+      "source": "sophie-delan",
+      "target": "iphesti-delan",
+      "type": "mother"
+    },
+
+    {
+      "source": "auguste-delan",
+      "target": "nataniel-delan",
+      "type": "father"
+    },
+    {
+      "source": "auguste-delan",
+      "target": "iphesti-delan",
+      "type": "mother"
+    },
+
+    {
+      "source": "liliana-delan",
+      "target": "nataniel-delan",
+      "type": "father"
+    },
+    {
+      "source": "liliana-delan",
+      "target": "iphesti-delan",
+      "type": "mother"
+    },
+
+    {
+      "source": "mirabela-delan",
+      "target": "nataniel-delan",
+      "type": "father"
+    },
+    {
+      "source": "mirabela-delan",
+      "target": "iphesti-delan",
+      "type": "mother"
+    },
+
+    {
+      "source": "antonio-delan",
+      "target": "sophie-delan",
+      "type": "sibling"
+    },
+    {
+      "source": "antonio-delan",
+      "target": "auguste-delan",
+      "type": "sibling"
+    },
+    {
+      "source": "antonio-delan",
+      "target": "liliana-delan",
+      "type": "sibling"
+    },
+    {
+      "source": "antonio-delan",
+      "target": "mirabela-delan",
+      "type": "sibling"
+    },
+
+    {
+      "source": "sophie-delan",
+      "target": "auguste-delan",
+      "type": "sibling"
+    },
+    {
+      "source": "sophie-delan",
+      "target": "liliana-delan",
+      "type": "sibling"
+    },
+    {
+      "source": "sophie-delan",
+      "target": "mirabela-delan",
+      "type": "sibling"
+    },
+
+    {
+      "source": "auguste-delan",
+      "target": "liliana-delan",
+      "type": "sibling"
+    },
+    {
+      "source": "auguste-delan",
+      "target": "mirabela-delan",
+      "type": "sibling"
+    },
+
+    {
+      "source": "liliana-delan",
+      "target": "mirabela-delan",
+      "type": "sibling"
+    }
+  ]
+}

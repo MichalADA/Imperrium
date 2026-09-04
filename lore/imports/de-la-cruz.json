@@ -1,0 +1,11 @@
+{
+  "mode": "upsert",
+  "characters": [
+    { "slug": "izabela-de-la-cruz", "firstName": "Izabela", "lastName": "de la Cruz", "birthYear": 409, "deathYear": 449 },
+    { "slug": "octavia-de-la-cruz", "firstName": "Octavia", "lastName": "de la Cruz", "birthYear": 428, "deathYear": 548 }
+  ],
+  "relationships": [
+    { "source": "octavia-de-la-cruz", "target": "octavian-wielki", "type": "twin" },
+    { "source": "octavia-de-la-cruz", "target": "izabela-de-la-cruz", "type": "mother" }
+  ]
+}
