@@ -99,6 +99,31 @@
     },
 
     {
+      "slug": "sophie-delan",
+      "firstName": "Sophie",
+      "lastName": "Delan",
+      "title": null,
+      "birthYear": 588,
+      "deathYear": null,
+      "summary": "19-letnia córka Nataniela i Iphesti Delan oraz członkini wielkiego rodu Delan.",
+      "aliases": [],
+      "tags": [
+        "Delan",
+        "Ród Delan",
+        "arystokracja",
+        "elity",
+        "PrivXen"
+      ],
+      "infobox": {
+        "ród": "Ród Delan",
+        "prowincja": "Delanium",
+        "wiek": 19
+      },
+      "status": "PUBLISHED",
+      "changeNote": "Utrwalenie członkostwa Sophie Delan w pliku lore"
+    },
+
+    {
       "slug": "auguste-delan",
       "firstName": "Auguste",
       "lastName": "Delan",
