@@ -1,6 +1,5 @@
 {
   "mode": "upsert",
-
   "families": [
     {
       "slug": "rod-delan",
@@ -22,7 +21,6 @@
       "status": "PUBLISHED"
     }
   ],
-
   "characters": [
     {
       "slug": "nataniel-delan",
@@ -45,15 +43,12 @@
         "prowincja": "Delanium",
         "wiek": 50
       },
-      "status": "PUBLISHED",
-      "changeNote": "Dodanie Nataniela Delan do kanonu rodu Delan"
+      "status": "PUBLISHED"
     },
-
     {
       "slug": "iphesti-delan",
       "firstName": "Iphesti",
       "lastName": "Delan",
-      "title": null,
       "birthYear": 559,
       "deathYear": null,
       "summary": "Wpływowa arystokratka rodu Delan i żona Nataniela Delan.",
@@ -69,89 +64,109 @@
         "prowincja": "Delanium",
         "wiek": 48
       },
-      "status": "PUBLISHED",
-      "changeNote": "Dodanie Iphesti Delan do kanonu rodu Delan"
+      "status": "PUBLISHED"
     },
-
     {
       "slug": "antonio-delan",
       "firstName": "Antonio",
       "lastName": "Delan",
-      "title": null,
       "birthYear": 584,
-      "deathYear": null,
-      "summary": "23-letni członek rodu Delan, znany z licznych kontrowersji.",
-      "description": "Antonio Delan jest 23-letnim członkiem wielkiego rodu Delan. Jest synem Nataniela i Iphesti Delan. W imperialnych elitach i przestrzeni publicznej jest postacią niesławną ze względu na liczne kontrowersje i skandale.",
-      "aliases": [],
+      "summary": "Zmarły najstarszy syn Nataniela i Iphesti Delan. Jego działalność przestępcza, krzywdzenie własnej siostry Auguste i innych dziewczyn, handel narkotykami oraz zabójstwo jednej ze współpracowniczek doprowadziły do procesu i skazania go przez sąd.",
+      "description": "## Pochodzenie\n\nAntonio Delan był najstarszym synem Nataniela i Iphesti Delan oraz starszym bratem Sophie, Auguste, Liliany i Mirabeli Delan.\n\nUrodził się w roku 584. Jako najstarsze dziecko należał do najważniejszych przedstawicieli młodego pokolenia jednego z najbardziej prestiżowych rodów arystokratycznych Imperium.\n\nZ czasem jego życie stało się jednak jednym z najciemniejszych epizodów we współczesnej historii rodu Delan.\n\n## Przestępcza działalność\n\nZa arystokratycznym nazwiskiem i wysoką pozycją społeczną Antonio przez dłuższy czas ukrywał działalność przestępczą.\n\nKrzywdził różne młode kobiety, wykorzystując swoją pozycję, wpływy i środowisko, w którym funkcjonował. Jedną z jego ofiar była również jego własna młodsza siostra, **Auguste Delan**.\n\nAntonio był ponadto zaangażowany w rozprowadzanie narkotyków. Jego działalność nie ograniczała się więc do prywatnych przestępstw popełnianych wobec konkretnych osób, lecz obejmowała również zorganizowaną działalność kryminalną.\n\n## Zabójstwo współpracowniczki\n\nW działalności Antonio uczestniczyły również osoby z jego otoczenia. Jedna z jego współpracowniczek zdecydowała się go wydać i ujawnić informacje dotyczące jego przestępstw.\n\nAntonio dowiedział się o jej zamiarach. Zanim zdołała przekazać przeciwko niemu informacje, **zamordował ją**, próbując w ten sposób zapobiec ujawnieniu swojej działalności.\n\nNie zakończyło to jednak sprawy. Inna kobieta należąca do jego otoczenia ostatecznie zdecydowała się przeciwko niemu wystąpić. To właśnie ona **wydała Antonio**, dostarczając informacje, które przyczyniły się do ujawnienia skali jego działalności i doprowadzenia sprawy przed wymiar sprawiedliwości.\n\nJej decyzja stała się jednym z kluczowych momentów prowadzących do upadku Antonio.\n\n## Auguste Delan\n\nSzczególnie ciężkim elementem sprawy było ujawnienie tego, czego Antonio dopuszczał się wobec swojej młodszej siostry Auguste.\n\nSprawa przestała być dla rodu Delan wyłącznie skandalem dotyczącym działalności jednego z jego członków. Okazało się, że jedną z osób krzywdzonych przez Antonio było dziecko należące do jego własnej najbliższej rodziny.\n\nAuguste była ofiarą swojego starszego brata i nie ponosi odpowiedzialności za jego czyny.\n\n## Proces i wyrok\n\nOstatecznie pozycja społeczna i nazwisko Delan nie uchroniły Antonio przed odpowiedzialnością.\n\nZostał postawiony przed sądem. Postępowanie obejmowało ciężkie przestępstwa związane z krzywdzeniem dziewczyn, czyny wymierzone w Auguste, działalność narkotykową oraz zabójstwo współpracowniczki, która zamierzała go wydać.\n\nAntonio został uznany za winnego i skazany zgodnie z prawem Imperium. Wyrok został wykonany i Antonio zmarł.\n\nJego sprawa stała się jednym z najbardziej kompromitujących i bolesnych wydarzeń we współczesnej historii rodu Delan.\n\n## Konsekwencje dynastyczne\n\nŚmierć Antonio miała również bezpośrednie konsekwencje dla przyszłości rodu.\n\nPo jego śmierci najstarszą osobą z kolejnego pokolenia zdolną w przyszłości przejąć odpowiedzialność za ród została jego młodsza siostra **Sophie Delan**. To ona jest obecnie dziedziczką rodu Delan i przewidywaną następczynią Nataniela.\n\nHistoria Antonio pozostaje jednak przede wszystkim tragedią jego ofiar i rodziny, a dopiero w dalszej kolejności wydarzeniem wpływającym na sukcesję wewnątrz rodu.",
       "tags": [
         "Delan",
-        "Ród Delan",
+        "ród Delan",
         "arystokracja",
-        "kontrowersje"
+        "Delanium",
+        "przestępczość",
+        "postać historyczna"
       ],
       "infobox": {
-        "ród": "Ród Delan",
-        "prowincja": "Delanium",
-        "wiek": 23
+        "ród": "Delan",
+        "ojciec": "Nataniel Delan",
+        "matka": "Iphesti Delan",
+        "status": "Nie żyje",
+        "urodzenie": 584,
+        "rodzeństwo": "Sophie Delan, Auguste Delan, Liliana Delan, Mirabela Delan",
+        "przyczyna śmierci": "Wykonanie wyroku sądowego",
+        "status prawny": "Skazany prawomocnym wyrokiem"
       },
-      "status": "PUBLISHED",
-      "changeNote": "Dodanie Antonia Delan do kanonu rodu Delan"
+      "changeNote": "Zaktualizowano kanon Antonio Delan: ujawniono jego działalność przestępczą, krzywdzenie Auguste i innych dziewczyn, działalność narkotykową, zabójstwo współpracowniczki, wydanie go przez inną współpracowniczkę, proces, skazanie i śmierć.",
+      "status": "PUBLISHED"
     },
-
     {
       "slug": "sophie-delan",
       "firstName": "Sophie",
       "lastName": "Delan",
-      "title": null,
       "birthYear": 588,
       "deathYear": null,
-      "summary": "19-letnia córka Nataniela i Iphesti Delan oraz członkini wielkiego rodu Delan.",
-      "aliases": [],
+      "title": "Dziedziczka rodu Delan",
+      "summary": "Dziewiętnastoletnia dziedziczka wielkiego rodu Delan, córka Nataniela i Iphesti Delan. Uważana za jedną z najbardziej rozpoznawalnych młodych arystokratek Imperium i za najpiękniejszą kobietę swoich czasów. Perfekcyjnie wychowana, inteligentna i opanowana publicznie, prywatnie wykazuje wyraźną niezależność. Łączy ją głębokie i wzajemne uczucie z Michałem de la Cruz.",
+      "description": "## Pochodzenie i pozycja\n\nSophie Delan urodziła się w roku 588. W obecnym roku 607 ma 19 lat. Jest córką Nataniela Delan, obecnej głowy rodu Delan, oraz Iphesti Delan. Jest dziedziczką jednego z najstarszych, najbardziej prestiżowych i wpływowych wielkich rodów arystokratycznych Imperium Technokratycznego.\n\nJako przyszła głowa rodu od dzieciństwa była przygotowywana do funkcjonowania w najwyższych kręgach imperialnej arystokracji. Doskonale zna zasady etykiety, znaczenie pozycji społecznej, mechanizmy polityki rodowej oraz oczekiwania związane z nazwiskiem Delan.\n\nJej pozycja sprawia, że nawet prywatne decyzje Sophie mogą nabierać znaczenia politycznego. Potencjalne małżeństwo dziedziczki Delan nie byłoby traktowane wyłącznie jako sprawa osobista, lecz również jako wydarzenie mogące zmienić układ wpływów wśród imperialnych elit.\n\n## Rodzina\n\nOjcem Sophie jest **Nataniel Delan**, głowa rodu Delan. Jej matką jest **Iphesti Delan**, niezwykle wpływowa, wymagająca i zdyscyplinowana arystokratka.\n\nSophie ma czworo rodzeństwa. Jej starszym bratem jest Antonio Delan. Młodszymi siostrami są Auguste Delan, Liliana Delan oraz Mirabela Delan.\n\nMimo że Antonio jest od niej starszy, to Sophie jest dziedziczką rodu Delan.\n\nSzczególnie istotna dla ukształtowania Sophie jest jej relacja z matką. Iphesti stawia córce bardzo wysokie wymagania i przywiązuje ogromną wagę do sposobu, w jaki przyszła głowa rodu reprezentuje nazwisko Delan. Sophie szanuje rodzinę, jej historię i obowiązki, ale nie pozwala matce kontrolować każdego elementu swojego życia.\n\n## Charakter\n\nSophie jest inteligentna, spostrzegawcza i bardzo dobrze wychowana. Potrafi zachować spokój oraz kontrolować sposób, w jaki prezentuje emocje podczas oficjalnych wydarzeń.\n\nPublicznie może sprawiać wrażenie chłodnej i perfekcyjnie opanowanej młodej arystokratki. Nie wynika to jednak z braku emocji. Sophie doskonale rozumie, że jako dziedziczka Delan jest nieustannie obserwowana i oceniana, dlatego nauczyła się oddzielać zachowanie publiczne od życia prywatnego.\n\nJednocześnie posiada wyraźną niezależność i subtelny buntowniczy charakter. Nie odrzuca tradycji rodu Delan i nie próbuje zerwać z własnym środowiskiem. Jej bunt polega raczej na stawianiu granic tam, gdzie uważa, że rodzina, a szczególnie jej matka, próbuje zbyt głęboko ingerować w jej osobiste decyzje.\n\nSophie chce pozostać Delan i w przyszłości przewodzić rodowi, ale jednocześnie chce zachować prawo do bycia sobą.\n\n## Uroda i wizerunek\n\nSophie jest powszechnie uważana za wyjątkowo piękną kobietę, a wśród imperialnych elit funkcjonuje opinia określająca ją jako najpiękniejszą kobietę Imperium swoich czasów.\n\nJej uroda w połączeniu z pozycją dziedziczki jednego z wielkich rodów sprawia, że jest jedną z najbardziej rozpoznawalnych młodych arystokratek współczesnego Imperium.\n\nMa długie, ciemne włosy, które często nosi w eleganckich falach. Jej oficjalny wizerunek pozostaje luksusowy i wyraźnie związany z estetyką rodu Delan.\n\nPodstawową barwą jej garderoby jest często głęboki burgund — dynastyczny kolor Delanów. Towarzyszą mu kosztowne tkaniny, złoto oraz burgundowa biżuteria i elementy heraldyczne.\n\n## Styl i konflikt z Iphesti\n\nSophie ma znacznie odważniejsze podejście do mody niż jej matka, Iphesti, uważa za właściwe dla dziedziczki rodu.\n\nJej stroje pozostają niezwykle kosztowne, eleganckie i arystokratyczne, jednak Sophie często wybiera suknie z głębszymi dekoltami i bardziej śmiałymi krojami niż preferowałaby Iphesti.\n\nJest to powracające źródło drobnych konfliktów pomiędzy matką i córką. Sophie doskonale wie, że Iphesti uważa część jej kreacji za zbyt odważne — i mimo to świadomie je nosi.\n\nNie jest to próba szokowania otoczenia ani odrzucenie arystokratycznej elegancji. Dla Sophie jest to jeden ze sposobów zaznaczenia własnej autonomii. Szanuje ród Delan i jego tradycje, ale nie uważa, że matka powinna decydować o każdym szczególe jej wyglądu i życia.\n\n## Michał de la Cruz\n\nJedną z najważniejszych osób w życiu Sophie jest **Michał de la Cruz**.\n\nSophie i Michała łączy głębokie, wzajemne uczucie. Sophie kocha Michała, a Michał jest głęboko zakochany w niej. Ich relacja nie powstała jako polityczny projekt mający połączyć ród Delan z dynastią de la Cruz.\n\nWłaśnie polityczne znaczenie ich potencjalnego związku jest jednym z głównych powodów, dla których Sophie długo waha się przed jego formalizacją.\n\nDoskonale zdaje sobie sprawę, że Michał nie jest zwyczajnym członkiem Domu Panującego. Jako syn Octaviana i przedstawiciel starszej gałęzi potomków Teodozjusza II pozostaje centralną postacią sporu dynastycznego. Część środowisk uważa, że to właśnie on powinien był odziedziczyć cesarski tron.\n\nOficjalny związek Michała z dziedziczką Delan mógłby więc zostać odczytany jako polityczny sojusz pomiędzy jednym z najpotężniejszych wielkich rodów a alternatywną linią sukcesji de la Cruz.\n\nSophie szczególnie obawia się, że jej matka, Iphesti, wykorzystałaby taką sytuację do zwiększenia politycznych wpływów rodu Delan. Nie chce, aby prawdziwe uczucie pomiędzy nią a Michałem zostało zamienione przez otoczenie w narzędzie dynastycznej gry.\n\nTo właśnie tworzy podstawowy paradoks ich relacji: Sophie nie waha się dlatego, że nie jest pewna swoich uczuć wobec Michała. Waha się dlatego, że jest ich pewna i nie chce pozwolić, aby zostały przejęte przez politykę.\n\nDla Michała Sophie również jest przede wszystkim osobą, którą kocha, a nie przyszłą głową rodu Delan. Oboje znajdują się jednak w pozycjach, w których oddzielenie życia prywatnego od polityki jest niezwykle trudne.\n\n## Xen i popularność\n\nSophie jest również niezwykle rozpoznawalna w imperialnej przestrzeni publicznej. Należy do bardzo nielicznej grupy osób posiadających większą liczbę obserwujących na publicznym Xen niż Federica Agnis, jedna z największych gwiazd współczesnego Imperium.\n\nMimo ogromnego zainteresowania Sophie stosunkowo rzadko korzysta publicznie z Xen. Jej aktywność nie odpowiada więc skali popularności, jaką posiada.\n\nMa również dostęp do **PrivXen**, ekskluzywnej i zamkniętej części ekosystemu Xen przeznaczonej dla niewielkiej części imperialnych elit.\n\nJej obecność w mediach społecznościowych dobrze pokazuje charakter pozycji Sophie: nawet wtedy, gdy sama nie próbuje aktywnie budować publicznej popularności, zainteresowanie dziedziczką Delan pozostaje ogromne.\n\n## Przyszłość rodu Delan\n\nSophie jest przygotowywana do przyszłego przejęcia odpowiedzialności za ród Delan. Jej życie znajduje się przez to na styku obowiązku rodowego i osobistej niezależności.\n\nZ jednej strony została wychowana tak, aby rozumiać znaczenie tradycji, pozycji i odpowiedzialności wynikającej z nazwiska Delan. Z drugiej coraz wyraźniej zaznacza, że nie zamierza pozwolić, aby obowiązki przyszłej głowy rodu całkowicie określiły jej życie prywatne.\n\nRelacja z Michałem de la Cruz jest największym dotychczasowym sprawdzianem tej sprzeczności. Decyzja dotycząca człowieka, którego Sophie kocha, może jednocześnie stać się jedną z najważniejszych politycznych decyzji przyszłej głowy rodu Delan.",
+      "aliases": [
+        "Sophie"
+      ],
       "tags": [
         "Delan",
-        "Ród Delan",
+        "ród Delan",
         "arystokracja",
-        "elity",
-        "PrivXen"
+        "dziedziczka",
+        "Delanium",
+        "obecne czasy"
       ],
       "infobox": {
-        "ród": "Ród Delan",
-        "prowincja": "Delanium",
-        "wiek": 19
+        "ród": "Delan",
+        "status": "Żyje",
+        "tytuł": "Dziedziczka rodu Delan",
+        "urodzenie": 588,
+        "obecny wiek": "19 lat",
+        "obecny rok": 607,
+        "ojciec": "Nataniel Delan",
+        "matka": "Iphesti Delan",
+        "rodzeństwo": "Antonio Delan, Auguste Delan, Liliana Delan, Mirabela Delan",
+        "pozycja": "Dziedziczka rodu Delan",
+        "barwa rodu": "głęboki burgund",
+        "ukochany": "Michał de la Cruz"
       },
-      "status": "PUBLISHED",
-      "changeNote": "Utrwalenie członkostwa Sophie Delan w pliku lore"
+      "changeNote": "Rozbudowano pełny kanoniczny opis Sophie Delan: pochodzenie, rodzina, pozycja dziedziczki, charakter, wygląd i styl, relacja z Iphesti, popularność na Xen oraz głębokie wzajemne uczucie z Michałem de la Cruz i polityczne konsekwencje ich relacji.",
+      "status": "PUBLISHED"
     },
-
     {
       "slug": "auguste-delan",
       "firstName": "Auguste",
       "lastName": "Delan",
-      "title": null,
       "birthYear": 593,
       "deathYear": null,
-      "summary": "14-letnia córka Nataniela i Iphesti Delan.",
-      "description": "Auguste Delan jest 14-letnią córką Nataniela i Iphesti Delan oraz młodszą siostrą Antonia i Sophie. Wychowuje się w tradycjach jednego z najbardziej prestiżowych rodów Imperium.",
-      "aliases": [],
+      "summary": "Czternastoletnia córka Nataniela i Iphesti Delan oraz młodsza siostra Sophie. Wybitnie utalentowana łyżwiarka figurowa i autorka prywatnego pamiętnika. Auguste była jedną z ofiar swojego starszego brata Antonio. Podczas balu Sophie, gdy Antonio próbował ją publicznie upokorzyć, z sytuacji uratował ją książę Michał de la Cruz.",
+      "description": "## Pochodzenie\n\nAuguste Delan urodziła się w roku 593. W obecnym roku 607 ma 14 lat. Jest córką Nataniela i Iphesti Delan oraz należy do młodego pokolenia jednego z najbardziej prestiżowych wielkich rodów arystokratycznych Imperium Technokratycznego.\n\nJej starszą siostrą jest Sophie Delan, obecna dziedziczka rodu. Młodszymi siostrami Auguste są Liliana i Mirabela Delan. Miała również starszego brata Antonio Delan, który został skazany przez sąd i już nie żyje.\n\nPomimo nazwiska Delan i dorastania w świecie najwyższej imperialnej arystokracji Auguste posiada własne zainteresowania i ambicje. Szczególne miejsce w jej życiu zajmują łyżwiarstwo figurowe oraz prowadzony przez nią prywatny pamiętnik.\n\n## Łyżwiarstwo figurowe\n\nAuguste jest wybitnie utalentowaną łyżwiarką figurową. Łyżwiarstwo stanowi jedną z najważniejszych części jej życia i jest dziedziną, w której wyróżnia się niezależnie od nazwiska oraz pozycji rodu Delan.\n\nJej umiejętności znacznie wykraczają poza rekreacyjne uprawianie sportu. Auguste prezentuje bardzo wysoki poziom i posiada wyjątkowy talent do łyżwiarstwa figurowego.\n\nNa lodzie może funkcjonować przede wszystkim jako Auguste, a nie wyłącznie jako córka Nataniela i Iphesti, młodsza siostra dziedziczki Sophie czy członkini jednego z wielkich rodów. Łyżwiarstwo jest ważnym elementem jej własnej tożsamości.\n\n## Pamiętnik\n\nAuguste regularnie prowadzi prywatny pamiętnik. Zapisuje w nim własne przeżycia, emocje, przemyślenia oraz wydarzenia z życia rodziny Delan.\n\nPamiętnik jest dla niej przestrzenią całkowicie prywatną, odmienną od świata arystokratycznej etykiety i oczekiwań związanych z nazwiskiem Delan. Może zapisywać w nim rzeczy, o których nie chce albo nie potrafi rozmawiać bezpośrednio z innymi ludźmi.\n\nZnajdują się w nim również wspomnienia dotyczące trudnych wydarzeń związanych z Antonio. Pamiętnik nie jest jednak wyłącznie zapisem jej traumatycznych doświadczeń. Jest kroniką dorastania Auguste, jej codzienności, relacji rodzinnych, zainteresowań, sukcesów, obaw i marzeń.\n\n## Antonio Delan\n\nJednym z najbardziej traumatycznych elementów życia Auguste była działalność jej starszego brata Antonio.\n\nAuguste była jedną z osób krzywdzonych przez Antonio. Fakt, że sprawcą był jej własny starszy brat, uczynił późniejsze ujawnienie jego czynów szczególnie bolesnym wydarzeniem dla niej oraz całej rodziny Delan.\n\nOdpowiedzialność za te czyny spoczywa wyłącznie na Antonio. Auguste była jego ofiarą.\n\nAntonio krzywdził również inne dziewczyny i był zaangażowany w rozprowadzanie narkotyków. Gdy jedna z jego współpracowniczek zamierzała go wydać, Antonio ją zamordował. Ostatecznie inna kobieta z jego otoczenia zdecydowała się ujawnić jego działalność i wydała go.\n\nAntonio został postawiony przed sądem. Odpowiadał między innymi za czyny wymierzone w Auguste, krzywdzenie innych dziewczyn, działalność narkotykową oraz zabójstwo współpracowniczki. Został uznany za winnego i skazany. Wyrok wykonano, a Antonio zmarł.\n\n## Bal Sophie\n\nJednym z najbardziej zapamiętanych wydarzeń z okresu, gdy Antonio jeszcze żył, był bal Sophie.\n\nAntonio przygotował wobec swojej młodszej siostry szczególnie okrutny żart. Nakłonił swoich kolegów, aby pisali do Auguste i przekonali ją, że ktoś chce z nią zatańczyć. Auguste otrzymała wiadomość, aby wyszła w umówione miejsce, gdzie miał czekać na nią chłopak zainteresowany wspólnym tańcem.\n\nAuguste uwierzyła i wyszła zgodnie z ustaleniami. Nikt jednak nie przyszedł. Cała sytuacja została przygotowana przez Antonio i jego znajomych po to, aby ją upokorzyć.\n\nKiedy stało się jasne, że Auguste została oszukana i nikt nie zamierza z nią zatańczyć, pojawił się **książę Michał de la Cruz**.\n\nMichał podszedł do Auguste i sam z nią zatańczył, ratując ją przed dalszym upokorzeniem.\n\nNie zrobił tego z powodów politycznych ani dlatego, że wymagał tego od niego ceremoniał Domu Panującego. Zareagował na sytuację, którą zobaczył, i nie chciał pozostawić Auguste samej po tym, co jej zrobiono.\n\nDla Auguste wydarzenie to stało się jednym z ważnych wspomnień związanych z Michałem. W chwili, gdy jej własny starszy brat próbował ją ośmieszyć, Michał potraktował ją z życzliwością i szacunkiem.\n\n## Michał de la Cruz\n\nMichał de la Cruz jest związany z rodziną Delan przede wszystkim poprzez swoją bardzo bliską relację z Sophie. Jego stosunek do Auguste nie ogranicza się jednak do traktowania jej wyłącznie jako młodszej siostry ukochanej.\n\nWydarzenie podczas balu Sophie miało szczególne znaczenie, ponieważ Michał nie miał obowiązku interweniować. Jako członek Domu Panującego mógł zignorować sytuację. Zamiast tego zdecydował się pomóc Auguste w prosty sposób — pojawił się wtedy, gdy osoba obiecana przez żart Antonio nigdy nie przyszła, i sam poprosił ją do tańca.\n\nTo wydarzenie stało się jednym z przykładów pokazujących Auguste charakter Michała poza jego tytułami, pozycją dynastyczną i rolą związaną z Imperium.\n\n## Rodzina po śmierci Antonio\n\nŚmierć Antonio zmieniła sytuację młodego pokolenia Delanów.\n\nSophie jest obecnie dziedziczką rodu i przewidywaną następczynią Nataniela. Auguste pozostaje młodszą córką Nataniela i Iphesti oraz starszą siostrą Liliany i Mirabeli.\n\nHistoria Antonio jest ważną i bolesną częścią przeszłości Auguste, ale nie definiuje całej jej osoby ani przyszłości.\n\nAuguste pozostaje młodą dziewczyną posiadającą własne zainteresowania, talent i ambicje. Jej wybitne zdolności w łyżwiarstwie figurowym oraz prowadzony pamiętnik są ważnymi elementami jej własnej historii, niezależnej od czynów starszego brata.",
       "tags": [
         "Delan",
-        "Ród Delan",
-        "arystokracja"
+        "ród Delan",
+        "arystokracja",
+        "Delanium",
+        "łyżwiarstwo figurowe",
+        "obecne czasy"
       ],
       "infobox": {
-        "ród": "Ród Delan",
-        "prowincja": "Delanium",
-        "wiek": 14
+        "ród": "Delan",
+        "ojciec": "Nataniel Delan",
+        "matka": "Iphesti Delan",
+        "status": "Żyje",
+        "urodzenie": 593,
+        "obecny wiek": "14 lat",
+        "obecny rok": 607,
+        "rodzeństwo": "Sophie Delan, Antonio Delan, Liliana Delan, Mirabela Delan",
+        "zainteresowania": "Łyżwiarstwo figurowe, prowadzenie pamiętnika",
+        "szczególny talent": "Wybitna łyżwiarka figurowa",
+        "ważne wydarzenie": "Podczas balu Sophie Michał de la Cruz uratował ją przed upokorzeniem przygotowanym przez Antonio"
       },
-      "status": "PUBLISHED",
-      "changeNote": "Dodanie Auguste Delan do kanonu rodu Delan"
+      "changeNote": "Rozbudowano kanoniczny opis Auguste Delan: dodano jej wybitny talent do łyżwiarstwa figurowego, prowadzenie prywatnego pamiętnika, historię przestępstw Antonio oraz wydarzenie podczas balu Sophie, gdy Michał de la Cruz zatańczył z Auguste po okrutnym żarcie jej brata.",
+      "status": "PUBLISHED"
     },
-
     {
       "slug": "liliana-delan",
       "firstName": "Liliana",
       "lastName": "Delan",
-      "title": null,
       "birthYear": 600,
       "deathYear": null,
       "summary": "7-letnia córka Nataniela i Iphesti Delan.",
@@ -167,15 +182,12 @@
         "prowincja": "Delanium",
         "wiek": 7
       },
-      "status": "PUBLISHED",
-      "changeNote": "Dodanie Liliany Delan do kanonu rodu Delan"
+      "status": "PUBLISHED"
     },
-
     {
       "slug": "mirabela-delan",
       "firstName": "Mirabela",
       "lastName": "Delan",
-      "title": null,
       "birthYear": 602,
       "deathYear": null,
       "summary": "5-letnia najmłodsza córka Nataniela i Iphesti Delan.",
@@ -191,18 +203,15 @@
         "prowincja": "Delanium",
         "wiek": 5
       },
-      "status": "PUBLISHED",
-      "changeNote": "Dodanie Mirabeli Delan do kanonu rodu Delan"
+      "status": "PUBLISHED"
     }
   ],
-
   "relationships": [
     {
       "source": "nataniel-delan",
       "target": "iphesti-delan",
       "type": "spouse"
     },
-
     {
       "source": "antonio-delan",
       "target": "nataniel-delan",
@@ -213,7 +222,6 @@
       "target": "iphesti-delan",
       "type": "mother"
     },
-
     {
       "source": "sophie-delan",
       "target": "nataniel-delan",
@@ -224,7 +232,6 @@
       "target": "iphesti-delan",
       "type": "mother"
     },
-
     {
       "source": "auguste-delan",
       "target": "nataniel-delan",
@@ -235,7 +242,6 @@
       "target": "iphesti-delan",
       "type": "mother"
     },
-
     {
       "source": "liliana-delan",
       "target": "nataniel-delan",
@@ -246,7 +252,6 @@
       "target": "iphesti-delan",
       "type": "mother"
     },
-
     {
       "source": "mirabela-delan",
       "target": "nataniel-delan",
@@ -257,7 +262,6 @@
       "target": "iphesti-delan",
       "type": "mother"
     },
-
     {
       "source": "antonio-delan",
       "target": "sophie-delan",
@@ -278,7 +282,6 @@
       "target": "mirabela-delan",
       "type": "sibling"
     },
-
     {
       "source": "sophie-delan",
       "target": "auguste-delan",
@@ -294,7 +297,6 @@
       "target": "mirabela-delan",
       "type": "sibling"
     },
-
     {
       "source": "auguste-delan",
       "target": "liliana-delan",
@@ -305,7 +307,6 @@
       "target": "mirabela-delan",
       "type": "sibling"
     },
-
     {
       "source": "liliana-delan",
       "target": "mirabela-delan",
