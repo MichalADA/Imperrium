@@ -107,6 +107,65 @@ function CharacterRelations({ entry }: { entry: Entry }) {
   );
 }
 
+function HouseMembers({ entry }: { entry: Entry }) {
+  const { data, loading, error } = useAsync(() => api.list("CHARACTER"), [entry.slug]);
+
+  if (loading) {
+    return (
+      <section className="mt-10">
+        <div className="mb-4 flex items-center gap-2"><UsersRound className="h-4 w-4 text-gold" /><h2 className="font-serif text-2xl">Przedstawiciele rodu</h2></div>
+        <p className="surface-muted p-4 text-sm text-white/35">Ładowanie członków rodu…</p>
+      </section>
+    );
+  }
+
+  if (error || !data) return null;
+
+  const houseName = entry.title.replace(/^Ród\s+/i, "").trim().toLocaleLowerCase("pl");
+  const headName = Object.entries(entry.infobox).find(([key]) => {
+    const normalized = key.toLocaleLowerCase("pl").replace(/[_-]+/g, " ").trim();
+    return normalized === "głowa rodu" || normalized === "glowa rodu";
+  })?.[1];
+
+  const members = data.items.filter((character) => {
+    const values = [
+      character.title,
+      ...character.aliases,
+      ...character.tags,
+      ...Object.values(character.infobox).map((value) => String(value ?? "")),
+    ]
+      .join(" ")
+      .toLocaleLowerCase("pl");
+
+    return values.includes(houseName);
+  });
+
+  if (!members.length) return null;
+
+  return (
+    <section className="mt-10" aria-labelledby="house-members-heading">
+      <div className="mb-4 flex items-center gap-2"><UsersRound className="h-4 w-4 text-gold" /><h2 id="house-members-heading" className="font-serif text-2xl">Przedstawiciele rodu</h2></div>
+      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {members.map((member) => {
+          const isHead = String(headName ?? "").toLocaleLowerCase("pl").trim() === member.title.toLocaleLowerCase("pl").trim();
+
+          return (
+            <Link key={member.slug} to={`/postacie/${member.slug}`} className="surface-muted block p-4 transition hover:border-gold/35">
+              <div className="flex items-start justify-between gap-3">
+                <div>
+                  <h3 className="font-serif text-lg text-cream">{member.title}</h3>
+                  {member.summary && <p className="mt-1 text-sm leading-5 text-white/42">{member.summary}</p>}
+                </div>
+                {isHead && <span className="badge shrink-0">głowa rodu</span>}
+              </div>
+            </Link>
+          );
+        })}
+      </div>
+    </section>
+  );
+}
+
 export function EntryDetailPage() {
   const { slug = "" } = useParams();
   const { data, loading, error, reload } = useAsync(() => api.get(slug, localStorage.getItem("imperium-admin-token") || ""), [slug]);
@@ -152,7 +211,9 @@ export function EntryDetailPage() {
           <p className="border-l-2 border-gold/60 pl-5 text-lg leading-8 text-cream/78">{data.summary}</p>
           <div className="article-copy mt-8"><ReactMarkdown>{data.content}</ReactMarkdown></div>
 
-          {data.type === "CHARACTER" ? <CharacterRelations entry={data} /> : genericRelations.length > 0 && (
+          {data.type === "CHARACTER" && <CharacterRelations entry={data} />}
+          {data.type === "HOUSE" && <HouseMembers entry={data} />}
+          {data.type !== "CHARACTER" && data.type !== "HOUSE" && genericRelations.length > 0 && (
             <section className="mt-10">
               <div className="mb-4 flex items-center gap-2"><Link2 className="h-4 w-4 text-gold" /><h2 className="font-serif text-2xl">Relacje i powiązania</h2></div>
               <div className="grid gap-3 sm:grid-cols-2">{genericRelations.map((relation) => <RelationCard key={relation.id} relation={relation} />)}</div>
