@@ -18,6 +18,7 @@ const catalogCopy: Record<EntryType, { title: string; eyebrow: string; descripti
   COMPANY: { title: "Firmy i marki", eyebrow: "Rejestr gospodarczy", description: "Banki, technologie i producenci kształtujący codzienne życie setek milionów mieszkańców." },
   EVENT: { title: "Historia", eyebrow: "Archiwum historyczne", description: "Epoki, wojny i przełomy polityczne od przybycia ludzi z Ziemi do dynastii de la Cruz." },
   HOUSE: { title: "Wielkie rody", eyebrow: "Rejestr neofeudalny", description: "Rody wasalne, ich gałęzie, majątki oraz zależności wobec cesarza." },
+  GROUP: { title: "Grupy Wielkich Rodów", eyebrow: "Kręgi towarzyskie elit", description: "Paczki, kręgi towarzyskie i nieformalne grupy związane z elitami oraz Wielkimi Rodami Imperium." },
   INSTITUTION: { title: "Instytucje", eyebrow: "Ustrój państwa", description: "Organy państwa, administracja oraz system neofeudalnych zależności." },
   UNIVERSITY: { title: "Uczelnie", eyebrow: "Rejestr akademicki", description: "Elitarne akademie i specjalistyczne ośrodki nauki od Lacjum po Montes." },
   TECHNOLOGY: { title: "Technologie", eyebrow: "Rejestr rozwoju", description: "Systemy i wynalazki wykorzystywane przez mieszkańców Imperium." },
