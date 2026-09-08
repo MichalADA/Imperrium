@@ -1,11 +1,174 @@
 {
   "mode": "upsert",
   "characters": [
-    { "slug": "izabela-de-la-cruz", "firstName": "Izabela", "lastName": "de la Cruz", "birthYear": 409, "deathYear": 449 },
-    { "slug": "octavia-de-la-cruz", "firstName": "Octavia", "lastName": "de la Cruz", "birthYear": 428, "deathYear": 548 }
+    {
+      "slug": "izabela-de-la-cruz",
+      "firstName": "Izabela",
+      "lastName": "de la Cruz",
+      "birthYear": 409,
+      "deathYear": 449
+    },
+    {
+      "slug": "octavia-de-la-cruz",
+      "firstName": "Octavia",
+      "lastName": "de la Cruz",
+      "birthYear": 428,
+      "deathYear": 548
+    },
+    {
+      "slug": "ignacius-de-la-cruz",
+      "firstName": "Ignacius",
+      "lastName": "de la Cruz",
+      "birthYear": 559,
+      "title": "Ignacius de la Cruz",
+      "summary": "Obecny cesarz Imperium Technokratycznego, panujący od roku 591. Syn Teodozjusza II i młodszy brat Octaviana de la Cruz. W roku 607 ma 48 lat i od 16 lat stoi na czele Imperium. Pragmatyczny, doświadczony i skryty władca, którego panowanie łączy tradycyjną władzę dynastii de la Cruz z technokratycznym aparatem państwa.",
+      "description": "## Ignacius de la Cruz\n\nIgnacius de la Cruz jest obecnym cesarzem Imperium Technokratycznego. Urodził się w roku 559 jako syn cesarza Teodozjusza II. W obecnym roku 607 ma 48 lat i panuje od 16 lat.\n\nObjął tron w roku 591, mając 32 lata.\n\nJego panowanie przypada na okres, w którym Imperium pozostaje ogromnym, zaawansowanym technologicznie mocarstwem, ale jednocześnie zachowuje wielowiekowe struktury dynastyczne, arystokratyczne i technokratyczne.\n\n## Pochodzenie\n\nIgnacius jest synem Teodozjusza II i młodszym bratem Octaviana de la Cruz.\n\nMiędzy braćmi były trzy lata różnicy. Octavian urodził się w roku 556, natomiast Ignacius w 559.\n\nIch ojciec miał już 58 lat w chwili narodzin Ignaciusa.\n\nOctavian był starszym synem Teodozjusza II i oczekiwanym następcą tronu. Zmarł jednak w roku 586 w wieku zaledwie 30 lat, pięć lat przed śmiercią ojca, i nigdy nie został cesarzem.\n\nŚmierć starszego brata zasadniczo zmieniła pozycję Ignaciusa w dynastii.\n\n## Objęcie tronu\n\nTeodozjusz II zmarł w roku 591 w wieku 90 lat.\n\nPo jego śmierci tron objął 32-letni Ignacius.\n\nSukcesja nie była genealogicznie tak oczywista, jak mogłoby się wydawać. Zmarły Octavian pozostawił syna, Michała de la Cruz, który w chwili objęcia tronu przez Ignaciusa miał około pięciu lat.\n\nPowstały w ten sposób dwie możliwe interpretacje praw dynastycznych. Według jednej prawa starszej linii powinny przejść z Octaviana na jego syna Michała. Według drugiej, ponieważ Octavian nigdy nie panował, tron po Teodozjuszu II prawidłowo przeszedł na jego żyjącego dorosłego syna Ignaciusa.\n\nSpór ten nie zmienił faktu, że w roku 591 cesarzem został Ignacius. Pozostał jednak potencjalnie istotnym problemem dynastycznym, ponieważ Michał reprezentuje starszą linię potomków Teodozjusza II.\n\nNie oznacza to, że sam Michał dąży do odebrania Ignaciusowi tronu.\n\n## Cesarz\n\nIgnacius jest władcą pragmatycznym.\n\nNie przypomina idealistycznej Konstancji. W podejmowaniu decyzji znacznie większe znaczenie przywiązuje do stabilności państwa, bezpieczeństwa, równowagi sił oraz praktycznych konsekwencji działań.\n\nPo 16 latach panowania jest człowiekiem bardzo dobrze zaznajomionym z mechanizmami władzy. Funkcjonuje pomiędzy aparatem technokratycznym, wojskiem, Radą, wielkimi rodami, służbami oraz własną dynastią.\n\nNie jest władcą łatwym do odczytania. Potrafi zachowywać informacje dla siebie i nie uważa, że nawet osoby znajdujące się blisko niego powinny automatycznie posiadać dostęp do wszystkich tajemnic państwa.\n\n## Imperium\n\nIgnacius stoi na czele państwa liczącego około 1,4 miliarda mieszkańców i obejmującego 30 prowincji.\n\nImperium jest jednocześnie technokratyczne, imperialne i neofeudalne. Nowoczesne instytucje państwowe, sztuczna inteligencja, wysoko rozwinięta infrastruktura i technologie kosmiczne współistnieją z dynastią cesarską oraz potężnymi rodami posiadającymi własne historyczne hierarchie i wpływy.\n\nCesarz znajduje się w centrum tego systemu, ale nie rządzi w politycznej próżni. Musi uwzględniać interesy instytucji państwowych, elit technokratycznych, wojska i najpotężniejszych rodzin.\n\n## Rodzina\n\nIgnacius jest ojcem Konstancji de la Cruz i Liliany de la Cruz.\n\nKonstancja urodziła się w roku 588. Miała zaledwie trzy lata, gdy jej ojciec został cesarzem. W roku 607 ma 19 lat.\n\nLiliana jest młodsza i ma obecnie 17 lat.\n\nObie córki dorastały więc niemal przez całe świadome życie jako córki panującego cesarza.\n\nKonstancja wyrosła na osobę wyraźnie bardziej idealistyczną i emocjonalnie otwartą niż ojciec. Posiada silne poczucie moralności i znacznie częściej patrzy na działanie państwa przez pryzmat jednostki oraz ludzkich konsekwencji decyzji.\n\nLiliana jest bardziej pragmatyczna i pod wieloma względami znajduje się bliżej świata politycznego, w którym funkcjonuje jej ojciec.\n\n## Michał de la Cruz\n\nMichał jest bratankiem Ignaciusa i synem jego zmarłego starszego brata Octaviana.\n\nPo śmierci ojca Michał pozostał częścią najbliższego środowiska dynastii. Dorastał razem z Konstancją i Lilianą, a ich prywatna relacja przypomina bardziej rodzeństwo niż formalną relację pomiędzy kuzynami.\n\nJednocześnie jego pochodzenie posiada znaczenie polityczne. Jako syn starszego brata Ignaciusa może być traktowany przez część elit jako przedstawiciel starszej linii dynastycznej.\n\nSam fakt istnienia takiej interpretacji może mieć znaczenie niezależnie od osobistych ambicji Michała.\n\n## Aurora\n\nJedną z najściślej strzeżonych tajemnic związanych z państwem jest rzeczywista natura Aurory.\n\nOficjalnie Aurora funkcjonuje jako Aurora Research Station. W rzeczywistości jest tajnym orbitalnym systemem o możliwościach militarnych znacznie przekraczających to, co oficjalnie wiadomo o projekcie.\n\nAurora dysponuje między innymi niezwykle zaawansowanymi systemami uzbrojenia, maskowania oraz sztuczną inteligencją TARUS.\n\nIgnacius należy do osób znających prawdziwe możliwości Aurory i świadomie utrzymuje znaczną część informacji o niej poza wiedzą publiczną.\n\nDla cesarza Aurora jest nie tylko osiągnięciem technologicznym, ale jednym z najbardziej strategicznych narzędzi państwa.\n\n## Hekania\n\nImperium pozostaje w trudnej strategicznej relacji z demokratyczną Hekanią.\n\nOba państwa posiadają możliwości nuklearne, a ich stosunki mają charakter długotrwałej rywalizacji mocarstwowej.\n\nIgnacius musi więc funkcjonować nie tylko jako monarcha i polityk wewnętrzny, ale również jako przywódca państwa uczestniczącego w globalnej równowadze sił.\n\nW relacjach z Hekanią jego pragmatyzm, skłonność do zachowywania tajemnic oraz gotowość do wykorzystywania przewagi technologicznej mają szczególne znaczenie.\n\n## Konstancja a Ignacius\n\nJednym z ważniejszych kontrastów wewnątrz dynastii jest różnica pomiędzy Ignaciusem a Konstancją.\n\nKonstancja wierzy, że potęga Imperium powinna być wykorzystywana w sposób możliwie sprawiedliwy i humanitarny. Jej pierwszą reakcją jest często pytanie o moralność działania oraz los konkretnych ludzi.\n\nIgnacius patrzy na państwo z perspektywy człowieka ponoszącego odpowiedzialność za cały system.\n\nNie oznacza to automatycznie braku uczuć czy troski o rodzinę. Oznacza natomiast, że jako cesarz jest gotów analizować sytuacje w kategoriach bezpieczeństwa, stabilności i interesu Imperium nawet wtedy, gdy prowadzi go to do wniosków innych niż te, do których doszłaby jego córka.\n\n## Wizerunek\n\nIgnacius posiada charakterystyczne cechy dynastii de la Cruz.\n\nMa naturalnie blond włosy, które w wieku 48 lat mogą wykazywać pierwsze oznaki siwienia, oraz niezwykle ciemne oczy charakterystyczne dla jego rodziny.\n\nW oficjalnych sytuacjach jego ubiór wykorzystuje imperialną purpurę, żółte złoto, białe złoto oraz jasne elementy ceremonialne.\n\nJako panujący cesarz ma prawo do właściwej Korony Imperialnej, w przeciwieństwie do książęcych tiar używanych przez jego córki.\n\nJego oficjalny wizerunek ma przedstawiać przede wszystkim głowę państwa: doświadczonego, kontrolującego emocje i świadomego ciężaru swojej pozycji człowieka.\n\n## Rok 607\n\nW roku 607 Ignacius ma 48 lat i znajduje się w szesnastym roku panowania.\n\nNie jest już młodym cesarzem, który dopiero odziedziczył władzę po Teodozjuszu II. Większość dorosłego życia spędził w samym centrum imperialnej polityki.\n\nJednocześnie wokół niego dorasta następne pokolenie dynastii: 19-letnia Konstancja, 17-letnia Liliana oraz dorosły już Michał.\n\nTo sprawia, że kwestia przyszłości dynastii i kierunku, w którym po jego epoce pójdzie Imperium, staje się coraz bardziej realnym elementem polityki.",
+      "tags": [
+        "de la Cruz",
+        "cesarz",
+        "Imperium Technokratyczne",
+        "dynastia de la Cruz",
+        "Teodozjusz II",
+        "Octavian de la Cruz",
+        "Konstancja de la Cruz",
+        "Liliana de la Cruz",
+        "Michał de la Cruz",
+        "Aurora",
+        "Hekania"
+      ],
+      "infobox": {
+        "pełne imię": "Ignacius de la Cruz",
+        "wiek": "48 lat",
+        "rok urodzenia": "559",
+        "tytuł": "Cesarz Imperium Technokratycznego",
+        "panowanie": "591–obecnie"
+      },
+      "changeNote": "Odzyskano rozbudowany opis Ignaciusa z historii wcześniejszych aktualizacji API.",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "konstancja-de-la-cruz",
+      "firstName": "Konstancja",
+      "lastName": "de la Cruz",
+      "birthYear": 588,
+      "title": "Najwyższa Księżniczka Światła Imperium Technokratycznego, Pani na Octavii",
+      "summary": "Najstarsza córka cesarza Ignaciusa de la Cruz, dziewiętnastoletnia idealistka i marzycielka należąca do głównej linii Domu Panującego. Nosi tytuł Najwyższej Księżniczki Światła Imperium Technokratycznego, Pani na Octavii.",
+      "description": "## Pozycja dynastyczna\n\nKonstancja de la Cruz urodziła się w roku 588. Jest najstarszą córką cesarza Ignaciusa de la Cruz i jedną z najważniejszych przedstawicielek młodego pokolenia Domu Panującego. W obecnym roku 607 ma 19 lat. Miała trzy lata, gdy jej ojciec objął tron w roku 591.\n\nJej główny tytuł brzmi: **Najwyższa Księżniczka Światła Imperium Technokratycznego, Pani na Octavii**.\n\nKonstancja nie przepada jednak za określaniem jej po prostu mianem „Najwyższej Księżniczki”. Rozbudowaną tytulaturę traktuje przede wszystkim jako element pozycji dynastycznej i ceremoniału, a nie jako podstawę własnej tożsamości.\n\nNie jest obecnie cesarzową i nie nosi Cesarskiej Korony.\n\n## Charakter\n\nKonstancja jest idealistką i marzycielką. Jest emocjonalna, empatyczna i posiada silne poczucie moralności. Nie patrzy na świat wyłącznie przez pryzmat interesu dynastii, stabilności państwa czy politycznej użyteczności człowieka.\n\nMa skłonność do zastanawiania się nad tym, czy działanie jest słuszne, a nie jedynie nad tym, czy jest skuteczne. Wierzy, że ogromna władza i możliwości Imperium powinny być wykorzystywane również dla dobra jego mieszkańców.\n\nJej idealizm jest szczery. Konstancja nie odrzuca Imperium ani własnej dynastii, lecz wierzy, że państwo może być bardziej sprawiedliwe i humanitarne.\n\nJednocześnie jej wiedza o najciemniejszych elementach imperialnego systemu pozostaje niepełna. Dorastała częściowo chroniona przed najbardziej brutalnymi aspektami funkcjonowania państwa i nie zna wszystkich działań wykonywanych w jego imieniu.\n\n## Rodzina\n\nKonstancja jest córką Ignaciusa de la Cruz. Jej młodszą siostrą jest Liliana de la Cruz.\n\nSzczególnie bliska relacja łączy ją również z Michałem de la Cruz. Choć genealogicznie są kuzynostwem, Michał wychowywał się z Konstancją i Lilianą tak blisko, że ich relacja przypomina relację rodzeństwa.\n\nW prywatnych relacjach rodzinnych Konstancja znacznie mniej przywiązuje wagę do ceremonialnych tytułów i różnic pozycji dynastycznej.\n\n## Wygląd i sposób bycia\n\nKonstancja ma ciepłe, złotoblond włosy oraz niezwykle ciemne oczy. Na pierwszy rzut oka wydają się niemal czarne, natomiast w bezpośrednim świetle można dostrzec bardzo subtelny, głęboki burgundowy ton.\n\nPraktycznie nie używa makijażu, również podczas oficjalnych wydarzeń. Jest to charakterystyczny element jej sposobu prezentowania się.\n\nW oficjalnych sytuacjach nosi barwy i materiały kojarzone z Domem de la Cruz: imperialną purpurę, złoto oraz białe złoto. Jednym z jej osobistych elementów biżuterii jest naszyjnik z białego złota z literą „K”.\n\nJako księżniczka może nosić niewielką tiarę dynastyczną, lecz nie Cesarską Koronę.\n\n## Znaczenie\n\nKonstancja łączy bardzo wysoką pozycję dynastyczną z wyraźnie idealistycznym spojrzeniem na świat. Jej przekonania stoją niekiedy w napięciu z rzeczywistością Imperium oraz politycznym pragmatyzmem części jego elit.\n\nJest młodą kobietą stojącą blisko szczytu imperialnego systemu, która dopiero stopniowo poznaje pełną naturę państwa, którego los może w przyszłości współkształtować.",
+      "aliases": [
+        "Konstancja",
+        "Najwyższa Księżniczka Światła"
+      ],
+      "tags": [
+        "dynastia de la Cruz",
+        "Dom Panujący",
+        "księżniczka",
+        "obecne czasy"
+      ],
+      "infobox": {
+        "ród": "de la Cruz",
+        "ojciec": "Ignacius de la Cruz",
+        "status": "Żyje",
+        "tytuł": "Najwyższa Księżniczka Światła Imperium Technokratycznego, Pani na Octavii",
+        "urodzenie": 588,
+        "obecny wiek": "19 lat",
+        "obecny rok": 607
+      },
+      "changeNote": "Rozbudowano kanoniczny opis Konstancji: charakter, idealizm, pozycja dynastyczna, tytulatura, rodzina i wygląd.",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "liliana-de-la-cruz",
+      "firstName": "Liliana",
+      "lastName": "de la Cruz",
+      "birthYear": 590,
+      "title": "Księżniczka Imperium Technokratycznego, Pani na Octavii",
+      "summary": "Młodsza córka cesarza Ignaciusa de la Cruz i Pani na Octavii. Siedemnastoletnia księżniczka wychowana pod silnym wpływem wuja Tetunusa Hana, której bezwzględny pragmatyzm zaczął zmieniać się pod wpływem Gabriela Montreli.",
+      "description": "## Pozycja dynastyczna\n\nLiliana de la Cruz urodziła się w roku 590. Jest młodszą córką cesarza Ignaciusa de la Cruz oraz młodszą siostrą Konstancji de la Cruz. W obecnym roku 607 ma 17 lat i należy do głównej linii Domu Panującego.\n\nNosi tytuł **Księżniczki Imperium Technokratycznego, Pani na Octavii**. Nie jest cesarzową i nie nosi Cesarskiej Korony.\n\n## Charakter\n\nLiliana przez znaczną część swojego życia była znacznie bardziej pragmatyczna i bezwzględna niż Konstancja. Dobrze rozumiała mechanizmy funkcjonowania imperialnych elit, znaczenie wpływów, pozycji oraz politycznej gry.\n\nTam, gdzie Konstancja przede wszystkim zastanawiała się nad tym, co jest moralnie słuszne, Liliana znacznie częściej myślała o tym, co jest konieczne, skuteczne i korzystne dla Domu Panującego.\n\nNie oznaczało to braku uczuć. Liliana nauczyła się jednak znacznie łatwiej oddzielać emocje od decyzji i akceptować brutalne realia imperialnej polityki.\n\n## Wychowanie przez Tetunusa Hana\n\nOgromny wpływ na ukształtowanie Liliany miał jej wuj **Tetunus Han**, który uczestniczył w jej wychowaniu. To właśnie pod jego wpływem rozwijała polityczny realizm, dyscyplinę oraz zdolność do podejmowania trudnych decyzji bez kierowania się wyłącznie emocjami.\n\nWychowanie to sprawiło, że już jako bardzo młoda osoba Liliana znacznie lepiej od Konstancji rozumiała sposób myślenia najwyższych imperialnych elit.\n\n## Gabriel Montreli\n\nIstotnym punktem w rozwoju Liliany stało się poznanie **Gabriela Montreli**. Pod jego wpływem jej wcześniejsza bezwzględność zaczęła stopniowo ustępować bardziej humanitarnemu spojrzeniu na innych ludzi.\n\nGabriel nie uczynił z Liliany drugiej Konstancji. Nadal pozostaje ona bardziej pragmatyczna, realistyczna i politycznie świadoma od swojej starszej siostry. Zaczął jednak podważać jej wcześniejsze przekonanie, że brutalność i bezwzględność świata imperialnych elit należy po prostu zaakceptować.\n\nRelacja z Gabrielem stała się dla Liliany osobiście ważna i jest jednym z najistotniejszych czynników wpływających na jej przemianę.\n\n## Konstancja\n\nPomimo bardzo różnych charakterów Liliana i Konstancja nie są obecnie rywalkami. Ich relacje są bardzo dobre, a siostry pozostają sobie bliskie.\n\nW obecnym okresie ich życia łączy je szczególnie ważny wspólny cel: **Konstancja i Liliana razem poszukują swojej matki**.\n\nRóżnice między nimi nadal pozostają wyraźne. Konstancja jest przede wszystkim idealistką i marzycielką. Liliana jest bardziej pragmatyczna i lepiej rozumie polityczne realia Imperium. Jednocześnie doświadczenia związane z Gabrielem sprawiają, że różnica między światopoglądami sióstr nie jest już tak głęboka jak wcześniej.\n\n## Wygląd i styl\n\nLiliana ma ciemne, złotoblond włosy, wyraźnie ciemniejsze niż włosy Konstancji, lecz nadal jednoznacznie blond. Zazwyczaj nosi je zaczesane do tyłu, z dala od twarzy. Ma bardzo ciemne, niemal czarne oczy.\n\nCharakterystyczną cechą Liliany jest jej zamiłowanie do czerni. Ubiera się niemal całkowicie na czarno, również w sytuacjach oficjalnych. Nie jest to oznaka żałoby ani manifestacja mrocznego wizerunku, lecz jej własny, rozpoznawalny styl arystokratyczny.\n\nJednym z jej osobistych elementów biżuterii jest wykonany z białego złota naszyjnik z literą „L”. Może również nosić niewielką księżniczkowską tiarę z białego złota, lecz nie Cesarską Koronę.",
+      "aliases": [
+        "Liliana",
+        "Pani na Octavii"
+      ],
+      "tags": [
+        "dynastia de la Cruz",
+        "Dom Panujący",
+        "księżniczka",
+        "Octavia",
+        "obecne czasy"
+      ],
+      "infobox": {
+        "ród": "de la Cruz",
+        "ojciec": "Ignacius de la Cruz",
+        "status": "Żyje",
+        "tytuł": "Księżniczka Imperium Technokratycznego, Pani na Octavii",
+        "urodzenie": 590,
+        "obecny wiek": "17 lat",
+        "obecny rok": 607,
+        "posiadłość": "Octavia"
+      },
+      "changeNote": "Dodano pełny opis Liliany: tytulaturę, wychowanie przez Tetunusa Hana, wpływ Gabriela Montreli, relację z Konstancją i poszukiwania matki.",
+      "status": "PUBLISHED"
+    },
+    {
+      "slug": "michal-de-la-cruz",
+      "firstName": "Michał",
+      "lastName": "de la Cruz",
+      "summary": "Syn zmarłego Octaviana de la Cruz i przedstawiciel starszej gałęzi potomków Teodozjusza II. Wychowany u boku Konstancji i Liliany niemal jak ich brat. Blisko związany z wojskiem, najlepszy przyjaciel Generała Arbitra Cezara i głęboko zakochany z wzajemnością w Sophie Delan. Jego pozycja pozostaje źródłem jednego z najważniejszych współczesnych sporów dynastycznych.",
+      "description": "## Pochodzenie\n\nMichał de la Cruz jest synem Octaviana de la Cruz, starszego syna cesarza Teodozjusza II i przez lata oczekiwanego następcy cesarskiego tronu. Octavian zmarł jednak w roku 586 w wieku zaledwie 30 lat, jeszcze za życia swojego ojca, i nigdy nie został cesarzem.\n\nW chwili śmierci ojca Michał miał około siedmiu miesięcy. Praktycznie nie miał więc możliwości go poznać i dorastał bez własnych wspomnień o nim.\n\nKiedy w roku 591 zmarł Teodozjusz II, Michał miał pięć lat. Tron objął wówczas młodszy syn Teodozjusza II, Ignacius de la Cruz.\n\nPochodzenie Michała sprawia, że zajmuje on wyjątkową pozycję w Domu de la Cruz. Jest wnukiem Teodozjusza II poprzez jego starszego syna i potomkiem człowieka, który najprawdopodobniej zostałby kolejnym cesarzem, gdyby nie zmarł przed swoim ojcem.\n\n## Dzieciństwo i rodzina\n\nPo śmierci ojca Michał dorastał bardzo blisko rodziny Ignaciusa. Szczególnie silna więź połączyła go z Konstancją i Lilianą de la Cruz.\n\nChoć genealogicznie Michał jest ich kuzynem, cała trójka wychowywała się tak blisko siebie, że ich prywatna relacja znacznie bardziej przypomina relację rodzeństwa niż dalszych krewnych należących do tej samej dynastii.\n\nKonstancja i Liliana należą do najbliższych Michałowi osób. W prywatnych relacjach pomiędzy nimi ceremonialne tytuły oraz różnice pozycji dynastycznej mają znacznie mniejsze znaczenie niż na cesarskim dworze.\n\nJest to szczególnie istotne ze względu na polityczne spory otaczające pozycję Michała. Środowiska spierające się o prawa poszczególnych gałęzi de la Cruz mogą przedstawiać Michała i córki Ignaciusa jako przedstawicieli konkurencyjnych linii dynastycznych, podczas gdy ich rzeczywiste relacje pozostają bardzo bliskie i rodzinne.\n\n## Charakter\n\nMichał jest człowiekiem praktycznym i potrafi funkcjonować w brutalnych realiach Imperium, ale posiada wyraźne granice moralne. Nie jest idealistą w takim stopniu jak Konstancja i lepiej akceptuje konieczność podejmowania trudnych decyzji, jednak nie uważa ludzkiego życia wyłącznie za element politycznej lub wojskowej kalkulacji.\n\nJest lojalny wobec swojej rodziny i Imperium, ale lojalność nie oznacza dla niego bezwarunkowej zgody na każde działanie państwa. W sytuacjach kryzysowych potrafi sprzeciwić się rozwiązaniu, które uważa za niepotrzebnie brutalne, nawet jeżeli prostsza alternatywa byłaby korzystniejsza z czysto militarnego punktu widzenia.\n\nMichał nie przywiązuje przesadnej wagi do ceremonialnego dystansu. Znacznie większe znaczenie mają dla niego osobiste zaufanie, lojalność oraz to, jak człowiek zachowuje się w rzeczywiście trudnych sytuacjach.\n\nJego pozycja dynastyczna mogłaby pozwalać mu na budowanie własnego środowiska politycznego, jednak samo istnienie sporów wokół jego praw do tronu nie oznacza automatycznie, że Michał podziela wszystkie poglądy ludzi występujących w jego imieniu.\n\n## Wojsko\n\nMichał jest silnie związany z imperialnym wojskiem i posiada doświadczenie w podejmowaniu decyzji podczas rzeczywistych sytuacji kryzysowych.\n\nJednym z najbardziej charakterystycznych przykładów jego sposobu myślenia był kryzys zakładniczy w Qutesa de La Bolet. Michał sprzeciwił się wykorzystaniu nalotów, ponieważ groziły one śmiercią zakładników. Zamiast tego zdecydował się na znacznie bardziej ryzykowne rozwiązanie i nakazał podjęcie próby ich uratowania z wykorzystaniem wojsk lądowych.\n\nDecyzja ta dobrze pokazuje jego charakter. Michał nie sprzeciwia się użyciu siły jako takiej, ale uważa, że przewaga militarna Imperium nie zwalnia jego dowódców z odpowiedzialności za ludzi, których mogą uratować.\n\n## Generał Arbiter Cezar\n\nNajlepszym przyjacielem Michała jest **Generał Arbiter Cezar**, jeden z najważniejszych przedstawicieli imperialnej hierarchii wojskowej.\n\nIch relacja wykracza daleko poza oficjalne zależności pomiędzy członkiem dynastii de la Cruz a wysokim rangą dowódcą. Cezar jest dla Michała przede wszystkim przyjacielem i należy do bardzo niewielkiego grona ludzi spoza jego najbliższej rodziny, którym Michał rzeczywiście ufa.\n\nMichał nie traktuje Cezara jedynie jako oficera wykonującego rozkazy. Cezar należy do osób mogących rozmawiać z nim znacznie bardziej bezpośrednio niż większość ludzi otaczających Dom Panujący.\n\nIch przyjaźń jest szczególnie ważna ze względu na wojskową rolę Michała. Cezar jest jednocześnie człowiekiem doskonale rozumiejącym realia sił zbrojnych oraz osobą znającą Michała prywatnie, poza ceremonialną rolą członka dynastii.\n\n## Sophie Delan\n\nJedną z najważniejszych osób w życiu Michała jest **Sophie Delan**, dziewiętnastoletnia dziedziczka wielkiego rodu Delan.\n\nMichał jest w Sophie głęboko zakochany. Uczucie to jest odwzajemnione — Sophie również kocha Michała. Ich relacja nie jest wynikiem dynastycznych negocjacji ani próbą politycznego zbliżenia dwóch potężnych rodzin.\n\nDla Michała Sophie jest przede wszystkim osobą, którą kocha, a nie dziedziczką rodu Delan. Właśnie dlatego polityczne znaczenie ich relacji stanowi dla nich tak poważny problem.\n\nOficjalny związek Michała de la Cruz z dziedziczką Delan miałby ogromne znaczenie dla imperialnej arystokracji. Łączyłby człowieka posiadającego własne, kontrowersyjne prawa dynastyczne z przyszłą głową jednego z najpotężniejszych i najbardziej prestiżowych rodów Imperium.\n\nSophie doskonale zdaje sobie z tego sprawę. Obawia się przede wszystkim reakcji swojej matki, Iphesti Delan. Wie, że Iphesti mogłaby potraktować ich uczucie jako możliwość zwiększenia politycznych wpływów rodu Delan i wykorzystać ich związek jako instrument w rozgrywkach imperialnej arystokracji.\n\nZ tego powodu Sophie długo waha się przed nadaniem ich relacji formalnego charakteru, mimo że jej uczucia wobec Michała są prawdziwe i odwzajemnione.\n\nDla Michała sytuacja jest szczególnie trudna właśnie dlatego, że jego uczucie nie ma charakteru politycznego. Jego nazwisko i pochodzenie sprawiają jednak, że nawet najbardziej prywatna decyzja dotycząca Sophie może zostać przez otoczenie potraktowana jako wydarzenie dynastyczne.\n\n## Spory dynastyczne\n\nPozycja Michała od lat pozostaje przedmiotem jednego z najważniejszych sporów dynastycznych w Domu de la Cruz.\n\nJego ojciec Octavian był starszym synem Teodozjusza II i przez znaczną część życia był oczekiwanym następcą cesarskiego tronu. Zmarł jednak w roku 586, pięć lat przed swoim ojcem, nigdy nie obejmując władzy.\n\nPo śmierci Teodozjusza II w roku 591 tron objął jego młodszy syn Ignacius de la Cruz. Michał miał wówczas zaledwie pięć lat.\n\nW Imperium istnieją środowiska uważające, że śmierć Octaviana nie powinna była pozbawić jego linii praw do tronu. Według tej interpretacji prawa starszego syna Teodozjusza II powinny przejść na jego potomka. Po śmierci Teodozjusza II to pięcioletni Michał powinien więc zostać cesarzem, a do czasu osiągnięcia odpowiedniego wieku państwem mogłaby kierować regencja.\n\nZ tego punktu widzenia objęcie tronu przez Ignaciusa oznaczało pominięcie starszej gałęzi dynastii. Dla zwolenników tej interpretacji Michał pozostaje człowiekiem, który powinien był zostać cesarzem.\n\nIstnieje jednak również przeciwna interpretacja. Jej zwolennicy wskazują, że Octavian nigdy nie objął cesarskiego tronu, a jego status oczekiwanego następcy nie oznaczał automatycznego przekazania praw pięcioletniemu synowi. W roku 591 Ignacius miał 32 lata, był dorosłym członkiem dynastii i mógł natychmiast przejąć pełnię obowiązków cesarza bez ustanawiania wieloletniej regencji.\n\nSpór dotyczy więc fundamentalnego pytania o charakter cesarskiej sukcesji: czy pierwszeństwo powinno przechodzić poprzez potomków starszej linii nawet wtedy, gdy bezpośredni następca zmarł przed objęciem tronu, czy też władza powinna przejść na kolejnego dorosłego członka dynastii zdolnego do jej sprawowania.\n\nSam fakt istnienia Michała ma przez to znaczenie polityczne niezależnie od jego własnych ambicji. Dla części arystokracji i środowisk dynastycznych jest naturalnym symbolem alternatywnej interpretacji legalności sukcesji z roku 591.\n\nNie oznacza to jednak, że Michał automatycznie uważa Ignaciusa za uzurpatora albo że dąży do odebrania mu władzy. Poglądy ludzi powołujących się na jego prawa dynastyczne nie muszą odpowiadać jego własnym poglądom i zamiarom.\n\n## Dwie gałęzie dynastii\n\nSpór z roku 591 ma również konsekwencje dla przyszłości Domu de la Cruz.\n\nMichał reprezentuje linię starszego syna Teodozjusza II. Konstancja i Liliana reprezentują natomiast linię jego młodszego syna, obecnego cesarza Ignaciusa.\n\nZ politycznego punktu widzenia można więc mówić o dwóch gałęziach posiadających własne argumenty dynastyczne. Z prywatnego punktu widzenia taki podział jest jednak sztuczny. Michał wychowywał się z Konstancją i Lilianą niemal jak z siostrami i pozostaje z nimi bardzo blisko związany.\n\nPowoduje to charakterystyczne napięcie pomiędzy życiem rodzinnym a polityką. Ludzie mogą próbować przedstawiać Michała, Konstancję i Lilianę jako reprezentantów konkurencyjnych interesów dynastycznych, nawet jeśli oni sami nie postrzegają siebie jako politycznych przeciwników.\n\nPotencjalny konflikt sukcesyjny nie musi więc wynikać z osobistej wrogości wewnątrz młodego pokolenia de la Cruz. Może zostać wywołany przez arystokrację, instytucje państwa lub środowiska polityczne próbujące wykorzystać istniejące różnice genealogiczne.\n\n## Pozycja w Domu Panującym\n\nMichał zajmuje wyjątkową i politycznie wrażliwą pozycję w dynastii de la Cruz. Jest wnukiem Teodozjusza II oraz synem jego starszego syna Octaviana, który miał zostać następcą cesarskiego tronu.\n\nJednocześnie Michał dorastał u boku córek obecnego cesarza i pozostaje częścią ich najbliższego rodzinnego otoczenia. Konstancja i Liliana nie są dla niego politycznymi przeciwniczkami, lecz osobami, z którymi wychowywał się niemal jak z rodzeństwem.\n\nŁączy więc własne bardzo silne pochodzenie dynastyczne z osobistą więzią z linią Ignaciusa.\n\nKwestia praw Michała do cesarskiego tronu pozostaje jednym z najważniejszych nierozstrzygniętych sporów dotyczących współczesnej sukcesji dynastii de la Cruz.",
+      "aliases": [
+        "Michał"
+      ],
+      "tags": [
+        "dynastia de la Cruz",
+        "Dom Panujący",
+        "wojsko",
+        "spór dynastyczny",
+        "obecne czasy"
+      ],
+      "infobox": {
+        "ród": "de la Cruz",
+        "ojciec": "Octavian de la Cruz",
+        "dziadek": "Teodozjusz II",
+        "status": "Żyje",
+        "dynastia": "de la Cruz",
+        "najlepszy przyjaciel": "Generał Arbiter Cezar",
+        "ukochana": "Sophie Delan",
+        "pozycja dynastyczna": "Starsza gałąź potomków Teodozjusza II",
+        "spór sukcesyjny": "Część środowisk uważa, że powinien był objąć tron w 591 roku"
+      },
+      "changeNote": "Rozbudowano kanoniczny opis Michała de la Cruz: pochodzenie, dzieciństwo z Konstancją i Lilianą, charakter, związki z wojskiem, przyjaźń z Generałem Arbitrem Cezarem, miłość do Sophie Delan oraz spór dynastyczny dotyczący sukcesji po Teodozjuszu II.",
+      "status": "PUBLISHED"
+    }
   ],
   "relationships": [
-    { "source": "octavia-de-la-cruz", "target": "octavian-wielki", "type": "twin" },
-    { "source": "octavia-de-la-cruz", "target": "izabela-de-la-cruz", "type": "mother" }
+    {
+      "source": "octavia-de-la-cruz",
+      "target": "octavian-wielki",
+      "type": "twin"
+    },
+    {
+      "source": "octavia-de-la-cruz",
+      "target": "izabela-de-la-cruz",
+      "type": "mother"
+    },
+    {
+      "source": "konstancja-de-la-cruz",
+      "target": "ignacius-de-la-cruz",
+      "type": "father"
+    },
+    {
+      "source": "liliana-de-la-cruz",
+      "target": "ignacius-de-la-cruz",
+      "type": "father"
+    },
+    {
+      "source": "konstancja-de-la-cruz",
+      "target": "liliana-de-la-cruz",
+      "type": "sibling"
+    },
+    {
+      "source": "michal-de-la-cruz",
+      "target": "octavian-syn-teodozjusza-ii",
+      "type": "father"
+    }
   ]
 }

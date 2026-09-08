@@ -29,8 +29,10 @@ services:
       ADMIN_API_KEY: ${ADMIN_API_KEY:-}
       CORS_ORIGIN: ${CORS_ORIGIN:-http://localhost:8080}
       UPLOAD_DIR: /app/uploads
+      LORE_IMPORT_DIR: /app/lore/imports
     volumes:
       - imperium_uploads:/app/uploads
+      - ./lore/imports:/app/lore/imports:ro
     ports:
       - "127.0.0.1:${BACKEND_PORT:-3000}:3000"
     depends_on:

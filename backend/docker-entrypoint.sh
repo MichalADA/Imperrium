@@ -38,4 +38,5 @@ fi
 
 npx prisma migrate deploy
 node dist/prisma/seed.js
+node dist/src/scripts/import-lore-files.js
 exec node dist/src/index.js

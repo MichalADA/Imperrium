@@ -10,6 +10,7 @@
         "głowa rodu": "Nataniel Montes",
         "prowincja": "Montes",
         "symbol": "otwarta księga i strzeliste, spiczaste góry",
+        "motto": "LĀKI · TIETO · VĀRUT",
         "cechy rodu": "śnieżnobiałe włosy, raczej niski wzrost"
       },
       "tags": [
@@ -20,7 +21,7 @@
         "sądownictwo"
       ],
       "status": "PUBLISHED",
-      "changeNote": "Dodanie kanonu rodu Montes"
+      "changeNote": "Utrwalenie kanonu rodu Montes"
     }
   ],
   "characters": [
@@ -31,16 +32,20 @@
       "birthYear": 565,
       "deathYear": null,
       "summary": "Głowa rodu Montes.",
-      "description": "Nataniel Montes, urodzony w roku 565, jest obecną głową rodu Montes. Ma około 174 cm wzrostu i charakterystyczne dla rodu śnieżnobiałe włosy. Jego małżeństwo z Solveig, z domu voniz Hagrald, rozpoczęło się od głośnego skandalu dynastycznego, lecz po latach stało się jednym z najbardziej udanych małżeństw wśród najwyższej arystokracji Imperium.",
+      "description": "Nataniel Montes, urodzony w roku 565, jest obecną głową rodu Montes. W roku 607 ma 42 lata. Ma około 174 cm wzrostu i charakterystyczne dla biologicznych członków rodu śnieżnobiałe włosy. Jego małżeństwo z Solveig, z domu voniz Hagrald, rozpoczęło się od głośnego skandalu dynastycznego, lecz po latach stało się jednym z najbardziej udanych małżeństw wśród najwyższej arystokracji Imperium.",
       "infobox": {
         "wiek w roku 607": 42,
+        "rok urodzenia": 565,
         "wzrost": "174 cm",
         "ród": "Montes",
+        "pozycja": "głowa rodu Montes",
         "małżonka": "Solveig Montes"
       },
       "tags": [
         "Montes",
-        "arystokracja"
+        "ród Montes",
+        "arystokracja",
+        "głowa rodu"
       ],
       "status": "PUBLISHED"
     },
@@ -54,14 +59,17 @@
       "description": "Solveig Montes urodziła się w roku 569 jako Solveig voniz Hagrald. Pochodziła z niższej arystokracji wasalnej podlegającej rodowi Montes. Gdy miała 16 lat, po jednym z arystokratycznych bankietów zaszła w ciążę z dwudziestoletnim wówczas Natanielem Montes. Ich syn Alaric był nieplanowanym dzieckiem, a sytuacja wywołała wielki skandal, ponieważ Solveig należała do niższej warstwy wasalnej określanej tytułem voniz, a nie do wyższej arystokracji von. Małżeństwo zostało zawarte początkowo przede wszystkim z powodu odpowiedzialności i presji dynastycznej, lecz z czasem przerodziło się w bardzo szczęśliwy i trwały związek.",
       "infobox": {
         "wiek w roku 607": 38,
+        "rok urodzenia": 569,
         "nazwisko rodowe": "voniz Hagrald",
-        "ród": "Montes"
+        "ród": "Montes",
+        "małżonek": "Nataniel Montes"
       },
       "aliases": [
         "Solveig voniz Hagrald"
       ],
       "tags": [
         "Montes",
+        "ród Montes",
         "Hagrald",
         "arystokracja"
       ],
@@ -73,17 +81,37 @@
       "lastName": "Montes",
       "birthYear": 585,
       "deathYear": null,
-      "summary": "Najstarszy syn Nataniela i Solveig Montes oraz dziedzic rodu.",
-      "description": "Alaric Montes urodził się w roku 585. Jest najstarszym synem Nataniela i Solveig Montes oraz dziedzicem rodu. Jego narodziny były następstwem nieplanowanej ciąży Solveig i stały się początkiem wielkiego skandalu dynastycznego wokół przyszłej głowy rodu Montes. Ma charakterystyczne śnieżnobiałe włosy rodu.",
+      "summary": "Dwudziestodwuletni dziedzic rodu Montes. Inteligentny i spokojny poliglota władający dziesięcioma językami, bliski przyjaciel Michała de la Cruz i bez wzajemności zakochany w Vivian Berrani.",
+      "description": "Alaric Montes urodził się w roku 585 jako pierwsze dziecko Nataniela Montes i Solveig voniz Hagrald. W roku 607 ma 22 lata. Jest najstarszym synem obecnej głowy rodu Montes i dziedzicem jednego z Wielkich Rodów Imperium Technokratycznego. Jego przyszłość od dzieciństwa pozostaje silnie związana z odpowiedzialnością za ród, jego majątek, pozycję polityczną oraz interesy w prowincji Montes.\n\nOkoliczności narodzin Alarica miały ogromne znaczenie dla historii jego rodziny. Nataniel miał 20 lat, a Solveig 16, kiedy po jednym z arystokratycznych bankietów spędzili razem noc. Ciąża Solveig była całkowicie nieplanowana. Dodatkowym źródłem skandalu było jej pochodzenie z rodu Hagrald, należącego do niższej arystokracji wasalnej określanej mianem voniz. Narodziny przyszłego dziedzica rodu Montes z takiego związku wywołały ogromne poruszenie w środowisku arystokratycznym. Małżeństwo jego rodziców zostało początkowo zawarte przede wszystkim z poczucia odpowiedzialności oraz pod wpływem presji dynastycznej, lecz z czasem przerodziło się w autentycznie szczęśliwy związek.\n\nAlaric odziedziczył naturalnie śnieżnobiałe włosy charakterystyczne dla biologicznych członków rodu Montes. Jest niskim i bardzo szczupłym mężczyzną o wąskiej sylwetce i niewielkiej masie mięśniowej. Nie jest powszechnie uważany za szczególnie przystojnego. Jego twarz jest raczej zwyczajna, a sylwetka fizycznie mało imponująca. Już w wieku 22 lat widoczne są u niego pierwsze oznaki przerzedzania się włosów i cofania linii włosów, co stanowi dla niego źródło pewnej niepewności. Dzięki ogromnym możliwościom finansowym rodu korzysta jednak z najlepszej dostępnej pielęgnacji, medycyny i sposobów dbania o wygląd.\n\nFizyczna niepozorność Alarica kontrastuje z jego pozycją społeczną. Jako przyszła głowa rodu Montes należy do najważniejszych młodych arystokratów swojego pokolenia. Jego znaczenie nie wynika z wyglądu czy fizycznej dominacji, lecz z nazwiska, przyszłego urzędu, wykształcenia, inteligencji i pozycji rodu, który pewnego dnia ma reprezentować.\n\nAlaric jest człowiekiem spokojnym, obserwującym otoczenie i skłonnym do analizy sytuacji przed podjęciem decyzji. Nie należy do osób próbujących dominować nad rozmową poprzez głośność lub ostentacyjne zachowanie. Znacznie częściej słucha, obserwuje i dopiero później formułuje własne stanowisko. W dzieciństwie i wczesnej młodości był przy tym wyraźnie nieśmiały. Z wiekiem oraz wraz z przygotowywaniem go do roli przyszłej głowy rodu nabrał większej pewności siebie, ale nadal zachował spokojny i raczej introwertyczny sposób bycia.\n\nPod względem intelektualnym Alaric należy do najbardziej utalentowanych młodych członków rodu Montes. Posługuje się płynnie dziesięcioma językami. Pod tym względem niemal dorównuje swojej młodszej siostrze Sigrid, która zna jedenaście. Oboje posiadają wyjątkowe zdolności językowe znacznie przekraczające poziom typowy nawet dla bardzo dobrze wykształconej imperialnej arystokracji. Dla Alarica wielojęzyczność ma również praktyczne znaczenie, ponieważ jako przyszła głowa Wielkiego Rodu będzie prowadził rozmowy z przedstawicielami różnych prowincji, arystokracji, administracji i imperialnych instytucji.\n\nJedną z najważniejszych relacji Alarica poza własną rodziną jest jego wieloletnia i bardzo bliska przyjaźń z Michałem de la Cruz. Alaric i Michał są rówieśnikami. Poznali się jeszcze podczas wspólnej nauki w prestiżowej Szkole im. Izabeli de la Cruz, na długo przed wejściem w dorosłe życie i przejęciem obowiązków wynikających z ich nazwisk oraz pozycji rodzinnych.\n\nW czasach szkolnych Alaric był znacznie bardziej nieśmiały niż obecnie. Był spokojnym, małomównym chłopakiem, który nie nawiązywał łatwo nowych znajomości. Przyjaźń z Michałem rozwijała się stopniowo, ale okazała się niezwykle trwała. Wspólne lata szkolne stworzyły między nimi więź, która przetrwała późniejsze zmiany w ich życiu i rosnącą odpowiedzialność obu młodych mężczyzn.\n\nZ czasem Michał stał się jednym z najbliższych przyjaciół Alarica, a Alaric jedną z osób, którym Michał ufa najbardziej. Ich relacja jest szczególna również dlatego, że obaj pochodzą ze szczytu imperialnej hierarchii. Alaric jest dziedzicem rodu Montes, natomiast Michał należy do dynastii de la Cruz. W prywatnych kontaktach potrafią jednak odsunąć na bok politykę, tytuły i znaczenie swoich nazwisk. Ich przyjaźń powstała jeszcze w czasach szkolnych i nie jest rezultatem późniejszego politycznego sojuszu rodzin.\n\nNajbardziej wymownym przykładem zaufania Michała do Alarica jest sprawa jego uczuć wobec Sophie Delan. Alaric należy do bardzo niewielkiego grona osób, które wiedzą, co Michał de la Cruz naprawdę czuje do Sophie. Wiedza ta nie pochodzi z arystokratycznych plotek ani politycznych spekulacji. Michał powierzył mu swoje uczucia jako bliskiemu przyjacielowi.\n\nAlaric traktuje tę wiedzę jako prywatny sekret Michała. Nie wykorzystuje jej politycznie i nie przekazuje jej dalej, mimo że informacja dotycząca uczuć członka dynastii de la Cruz wobec dziedziczki rodu Delan mogłaby stać się niezwykle interesującym tematem dla imperialnej arystokracji. Dyskrecja Alarica jest jednym z powodów, dla których Michał może mu ufać w sprawach, o których nie rozmawia z większością swojego otoczenia.\n\nAlaric potrafi również bardzo dobrze rozumieć emocjonalną sytuację przyjaciela, ponieważ sam jest głęboko zakochany w Vivian Berrani, młodszej od niego o pięć lat córce następcy głowy rodu Berrani. W roku 607 Alaric ma 22 lata, natomiast Vivian 17. Jego uczucie do niej jest niezwykle silne i stanowi jedną z nielicznych dziedzin życia, w których jego zwyczajny spokój oraz analityczne podejście wyraźnie ustępują emocjom.\n\nUczucie Alarica pozostaje jednak jednostronne. Vivian Berrani nie odwzajemnia jego miłości. Dla Alarica jest to szczególnie trudne, ponieważ jako dziedzic Montesów nie cierpi na brak zainteresowania ze strony potencjalnych partnerek. Zdaje sobie jednak sprawę, że wiele z nich może interesować przede wszystkim jego nazwisko, przyszła pozycja głowy rodu i ogromny majątek Montesów. Żadna z nich nie ma dla niego znaczenia porównywalnego z Vivian.\n\nParadoksalnie właśnie brak zainteresowania Vivian sprawia, że Alaric nie musi zastanawiać się, czy dziewczyna próbuje zbliżyć się do niego ze względu na nazwisko Montes. Vivian nie udaje uczuć, których nie ma, nawet wobec jednego z najważniejszych młodych dziedziców Imperium. Alaric cierpi z powodu braku wzajemności, ale jednocześnie wie, że jej stosunek do niego jest szczery.\n\nAlaric jest również bardzo silnie związany ze swoim rodzeństwem. Szczególnie charakterystyczna jest jego relacja z Ingrid. Młodsza siostra jest wobec niego niezwykle lojalna i potrafi bardzo gwałtownie reagować, gdy ktoś spoza rodziny kpi z wyglądu Alarica, jego szczupłej sylwetki albo włosów. Sam Alaric podchodzi do własnego wyglądu bardziej spokojnie i potrafi przyznać, że nie należy do szczególnie przystojnych mężczyzn. Nie przeszkadza to Ingrid traktować obrażania brata jako osobistego ataku na rodzinę.\n\nRelacja Alarica z Sigrid opiera się natomiast w dużej mierze na wzajemnym szacunku intelektualnym. Oboje są niezwykle dobrze wykształceni i wielojęzyczni. Ich drogi są jednak odmienne. Sigrid związała swoje życie z prawem i wymiarem sprawiedliwości, podczas gdy Alaric od dzieciństwa przygotowywany jest przede wszystkim do przyszłego przejęcia kierownictwa nad rodem Montes.\n\nW wieku 22 lat Alaric pozostaje postacią pełną kontrastów. Fizycznie jest niepozornym, niskim i bardzo szczupłym młodym mężczyzną, który nie wyróżnia się szczególną urodą. Intelektualnie jest jednak wybitnie wykształconym poliglotą posługującym się dziesięcioma językami, a dynastycznie należy do najważniejszych młodych ludzi Imperium. Jest niezwykle lojalny wobec rodziny i przyjaciół, czego najlepszym przykładem pozostaje jego wieloletnia przyjaźń z Michałem de la Cruz i dyskrecja dotycząca uczuć Michała wobec Sophie Delan. Jednocześnie pod spokojną i analityczną powierzchnią Alarica kryją się bardzo silne emocje, szczególnie widoczne w jego nieodwzajemnionej miłości do Vivian Berrani.",
       "infobox": {
         "wiek w roku 607": 22,
-        "rola": "dziedzic rodu Montes"
+        "rok urodzenia": 585,
+        "ród": "Montes",
+        "rodzice": "Nataniel Montes i Solveig Montes",
+        "pozycja": "dziedzic rodu Montes",
+        "języki": "10 języków, wszystkie na poziomie płynnym",
+        "charakter": "spokojny, analityczny, inteligentny, lojalny, w młodości bardzo nieśmiały",
+        "wygląd": "niski, bardzo szczupły, śnieżnobiałe przerzedzające się włosy, przeciętna uroda",
+        "najbliższy przyjaciel": "Michał de la Cruz",
+        "początek przyjaźni z Michałem": "czasy nauki w Szkole im. Izabeli de la Cruz",
+        "sekret Michała": "jedna z niewielu osób znających prawdziwe uczucia Michała de la Cruz wobec Sophie Delan",
+        "uczucia": "głęboko zakochany w Vivian Berrani",
+        "status uczucia": "nieodwzajemnione",
+        "Vivian Berrani": "córka następcy głowy rodu Berrani, młodsza od Alarica o 5 lat; nie odwzajemnia jego uczuć"
       },
       "tags": [
         "Montes",
-        "dziedzic"
+        "ród Montes",
+        "arystokracja",
+        "dziedzic",
+        "poliglota",
+        "Michał de la Cruz",
+        "Sophie Delan",
+        "Vivian Berrani",
+        "Szkoła im. Izabeli de la Cruz"
       ],
-      "status": "PUBLISHED"
+      "status": "PUBLISHED",
+      "changeNote": "Utrwalenie pełnej biografii Alarica Montes"
     },
     {
       "slug": "sigrid-montes",
@@ -91,21 +119,37 @@
       "lastName": "Montes",
       "birthYear": 587,
       "deathYear": null,
-      "summary": "Prokurator Generalny prowincji Montes, pracuje również w Sądzie Imperialnym.",
-      "description": "Sigrid Montes urodziła się w roku 587. Ma około 165 cm wzrostu i śnieżnobiałe włosy charakterystyczne dla rodu Montes. Mimo młodego wieku pełni funkcję Prokuratora Generalnego prowincji Montes, a równocześnie pracuje w Sądzie Imperialnym, co czyni ją jedną z najwyżej postawionych młodych prawniczek w Imperium.",
+      "summary": "Dwudziestoletnia córka Nataniela i Solveig Montes, Prokurator Generalny prowincji Montes i prawniczka związana z Sądem Imperialnym. Wybitnie uzdolniona absolwentka Uniwersytetu Michalusa, władająca jedenastoma językami i znana jako główna oskarżycielka w procesie Antonia.",
+      "description": "Sigrid Montes urodziła się w roku 587 jako drugie dziecko Nataniela i Solveig Montes. W roku 607 ma 20 lat. Jest starszą córką obecnej głowy rodu Montes i należy do najmłodszego pokolenia jednego z Wielkich Rodów Imperium Technokratycznego. Ma około 165 cm wzrostu i naturalnie śnieżnobiałe włosy charakterystyczne dla biologicznych członków rodu Montes.\n\nSigrid nie jest powszechnie uważana za szczególną piękność i sama nigdy nie budowała swojej pozycji na wyglądzie. Jej największą siłą jest intelekt. Od bardzo młodego wieku wyróżniała się wyjątkowymi zdolnościami analitycznymi, znakomitą pamięcią, ogromną dyscypliną, zdolnościami językowymi oraz łatwością przyswajania skomplikowanych zagadnień. Jest osobą niezwykle poważną, metodyczną i wymagającą przede wszystkim wobec samej siebie. Już jako nastolatka wykazywała szczególne zainteresowanie prawem, procedurą oraz funkcjonowaniem imperialnych instytucji państwowych.\n\nJej ponadprzeciętne zdolności szczególnie wyraźnie ujawniły się podczas edukacji. Sigrid została przyjęta na prestiżowy Uniwersytet Michalusa w wieku zaledwie 15 lat, czyli około czterech lat wcześniej, niż przewidywała standardowa ścieżka edukacyjna. Rozpoczynając studia, znalazła się w środowisku akademickim złożonym przede wszystkim z osób wyraźnie starszych od siebie. Nie otrzymała jednak uproszczonego programu przeznaczonego dla młodszej studentki i realizowała wymagania akademickie właściwe pozostałym studentom.\n\nSigrid ukończyła Uniwersytet Michalusa już w wieku 17 lat. Oznaczało to zakończenie studiów w wieku, w którym większość jej rówieśników nie rozpoczęła jeszcze edukacji uniwersyteckiej. Jej przyjęcie na uniwersytet w wieku 15 lat i ukończenie go zaledwie dwa lata później stało się jednym z pierwszych szerzej znanych dowodów jej wyjątkowych możliwości intelektualnych.\n\nPochodzenie z rodu Montes niewątpliwie zapewniło Sigrid dostęp do najlepszej edukacji, prywatnych nauczycieli, bibliotek i możliwości rozwoju dostępnych w Imperium. Samo nazwisko nie tłumaczy jednak tempa jej edukacji. W rodzinie już znacznie wcześniej dostrzegano, że standardowy program nauczania jest dla niej niewystarczający. Przyspieszenie edukacji było przede wszystkim odpowiedzią na jej rzeczywiste zdolności i tempo przyswajania wiedzy.\n\nJednym z najbardziej charakterystycznych przejawów intelektu Sigrid są jej zdolności językowe. W wieku 20 lat posługuje się jedenastoma językami. Imperial Latin oraz Montes należą do podstawowych języków jej środowiska rodzinnego, edukacyjnego i arystokratycznego, natomiast kolejnych języków nauczyła się podczas intensywnej edukacji. Jej wielojęzyczność nie jest traktowana przez nią jako towarzyska ciekawostka ani sposób imponowania innym. Sigrid postrzega języki przede wszystkim jako narzędzia umożliwiające dostęp do wiedzy, prawa, dokumentów oraz ludzi pochodzących z różnych części Imperium.\n\nZnajomość jedenastu języków ma szczególne znaczenie w jej pracy zawodowej. Pozwala Sigrid pracować z dokumentami, zeznaniami, materiałami dowodowymi i literaturą prawniczą powstałą w różnych częściach Imperium bez ciągłego polegania na tłumaczach. Jest to szczególnie użyteczne w sprawach związanych z Sądem Imperialnym, którego działalność wykracza poza granice jednej prowincji. Zdolności językowe, pamięć i umiejętność szybkiej analizy dużej ilości informacji należą do jej największych zawodowych atutów.\n\nPo ukończeniu Uniwersytetu Michalusa Sigrid rozpoczęła niezwykle szybką karierę prawniczą. W roku 607, mając zaledwie 20 lat, pełni funkcję Prokuratora Generalnego prowincji Montes. Równocześnie jest zawodowo związana z Sądem Imperialnym. Tak wysoka pozycja w jej wieku jest niezwykła nawet według standardów imperialnej arystokracji. Jej pochodzenie zapewniło jej możliwości, do których większość mieszkańców Imperium nie miałaby dostępu, jednak utrzymanie tak wysokiej pozycji wymaga od niej rzeczywistych kompetencji i rezultatów.\n\nJednym z najważniejszych wydarzeń w dotychczasowej karierze Sigrid była sprawa Antonia. Miała ona dla niej również bardzo osobisty charakter. Jeszcze przed rozpoczęciem postępowania, podczas jednego z wydarzeń towarzyskich, Antonio próbował wykorzystać również Sigrid. Doświadczenie to sprawiło, że późniejsza sprawa nie była dla niej wyłącznie kolejnym postępowaniem zawodowym.\n\nMimo osobistego związku ze sprawą Sigrid nie chciała, aby postępowanie przeciwko Antoniowi zostało przedstawione jako prywatna zemsta członkini rodu Montes. Kiedy stanęła przed sądem jako główna oskarżycielka, koncentrowała się na materiale dowodowym, zeznaniach, procedurze i prawnej odpowiedzialności oskarżonego. Zależało jej na tym, aby ewentualne skazanie wynikało z udowodnionych czynów Antonia, a nie z potęgi nazwiska Montes.\n\nSigrid jako główna oskarżycielka odpowiadała za prowadzenie oskarżenia, przedstawienie materiału dowodowego oraz argumentacji przed sądem. Postępowanie zakończyło się skazaniem Antonia. Proces stał się jednym z najbardziej znanych wydarzeń w bardzo młodej karierze Sigrid, a zainteresowanie opinii publicznej dodatkowo zwiększał fakt, że główna oskarżycielka sama wcześniej znalazła się w sytuacji, w której Antonio próbował ją wykorzystać.\n\nSprawa Antonia miała duże znaczenie dla reputacji Sigrid. Pokazała, że mimo osobistego zaangażowania potrafi prowadzić postępowanie w sposób metodyczny i skoncentrowany na prawie. Jednocześnie doświadczenie to jeszcze bardziej umocniło jej przekonanie, że prawo powinno chronić ludzi niezależnie od pozycji społecznej sprawcy i że instytucje wymiaru sprawiedliwości nie mogą ustępować przed wpływami, nazwiskiem ani majątkiem oskarżonego.\n\nW życiu prywatnym Sigrid pozostaje bardzo silnie związana z rodziną, choć okazuje uczucia znacznie mniej spontanicznie niż jej młodsza siostra Ingrid. Jest lojalna wobec rodziców i rodzeństwa oraz bardzo poważnie traktuje obowiązki wynikające z przynależności do rodu Montes. Nie jest jednak dziedziczką rodu. Ta odpowiedzialność spoczywa na jej starszym bracie Alaricu, dzięki czemu Sigrid mogła skoncentrować swoje ambicje na prawie i imperialnym wymiarze sprawiedliwości.\n\nRelacja Sigrid z Ingrid jest bliska, ale pełna kontrastów. Ingrid uważa starszą siostrę za zdecydowanie zbyt poważną i często nie rozumie, dlaczego Sigrid podporządkowuje tak dużą część swojego życia pracy, prawu i obowiązkom. Sigrid z kolei uważa Ingrid za znacznie bardziej impulsywną, zadziorną i skłonną do działania pod wpływem chwili. Różnice te prowadzą do drobnych sporów i wzajemnego drażnienia się, ale nie osłabiają ich rodzinnej lojalności.\n\nSigrid prowadzi życie znacznie bardziej uporządkowane niż większość osób w jej wieku. Jej pozycja nie wynika z urody ani szczególnej charyzmy towarzyskiej. Jej siłą pozostają wiedza, pamięć, inteligencja, języki, samodyscyplina i niezwykła zdolność koncentracji. W wieku zaledwie 20 lat ma za sobą ukończenie Uniwersytetu Michalusa, posługuje się jedenastoma językami, pełni funkcję Prokuratora Generalnego prowincji Montes, pracuje przy Sądzie Imperialnym i ma na koncie prowadzenie głośnego oskarżenia zakończonego skazaniem Antonia.",
       "infobox": {
         "wiek w roku 607": 20,
+        "rok urodzenia": 587,
         "wzrost": "165 cm",
+        "ród": "Montes",
+        "rodzice": "Nataniel Montes i Solveig Montes",
         "stanowisko": "Prokurator Generalny prowincji Montes",
-        "dodatkowa funkcja": "pracownik Sądu Imperialnego"
+        "dodatkowa funkcja": "związana zawodowo z Sądem Imperialnym",
+        "wykształcenie": "Uniwersytet Michalusa",
+        "wiek rozpoczęcia studiów": "15 lat",
+        "wiek ukończenia studiów": "17 lat",
+        "przyspieszenie edukacji": "przyjęta na uniwersytet około 4 lata wcześniej niż standardowo",
+        "języki": "11 języków",
+        "ważna sprawa": "główna oskarżycielka w procesie Antonia zakończonym jego skazaniem",
+        "cechy": "wyjątkowo inteligentna, analityczna, zdyscyplinowana, poważna, opanowana i pracowita"
       },
       "tags": [
         "Montes",
+        "ród Montes",
+        "arystokracja",
         "prawo",
+        "prokuratura",
         "Sąd Imperialny",
-        "prokuratura"
+        "Uniwersytet Michalusa",
+        "poliglota",
+        "Antonio"
       ],
-      "status": "PUBLISHED"
+      "status": "PUBLISHED",
+      "changeNote": "Utrwalenie pełnej biografii Sigrid Montes"
     },
     {
       "slug": "ingrid-montes",
@@ -113,17 +157,34 @@
       "lastName": "Montes",
       "birthYear": 591,
       "deathYear": null,
-      "summary": "Druga córka Nataniela i Solveig Montes, wyróżniająca się niezwykle jasną cerą i śnieżnobiałymi włosami.",
-      "description": "Ingrid Montes urodziła się w roku 591. Ma około 155 cm wzrostu i wyróżnia się nawet na tle własnego rodu wyjątkowo jasną, niemal porcelanowobiałą cerą oraz naturalnie śnieżnobiałymi włosami. Jej wygląd bywa opisywany jako jeden z najbardziej wyrazistych przykładów charakterystycznych cech fizycznych rodu Montes.",
+      "summary": "Szesnastoletnia córka Nataniela i Solveig Montes, uczennica elitarnej Szkoły im. Izabeli de la Cruz w Złotym Mieście. Inteligentna, zadziorna, ciekawa świata i władająca ośmioma językami.",
+      "description": "Ingrid Montes urodziła się w roku 591 jako trzecie dziecko Nataniela i Solveig Montes. W roku 607 ma 16 lat. Jest drugą córką obecnej głowy rodu Montes i należy do najmłodszego pokolenia jednego z Wielkich Rodów Imperium Technokratycznego. Ma około 155 cm wzrostu, niezwykle jasną, niemal porcelanowobiałą cerę oraz naturalnie śnieżnobiałe włosy charakterystyczne dla biologicznych członków rodu Montes. Jest powszechnie uważana za wyjątkowo piękną młodą kobietę i wyróżnia się nawet na tle własnej rodziny.\n\nObecnie Ingrid kształci się w elitarnej Szkole im. Izabeli de la Cruz w Cita De la Luce. Szkoła znajduje się w Złotym Mieście, prestiżowej dzielnicy związanej z najwyższymi warstwami imperialnej elity. Podczas nauki Ingrid mieszka w należącej do rodu Montes rezydencji znajdującej się w Złotym Mieście.\n\nIngrid jest bardzo inteligentna i wyjątkowo ciekawa świata. Ta ciekawość znajduje odzwierciedlenie również w jej zdolnościach językowych. W wieku 16 lat posługuje się ośmioma językami. Nie osiąga jeszcze poziomu starszego rodzeństwa, ponieważ Sigrid zna jedenaście języków, a Alaric dziesięć, jednak jak na swój wiek Ingrid również wyróżnia się pod tym względem bardzo mocno. Jej znajomość języków nie wynika wyłącznie z obowiązkowej edukacji arystokratycznej. Ingrid autentycznie interesują inne prowincje, kultury i ludzie, dlatego nauka języków dobrze odpowiada jej naturalnej ciekawości świata.\n\nW przeciwieństwie do Sigrid, która traktuje języki przede wszystkim jako narzędzie pracy prawniczej i dostępu do dokumentów, Ingrid podchodzi do nich znacznie bardziej spontanicznie. Interesuje ją możliwość bezpośredniej rozmowy z ludźmi, rozumienia ich sposobu myślenia oraz poznawania świata poza zamkniętym środowiskiem wielkiej arystokracji. Jej zdolności językowe są więc jednym z przejawów zarówno inteligencji, jak i bardzo silnej ciekawości świata.\n\nIngrid ma wyraźnie zadziorny charakter. Jest uparta, pewna własnego zdania, bardzo szybka w odpowiedziach i niełatwo ją onieśmielić. Nie lubi, gdy inni próbują narzucać jej sposób myślenia wyłącznie ze względu na wiek, stanowisko albo pozycję społeczną. Jednocześnie nie jest osobą bezmyślnie buntowniczą. Potrafi szybko analizować sytuację i bardzo dobrze rozumie otaczające ją relacje społeczne.\n\nJedną z jej najmocniejszych cech jest lojalność wobec rodziny. Szczególnie bliska pozostaje jej relacja ze starszym bratem Alarikiem. Ingrid potrafi bardzo ostro reagować, kiedy osoba spoza rodziny obraża Alarica, wyśmiewa jego wygląd, szczupłą sylwetkę albo problemy z włosami. Sama może się z nim droczyć, ale zupełnie inaczej traktuje rodzinne przekomarzanie niż atak kogoś obcego.\n\nJej relacja ze starszą siostrą Sigrid jest bardziej kontrastowa. Ingrid kocha siostrę i pozostaje wobec niej lojalna, ale uważa ją za zdecydowanie zbyt poważną. Nie zawsze rozumie, dlaczego Sigrid podporządkowuje tak dużą część życia pracy, prawu i obowiązkom. Sigrid z kolei uważa Ingrid za bardziej impulsywną i zadziorną. Mimo różnic obie pozostają ze sobą blisko związane.\n\nIngrid wzbudza ogromne zainteresowanie wśród młodych mężczyzn należących do imperialnej arystokracji i elit. Liczbą adoratorów może dorównywać Sophie Delan. Przed jednym z ostatnich wielkich bali otrzymała około stu zaproszeń od młodych arystokratów zainteresowanych wspólnym pojawieniem się na wydarzeniu. Nie przyjęła żadnego z nich.\n\nObecnie Ingrid nie jest zakochana w żadnym chłopaku. Ogromna liczba adoratorów nie robi na niej szczególnego wrażenia i nie czuje potrzeby wyboru partnera tylko dlatego, że otoczenie tego oczekuje. Zdaje sobie również sprawę, że część zainteresowania wynika nie tylko z jej urody, ale także z nazwiska Montes i pozycji jej ojca.\n\nNa obecnym etapie życia znacznie bardziej interesuje ją edukacja, poznawanie świata i rozwijanie własnych zainteresowań niż wejście w poważny związek. Choć nie ma jeszcze równie jasno wyznaczonej drogi jak Alaric czy Sigrid, jej inteligencja, znajomość ośmiu języków, ciekawość świata i silny charakter sprawiają, że zdecydowanie nie pozostaje w cieniu starszego rodzeństwa.",
       "infobox": {
         "wiek w roku 607": 16,
+        "rok urodzenia": 591,
         "wzrost": "155 cm",
-        "cechy": "niezwykle jasna cera, śnieżnobiałe włosy"
+        "ród": "Montes",
+        "rodzice": "Nataniel Montes i Solveig Montes",
+        "miejsce nauki": "Szkoła im. Izabeli de la Cruz",
+        "miasto": "Cita De la Luce",
+        "dzielnica": "Złote Miasto",
+        "miejsce zamieszkania": "rezydencja rodu Montes w Złotym Mieście",
+        "języki": "8 języków",
+        "charakter": "inteligentna, zadziorna, ciekawa świata, uparta, lojalna wobec rodziny",
+        "status związku": "nie jest obecnie zakochana ani związana",
+        "życie towarzyskie": "bardzo liczni adoratorzy; przed jednym z ostatnich bali otrzymała około 100 zaproszeń"
       },
       "tags": [
-        "Montes"
+        "Montes",
+        "ród Montes",
+        "arystokracja",
+        "poliglota",
+        "Cita De la Luce",
+        "Złote Miasto",
+        "Szkoła im. Izabeli de la Cruz"
       ],
-      "status": "PUBLISHED"
+      "status": "PUBLISHED",
+      "changeNote": "Utrwalenie pełnej biografii Ingrid Montes"
     },
     {
       "slug": "astrid-montes",
@@ -132,12 +193,17 @@
       "birthYear": 604,
       "deathYear": null,
       "summary": "Najmłodsza córka Nataniela i Solveig Montes.",
-      "description": "Astrid Montes urodziła się w roku 604. Jest najmłodszym dzieckiem Nataniela i Solveig Montes. Od urodzenia ma naturalnie śnieżnobiałe włosy charakterystyczne dla biologicznych członków rodu Montes.",
+      "description": "Astrid Montes urodziła się w roku 604. W roku 607 ma dokładnie 3 lata. Jest najmłodszym dzieckiem Nataniela i Solveig Montes. Od urodzenia ma naturalnie śnieżnobiałe włosy charakterystyczne dla biologicznych członków rodu Montes.",
       "infobox": {
-        "wiek w roku 607": 3
+        "wiek w roku 607": 3,
+        "rok urodzenia": 604,
+        "ród": "Montes",
+        "rodzice": "Nataniel Montes i Solveig Montes"
       },
       "tags": [
-        "Montes"
+        "Montes",
+        "ród Montes",
+        "arystokracja"
       ],
       "status": "PUBLISHED"
     }
@@ -149,7 +215,6 @@
       "type": "spouse",
       "description": "Małżeństwo rozpoczęte po skandalu związanym z narodzinami Alarica; obecnie wyjątkowo udany związek."
     },
-
     {
       "source": "alaric-montes",
       "target": "nataniel-montes",
@@ -160,7 +225,6 @@
       "target": "solveig-montes",
       "type": "mother"
     },
-
     {
       "source": "sigrid-montes",
       "target": "nataniel-montes",
@@ -171,7 +235,6 @@
       "target": "solveig-montes",
       "type": "mother"
     },
-
     {
       "source": "ingrid-montes",
       "target": "nataniel-montes",
@@ -182,7 +245,6 @@
       "target": "solveig-montes",
       "type": "mother"
     },
-
     {
       "source": "astrid-montes",
       "target": "nataniel-montes",
@@ -193,7 +255,6 @@
       "target": "solveig-montes",
       "type": "mother"
     },
-
     {
       "source": "alaric-montes",
       "target": "sigrid-montes",
