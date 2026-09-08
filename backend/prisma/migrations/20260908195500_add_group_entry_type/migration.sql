@@ -1,0 +1,1 @@
+ALTER TYPE "EntryType" ADD VALUE 'GROUP';

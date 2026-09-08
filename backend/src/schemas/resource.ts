@@ -83,6 +83,7 @@ const resourceCollections = {
   provinces: z.array(resourceInputSchema).optional().default([]),
   cities: z.array(resourceInputSchema).optional().default([]),
   families: z.array(resourceInputSchema).optional().default([]),
+  groups: z.array(resourceInputSchema).optional().default([]),
   dynasties: z.array(resourceInputSchema).optional().default([]),
   languages: z.array(resourceInputSchema).optional().default([]),
   companies: z.array(resourceInputSchema).optional().default([]),
