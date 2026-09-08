@@ -8,6 +8,7 @@ export const entryTypeLabels: Record<EntryType, string> = {
   COMPANY: "Firma",
   EVENT: "Wydarzenie",
   HOUSE: "Ród",
+  GROUP: "Grupa",
   INSTITUTION: "Instytucja",
   UNIVERSITY: "Uczelnia",
   TECHNOLOGY: "Technologia",
