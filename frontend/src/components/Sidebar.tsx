@@ -10,6 +10,7 @@ const navigation = [
   { label: "Postacie", to: "/postacie", icon: Users },
   { label: "Dynastia de la Cruz", to: "/dynastia", icon: Crown },
   { label: "Wielkie rody", to: "/katalog/HOUSE", icon: Castle },
+  { label: "Grupy Wielkich Rodów", to: "/katalog/GROUP", icon: Users },
   { label: "Prowincje", to: "/prowincje", icon: Map },
   { label: "Miasta", to: "/katalog/CITY", icon: Building2 },
   { label: "Języki", to: "/jezyki", icon: Languages },
