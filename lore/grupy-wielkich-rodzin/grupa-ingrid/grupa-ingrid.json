@@ -1,0 +1,22 @@
+{
+  "mode": "upsert",
+  "groups": [
+    {
+      "slug": "grupa-ingrid",
+      "name": "Grupa Ingrid",
+      "summary": "Paczka czterech 16-letnich uczennic Szkoły im. Izabeli de la Cruz w Złotym Mieście w Cita de la Luce.",
+      "content": "Grupa Ingrid to bliska paczka szkolna Ingrid Montes, Flory de la Finesis, Aurelii de la Torres i Hanny Von Rizbent. Wszystkie należą do bardzo wysokich warstw Imperium, choć Ingrid jako córka głowy Wielkiego Rodu Montes ma najwyższy status formalny. Dziewczyny uczą się w elitarnej Szkole im. Izabeli de la Cruz w Cita de la Luce. W prywatnych relacjach różnice statusu mają dla nich znacznie mniejsze znaczenie niż dla świata zewnętrznego. Szczegółowy kanon grupy jest utrzymywany w pliku grupa-ingrid.yaml.",
+      "tags": ["grupa", "Wielkie Rody", "Montes", "szkoła", "Ldei", "rok 607"],
+      "infobox": {
+        "rok": 607,
+        "szkoła": "Szkoła im. Izabeli de la Cruz",
+        "lokalizacja": "Złote Miasto, Cita de la Luce, Ldei",
+        "liczba członkiń": 4,
+        "członkinie": "Ingrid Montes, Flora de la Finesis, Aurelia de la Torres, Hanna Von Rizbent"
+      },
+      "status": "PUBLISHED",
+      "isFeatured": true,
+      "changeNote": "Dodanie Grupy Ingrid jako wpisu GROUP"
+    }
+  ]
+}
