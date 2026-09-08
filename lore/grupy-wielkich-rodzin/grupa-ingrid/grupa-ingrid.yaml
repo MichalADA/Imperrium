@@ -1,0 +1,195 @@
+id: grupa_ingrid
+nazwa: Grupa Ingrid
+typ: grupa_towarzyska_uczennic
+kategoria_wiki: grupy_wielkich_rodzin
+rok: 607
+opis: Paczka czterech 16-letnich uczennic Szkoły im. Izabeli de la Cruz w Złotym Mieście w Cita de la Luce. Wszystkie pochodzą
+  z bardzo wysokich warstw Imperium, ale Ingrid Montes ma zdecydowanie najwyższy status formalny jako córka głowy Wielkiego
+  Rodu Montes i jedyna dziewczyna z właściwego Wielkiego Rodu w swoim roczniku.
+szkola:
+  nazwa: Szkoła im. Izabeli de la Cruz
+  typ: elitarna szkoła dla dziewcząt
+  wiek_uczennic: 14-19
+  lokalizacja:
+    miasto: Cita de la Luce
+    dzielnica: Złote Miasto
+    prowincja: Ldei
+  charakter:
+  - szkoła przeznaczona przede wszystkim dla córek arystokracji, najwyższych urzędników, wojskowych i najbogatszych rodzin
+  - około 90 dziewcząt na rocznik
+  - zwykle tylko 1-2 miejsca stypendialne dla wybitnych osób spoza elit
+  - ostatni rok 18-19 jest rokiem egzaminów na studia
+  - uczennice używają zaawansowanych imperialnych tabletów zamiast książek
+  mundurki:
+    szycie: indywidualnie na miarę przez szkolnego krawca
+    koszt_jednego: 30 000-50 000 orenów
+    typowa_liczba: 2-3 komplety
+    uwagi: Mundurki są bardzo kosztowne i często trzeba je wymieniać, ponieważ uczennice rosną. Sam koszt garderoby jest jednym
+      z nieformalnych filtrów ekonomicznych szkoły.
+  wydarzenia:
+    bal_po_semestrze:
+      opis: Po zakończeniu semestru organizowany jest wspólny bal Szkoły im. Izabeli de la Cruz i męskiej Szkoły im. Octaviana
+        Wielkiego.
+      alkohol: zakazany uczniom; zasady szkoły elit są przestrzegane
+czlonkinie:
+- id: ingrid_montes
+  nazwa: Ingrid Montes
+  wiek: 16
+  status: córka głowy Wielkiego Rodu Montes
+  pochodzenie:
+    rod: Montes
+    pozycja: główna linia
+    uwaga: W swoim żeńskim roczniku jest jedyną uczennicą należącą formalnie do właściwego Wielkiego Rodu. W szkołach mogą
+      uczyć się osoby z dalszych linii, np. MontesLi, ale nie są one formalnie członkami Wielkiego Rodu.
+  wyglad:
+    cecha_rozpoznawcza: śnieżnobiałe włosy charakterystyczne dla rodu Montes
+    wizerunek: Bardzo charakterystyczna, jasna uroda. Nawet gdy próbuje się nie wyróżniać, białe włosy sprawiają, że jest
+      łatwo rozpoznawalna.
+    ubior: Oficjalnie często kojarzona z bielą, ale nie ubiera się wyłącznie w barwy rodu. Jej codzienne i reprezentacyjne
+      stroje są bardzo drogie, często za kilka tysięcy orenów, czego sama nie musi nawet postrzegać jako wysokiej ceny.
+  charakter:
+  - ciepła
+  - spontaniczna
+  - towarzyska
+  - lojalna wobec rodziny
+  - ma dobre serce
+  - nie lubi wyśmiewania słabszych lub osób niepełnosprawnych
+  - potrafi się wygłupiać i wrzucać niepozowane zdjęcia
+  - mimo ogromnego przywileju nie zachowuje się wyniośle
+  uprzywilejowanie:
+    opis: Ingrid nie żyje jak przeciętna nastolatka Imperium. Ma dostęp do rezydencji, służby, ochrony, luksusowego transportu,
+      prywatnych samolotów i helikopterów, choć na co dzień najczęściej korzysta z szybkiej kolei w silnie odseparowanej klasie
+      premium.
+    pieniadze: Nie zna realnej wartości pieniądza w takim stopniu jak zwykli mieszkańcy. Nie jest jednak typem ostentacyjnie
+      rozrzutnym charakterystycznym dla Pecunia nova.
+  mieszkanie_i_podroze:
+    w_czasie_szkoly: Mieszka poza domem rodzinnym, w rezydencji Montesów w Złotym Mieście w Cita de la Luce. Ma tam służbę
+      i ochronę, ale nie ma na co dzień rodziny.
+    dom_rodzinny: prowincja Montes
+    odleglosc: około 730 km od Ldei
+    pociag: około 2 godziny szybkim pociągiem
+    klasa_premium: Silnie odseparowana od zwykłych pasażerów, z kontrolą dostępu i uzbrojoną ochroną; Ingrid dodatkowo może
+      podróżować z ochroną rodu.
+    inne_srodki: prywatny samolot lub helikopter są dostępne, ale używane rzadziej
+  sport:
+    lyzwiarstwo: nie uprawia, co jest nietypowe wśród młodych arystokratek
+    szermierka: uprawia szermierkę, sport tradycyjnie postrzegany jako bardziej męski
+  rodzina:
+    ojciec:
+      rola: głowa rodu Montes
+      relacja: Ingrid jest jego oczkiem w głowie; łatwo jej wybacza i ma do niej wyraźną słabość
+    matka:
+      relacja: Kocha Ingrid, ale wymaga posłuszeństwa, dobrego zachowania i godnego reprezentowania rodu. Bywa zirytowana
+        pobłażliwością ojca.
+    alaric_montes:
+      wiek: 22
+      relacja: Ingrid jest wobec Alarica niezwykle lojalna i bardzo go podziwia. Nie zgadza się z medialną narracją nazywającą
+        go najmniej urodziwym z Montesów. Uważa go za najprzystojniejszego chłopaka, jakiego widziała, i za niezwykle inteligentnego.
+      private_xen: Lubi wrzucać z nim śmieszne, prywatne zdjęcia. Jego komplementy znaczą dla niej dużo więcej niż komentarze
+        adoratorów.
+    sigrid_montes:
+      wiek: 20
+      relacja: Ingrid naprawdę liczy się ze słowem Sigrid i ją podziwia, choć nigdy jej tego wprost nie powiedziała. Sigrid
+        z kolei kocha młodszą siostrę także za jej spontaniczność i 'szaleństwo', choć sama tego nie mówi.
+      edukacja: Sigrid ukończyła Szkołę im. Izabeli de la Cruz w wieku 17 lat, a następnie prawo na Uniwersytecie Michalusa
+        w 3 lata, kończąc studia w wieku 20 lat.
+    astrid_montes:
+      relacja: młodsza siostra; Ingrid lubi wrzucać z nią prywatne, domowe zdjęcia
+  xenprivate:
+    aktywnosc: Jedna z najbardziej aktywnych młodych arystokratek Wielkich Rodów na XenPrivate. Wrzuca nie tylko eleganckie
+      zdjęcia, ale też zwykłe selfie, zdjęcia w dresie, z rodzeństwem, z psem i śmieszne fotografie.
+    profil_publiczny_vs_prywatny: Na publicznym Xen jest przede wszystkim Ingrid Montes, córką głowy rodu. Na XenPrivate pokazuje
+      się znacznie bardziej jak zwykła 16-letnia dziewczyna.
+  relacje_towarzyskie:
+    konstancja_de_la_cruz:
+      typ: prywatna znajomość
+      opis: Ingrid zna Konstancję osobiście i znajduje się w jej bardzo wąskim kręgu na XenPrivate. Konstancja jest starsza
+        od Ingrid. Sigrid ma z Konstancją jeszcze bliższą relację.
+    sophie_delan:
+      typ: znajoma z najwyższych elit
+      opis: Ingrid uważa Sophie za dużo piękniejszą od siebie. Sophie potrafi komentować zdjęcia Ingrid w ciepły i uprzejmy
+        sposób.
+    filip_de_la_marian:
+      typ: adorator
+      opis: Filip jest zakochany w Ingrid, ale ona nie odwzajemnia jego uczuć. Jest przy tym dla niego łagodna i nie pozwala
+        przyjaciółkom wyśmiewać go, także ze względu na jego niepełnosprawność. Nie usuwa go z XenPrivate mimo sugestii koleżanek.
+- id: flora_de_la_finesis
+  nazwa: Flora de la Finesis
+  wiek: 16
+  rodzina:
+    ojciec: właściciel największych winiarni w Imperium
+  status: bardzo wysoka elita gospodarcza, ale formalnie niżej niż Ingrid
+  charakter_roli_w_grupie: Reprezentuje wielki kapitał, luksus, handel i towarzyskie obycie. Jest bliską przyjaciółką Ingrid.
+  relacje:
+    ingrid: jedna z trzech najbliższych szkolnych przyjaciółek Ingrid
+    konstancja: Konstancja może ją znać i kojarzyć z wydarzeń elit, ale Flora nie należy do jej najwęższego prywatnego kręgu.
+- id: aurelia_de_la_torres
+  nazwa: Aurelia de la Torres
+  wiek: 16
+  rodzina:
+    ojciec: Fernando de la Torres
+    ojciec_funkcja: trybun wojskowy / de facto szef sztabu, najwyższy przedstawiciel wojska
+    rod: de la Torres
+    tradycja: ród wojskowy
+    rodzenstwo: jest czwartym dzieckiem; ma trzech starszych braci, którzy już robią kariery wojskowe
+  status: bardzo wysoka elita wojskowa, ale formalnie niżej niż Ingrid
+  przyszlosc: Nie musi iść do wojska, ponieważ trzej starsi bracia już kontynuują wojskową tradycję rodu. Ma realną swobodę
+    wyboru własnej drogi.
+  rodzinne_plany_malzenskie: Fernando de la Torres bardzo chciałby, aby Aurelia związała się z Michałem de la Cruz. Nie uważa
+    różnicy 7 lat za problem i ignoruje fakt, że Michał kocha Sophie Delan.
+  relacje:
+    ingrid: bliska przyjaciółka
+    alaric: Kiedyś podpadła Ingrid, sugerując, że Alaric jest mało urodziwy i żyje w cieniu przystojnego Michała de la Cruz.
+    konstancja: znajomość elit, ale bez bliskiej prywatnej relacji
+- id: hanna_von_rizbent
+  nazwa: Hanna Von Rizbent
+  wiek: 16
+  rodzina:
+    ojciec: gubernator prowincji Montes
+  status: wysoka elita administracyjna, formalnie niżej niż Ingrid
+  charakter_roli_w_grupie: Reprezentuje administrację prowincjonalną. Jest jedną z trzech najbliższych szkolnych przyjaciółek
+    Ingrid.
+  relacje:
+    alaric_montes: Skrycie uważa Alarica za przystojnego, choć uważa, że przy różnicy wieku 16 i 22 lata jest dla niej trochę
+      za stary.
+    konstancja: Konstancja ją zna i kojarzy, ale nie są blisko
+dynamika_grupy:
+  status: Flora, Aurelia i Hanna są córkami bardzo wpływowych ludzi i należą do elity Imperium, ale żadna z nich nie ma statusu
+    porównywalnego z Ingrid jako córką głowy Wielkiego Rodu.
+  prywatnosc: W samej paczce różnice statusu są znacznie mniej ważne niż dla świata zewnętrznego. Dziewczyny traktują Ingrid
+    przede wszystkim jako przyjaciółkę.
+  chlopcy: Wszystkie mają własne sympatie i chłopaków na oku. Na wspólnych balach Szkoły Izabeli i Szkoły Octaviana uwagę
+    chłopców przyciąga cała czwórka, choć Ingrid wyróżnia się szczególnie przez nazwisko i śnieżnobiałe włosy.
+xenprivate_przyklady:
+  zdjecie_z_sigrid:
+    tytul: Takie tam z siostrą ♥️
+    komentarze:
+    - autor: Konstancja de la Cruz
+      tresc_pl: '@SigridMontes uśmiechnij się czasem. Pozdrawiam, K.'
+      widocznosc: wąski prywatny krąg Konstancji; Ingrid widzi komentarz, część jej przyjaciółek nie
+    - autor: Ingrid Montes
+      odpowiedz_pl: Mówię jej to codziennie, Wasza Wysokość.
+    - autor: Sophie Delan
+      tresc_pl: Pięknie wyglądacie dziewczyny.
+    - autor: Filip de la Marian
+      tresc_pl: Jak zwykle piękna.
+  zdjecie_z_aurelia_na_jachcie:
+    miejsce: Octavia
+    opis: wieczorne zdjęcie w eleganckich sukniach na luksusowym jachcie przy zachodzie słońca
+    komentarze:
+    - autor: Filip de la Marian
+      tresc_pl: Ja powinienem być zamiast Aurelii.
+    - autor: Alaric Montes
+      tresc_pl: Ładnie ci w tych włosach, młoda.
+    - autor: Sigrid Montes
+      tresc_pl: Wyprostuj się.
+uwagi_kanoniczne:
+- Ingrid ma w tym kanonie 16 lat.
+- Sigrid ma 20 lat.
+- Alaric ma 22 lata.
+- Flora, Aurelia i Hanna mają po 16 lat.
+- Szkoła im. Izabeli de la Cruz jest wyłącznie dla dziewcząt.
+- Męskim odpowiednikiem jest Szkoła im. Octaviana Wielkiego.
+- Pierwszy etap edukacji elit to Collegium Primarium Imperiale, wiek 7-14, pod patronatem RNT.
+- Końcówka -Li oznacza dalsze linie Wielkich Rodów po utracie prawa do głównego nazwiska; np. MontesLi.
+- 'Wyjątkiem jest de la Cruz: dalsze linie tracą ''de la'' i zostają jako Cruz.'
