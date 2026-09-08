@@ -6,6 +6,7 @@ export type EntryType =
   | "COMPANY"
   | "EVENT"
   | "HOUSE"
+  | "GROUP"
   | "INSTITUTION"
   | "UNIVERSITY"
   | "TECHNOLOGY"
