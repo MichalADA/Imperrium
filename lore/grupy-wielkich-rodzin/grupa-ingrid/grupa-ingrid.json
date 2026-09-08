@@ -1,0 +1,23 @@
+{
+  "mode": "upsert",
+  "groups": [
+    {
+      "slug": "grupa-ingrid",
+      "name": "Grupa Ingrid",
+      "summary": "Paczka czterech 16-letnich uczennic Szkoły im. Izabeli de la Cruz w Złotym Mieście w Cita de la Luce: Ingrid Montes, Flora de la Finesis, Aurelia de la Torres i Hanna Von Rizbent.",
+      "content": "## Grupa Ingrid\n\nNieformalna paczka czterech 16-letnich uczennic elitarnej Szkoły im. Izabeli de la Cruz w Złotym Mieście w Cita de la Luce. Wszystkie pochodzą z najwyższych warstw Imperium, jednak Ingrid Montes ma zdecydowanie najwyższy status formalny jako córka głowy Wielkiego Rodu Montes.\n\n### Członkinie\n\n- **Ingrid Montes** — córka głowy Wielkiego Rodu Montes. Ciepła, spontaniczna, towarzyska i bardzo lojalna wobec rodziny. Charakterystyczne śnieżnobiałe włosy sprawiają, że jest łatwo rozpoznawalna.\n- **Flora de la Finesis** — córka właściciela największych winiarni w Imperium; reprezentuje wielki kapitał, luksus i towarzyskie obycie.\n- **Aurelia de la Torres** — córka Fernando de la Torres, najwyższego przedstawiciela wojska; pochodzi z wpływowego rodu wojskowego.\n- **Hanna Von Rizbent** — córka gubernatora prowincji Montes; reprezentuje wysoką elitę administracyjną.\n\n### Dynamika\n\nW samej paczce różnice statusu są znacznie mniej ważne niż dla świata zewnętrznego. Flora, Aurelia i Hanna traktują Ingrid przede wszystkim jako przyjaciółkę. Wszystkie cztery mają własne sympatie, rozterki i plany, a ich historia stanowi bardziej osobisty, szkolny wątek świata Imperium.\n\n### Szkoła\n\nSzkoła im. Izabeli de la Cruz jest elitarną szkołą wyłącznie dla dziewcząt w wieku około 14–19 lat. Uczą się w niej przede wszystkim córki arystokracji, najwyższych urzędników, wojskowych i najbogatszych rodzin. Męskim odpowiednikiem jest Szkoła im. Octaviana Wielkiego. Po semestrze obie szkoły organizują wspólny bal.\n\nSzczegółowe dane kanoniczne grupy są utrzymywane również w źródłowym pliku YAML w tym samym katalogu.",
+      "tags": ["grupy wielkich rodów", "Ingrid Montes", "Szkoła im. Izabeli de la Cruz", "Ldei", "Złote Miasto"],
+      "infobox": {
+        "rok": 607,
+        "liczba członkiń": 4,
+        "wiek": "16 lat",
+        "szkoła": "Szkoła im. Izabeli de la Cruz",
+        "lokalizacja": "Złote Miasto, Cita de la Luce, Ldei",
+        "typ": "grupa towarzyska uczennic"
+      },
+      "status": "PUBLISHED",
+      "isFeatured": false,
+      "changeNote": "Dodanie Grupy Ingrid do katalogu grup"
+    }
+  ]
+}
