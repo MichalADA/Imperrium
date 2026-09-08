@@ -8,6 +8,7 @@ export const resourceDefinitions = {
   provinces: EntryType.PROVINCE,
   cities: EntryType.CITY,
   families: EntryType.HOUSE,
+  groups: EntryType.GROUP,
   dynasties: EntryType.DYNASTY,
   languages: EntryType.LANGUAGE,
   companies: EntryType.COMPANY,
