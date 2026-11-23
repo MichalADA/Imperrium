@@ -247,7 +247,7 @@ export function DynastyPage() {
         </div>
         <div className="rounded-xl border border-gold/15 bg-white/[0.025] p-5">
           <div className="flex items-center gap-2 text-gold"><Info className="h-4 w-4" /><h3 className="font-serif text-lg">Uwagi archiwisty</h3></div>
-          <p className="mt-3 text-sm leading-6 text-white/50">* Przy Larze zachowano ostatnio podany wiek 107 lat; starszy zapis roku urodzenia 480 jest z nim sprzeczny i wymaga rozstrzygnięcia. Podobnie starsze wpisy o Teodorze i młodszym Octavianie różnią się od aktualnego kanonu. Nie dopisujemy nieznanych urzędów, tytułów ani krewnych.</p>
+          <p className="mt-3 text-sm leading-6 text-white/50">Lara urodziła się w roku 480 i ma 127 lat w roku 607. Starsze wpisy o Teodorze, Octavii i młodszym Octavianie różnią się od aktualnego kanonu; ten widok stosuje nowsze ustalenia. Nie dopisujemy nieznanych urzędów, tytułów ani krewnych.</p>
         </div>
       </section>
 
