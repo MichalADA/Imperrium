@@ -1,0 +1,285 @@
+{
+  "mode": "upsert",
+  "universities": [
+    {
+      "slug": "uniwersytet-michalusa",
+      "tags": [
+        "nauka",
+        "elity",
+        "Imperial Latin",
+        "Foedus Ambrae"
+      ],
+      "changeNote": "Przywrócenie członkostwa w Foedus Ambrae z ustaleń 17.11.2026"
+    },
+    {
+      "slug": "unisca",
+      "name": "Unisca",
+      "summary": "Uczelnia prowincji Ldei, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Unisca\n\n**Prowincja:** Ldei.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- inżynieria\n- informatyka\n- technologie\n- matematyka stosowana\n- badania naukowe",
+      "infobox": {
+        "prowincja": "Ldei",
+        "liga": "Foedus Ambrae",
+        "profil": "inżynieria, informatyka, technologie, matematyka stosowana"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Ldei",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "universitas-aurea-sapientiae",
+      "name": "Universitas Aurea Sapientiae",
+      "summary": "Uczelnia prowincji Lacjum, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Universitas Aurea Sapientiae\n\n**Prowincja:** Lacjum.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- matematyka teoretyczna\n- fizyka\n- astronomia\n- filozofia",
+      "infobox": {
+        "prowincja": "Lacjum",
+        "liga": "Foedus Ambrae",
+        "profil": "matematyka teoretyczna, fizyka, astronomia, filozofia"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Lacjum",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "universitas-iuris-imperialis",
+      "name": "Universitas Iuris Imperialis",
+      "summary": "Uczelnia prowincji Lacjum, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Universitas Iuris Imperialis\n\n**Prowincja:** Lacjum.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- prawo imperialne\n- prawo konstytucyjne\n- prawo karne\n- prawo cywilne\n- prawo międzynarodowe\n- historia i filozofia prawa",
+      "infobox": {
+        "prowincja": "Lacjum",
+        "liga": "Foedus Ambrae",
+        "profil": "prawo imperialne, prawo konstytucyjne, prawo karne, prawo cywilne"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Lacjum",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "universitas-scientiarum-novarum",
+      "name": "Universitas Scientiarum Novarum",
+      "summary": "Uczelnia prowincji Lacjum, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Universitas Scientiarum Novarum\n\n**Prowincja:** Lacjum.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- fizyka eksperymentalna i kwantowa\n- chemia\n- materiałoznawstwo\n- matematyka stosowana\n- nanotechnologia\n- nowe technologie",
+      "infobox": {
+        "prowincja": "Lacjum",
+        "liga": "Foedus Ambrae",
+        "profil": "fizyka eksperymentalna i kwantowa, chemia, materiałoznawstwo, matematyka stosowana"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Lacjum",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "universitas-medica-lucensis",
+      "name": "Universitas Medica Lucensis",
+      "summary": "Uczelnia prowincji Lacjum, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Universitas Medica Lucensis\n\n**Prowincja:** Lacjum.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- medycyna ogólna\n- chirurgia\n- neurologia i neurochirurgia\n- genetyka\n- biotechnologia medyczna\n- kardiologia\n- transplantologia\n- farmakologia\n- badania kliniczne",
+      "infobox": {
+        "prowincja": "Lacjum",
+        "liga": "Foedus Ambrae",
+        "profil": "medycyna ogólna, chirurgia, neurologia i neurochirurgia, genetyka"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Lacjum",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "hanische-militarakademie",
+      "name": "Hanische Militärakademie",
+      "summary": "Uczelnia prowincji Han, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Hanische Militärakademie\n\n**Prowincja:** Han.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- strategia wojskowa\n- dowodzenie\n- logistyka\n- sztuka operacyjna\n- technologie militarne\n- historia wojskowości",
+      "infobox": {
+        "prowincja": "Han",
+        "liga": "Foedus Ambrae",
+        "profil": "strategia wojskowa, dowodzenie, logistyka, sztuka operacyjna"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Han",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "profaner-wirtschaftsuniversitat",
+      "name": "Profaner Wirtschaftsuniversität",
+      "summary": "Uczelnia prowincji Profan, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Profaner Wirtschaftsuniversität\n\n**Prowincja:** Profan.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- ekonomia\n- finanse\n- bankowość\n- rynki kapitałowe\n- zarządzanie\n- matematyka finansowa\n- ekonometria\n- prawo gospodarcze\n- finanse międzynarodowe\n\n## Informacje\n\nWcześniej studiowała tu Julia de Naraho.",
+      "infobox": {
+        "prowincja": "Profan",
+        "liga": "Foedus Ambrae",
+        "profil": "ekonomia, finanse, bankowość, rynki kapitałowe"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Profan",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "montes-rechtsuniversitat",
+      "name": "Montes Rechtsuniversität",
+      "summary": "Uczelnia prowincji Montes, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Montes Rechtsuniversität\n\n**Prowincja:** Montes.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- prawo karne i procesowe\n- prawo prowincjonalne i imperialne\n- kryminologia\n- kryminalistyka\n- prawo administracyjne\n- filozofia prawa\n- nauki o państwie\n\n## Informacje\n\nWcześniej ustalona jako najlepsza uczelnia prawnicza Imperium.",
+      "infobox": {
+        "prowincja": "Montes",
+        "liga": "Foedus Ambrae",
+        "profil": "prawo karne i procesowe, prawo prowincjonalne i imperialne, kryminologia, kryminalistyka"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Montes",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "universa-serenora-de-delan",
+      "name": "Universa Serenora de Delan",
+      "summary": "Uczelnia prowincji Delanium, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Universa Serenora de Delan\n\n**Prowincja:** Delanium.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- historia\n- archeologia\n- filozofia\n- dyplomacja\n- stosunki międzynarodowe\n- nauki polityczne\n- administracja\n- literatura\n- językoznawstwo\n- historia cywilizacji",
+      "infobox": {
+        "prowincja": "Delanium",
+        "liga": "Foedus Ambrae",
+        "profil": "historia, archeologia, filozofia, dyplomacja"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Delanium",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "akademia-navera-de-montreli",
+      "name": "Akademia Navéra de Montreli",
+      "summary": "Uczelnia prowincji Montreli, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Akademia Navéra de Montreli\n\n**Prowincja:** Montreli.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- inżynieria okrętowa\n- oceanografia\n- nawigacja\n- transport morski\n- strategia morska\n- logistyka portowa\n- technologie podwodne",
+      "infobox": {
+        "prowincja": "Montreli",
+        "liga": "Foedus Ambrae",
+        "profil": "inżynieria okrętowa, oceanografia, nawigacja, transport morski"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Montreli",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "ecole-superieure-architecture-ingenierie-berrane",
+      "name": "École Supérieure d'Architecture et d'Ingénierie de Berrane",
+      "summary": "Uczelnia prowincji Berrani, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# École Supérieure d'Architecture et d'Ingénierie de Berrane\n\n**Prowincja:** Berrani.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- architektura\n- urbanistyka\n- budownictwo\n- inżynieria lądowa\n- infrastruktura transportowa\n- konserwacja zabytków\n- projektowanie miast",
+      "infobox": {
+        "prowincja": "Berrani",
+        "liga": "Foedus Ambrae",
+        "profil": "architektura, urbanistyka, budownictwo, inżynieria lądowa"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Berrani",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "vaa1-seng4-hok6",
+      "name": "Vaa1 Seng4 Hok6",
+      "summary": "Uczelnia prowincji Vir, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Vaa1 Seng4 Hok6\n\n**Prowincja:** Vir.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- biologia molekularna\n- genetyka\n- biotechnologia\n- ekologia\n- botanika\n- zoologia\n- bioinformatyka\n- mikrobiologia",
+      "infobox": {
+        "prowincja": "Vir",
+        "liga": "Foedus Ambrae",
+        "profil": "biologia molekularna, genetyka, biotechnologia, ekologia"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Vir",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "universitas-aureliae-medicinae",
+      "name": "Universitas Aureliae Medicinae",
+      "summary": "Uczelnia prowincji Aurelia, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Universitas Aureliae Medicinae\n\n**Prowincja:** Aurelia.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- medycyna regeneracyjna\n- genetyka\n- biotechnologia medyczna\n- dermatologia\n- medycyna estetyczna\n- medycyna długowieczności\n- chirurgia rekonstrukcyjna\n- farmakologia\n- badania kliniczne",
+      "infobox": {
+        "prowincja": "Aurelia",
+        "liga": "Foedus Ambrae",
+        "profil": "medycyna regeneracyjna, genetyka, biotechnologia medyczna, dermatologia"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Aurelia",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "universitas-simarinae-diplomatica",
+      "name": "Universitas Simarinae Diplomatica",
+      "summary": "Uczelnia prowincji Simarina, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Universitas Simarinae Diplomatica\n\n**Prowincja:** Simarina.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- dyplomacja imperialna\n- stosunki międzynarodowe\n- administracja publiczna\n- nauki polityczne\n- geopolityka\n- bezpieczeństwo międzynarodowe\n- historia dyplomacji\n- negocjacje\n- mediacje\n- zarządzanie instytucjami imperialnymi",
+      "infobox": {
+        "prowincja": "Simarina",
+        "liga": "Foedus Ambrae",
+        "profil": "dyplomacja imperialna, stosunki międzynarodowe, administracja publiczna, nauki polityczne"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Simarina",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    },
+    {
+      "slug": "universitas-technologica-fedunasnae",
+      "name": "Universitas Technologica Fedunasnae",
+      "summary": "Uczelnia prowincji Fedunasna, członek Foedus Ambrae — Ligi Szesnastu najbardziej prestiżowych uczelni Imperium.",
+      "description": "# Universitas Technologica Fedunasnae\n\n**Prowincja:** Fedunasna.\n\n**Przynależność:** Foedus Ambrae (Liga Szesnastu).\n\n## Dziedziny kształcenia\n\n- energetyka\n- systemy energetyczne\n- automatyka\n- robotyka\n- inżynieria mechaniczna i przemysłowa\n- elektrotechnika\n- elektronika\n- zaawansowane materiały\n- technologie produkcyjne\n- systemy autonomiczne\n- informatyka przemysłowa",
+      "infobox": {
+        "prowincja": "Fedunasna",
+        "liga": "Foedus Ambrae",
+        "profil": "energetyka, systemy energetyczne, automatyka, robotyka"
+      },
+      "tags": [
+        "Foedus Ambrae",
+        "Fedunasna",
+        "uczelnia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Odtworzenie Foedus Ambrae na podstawie ustaleń z 17.11.2026"
+    }
+  ]
+}
