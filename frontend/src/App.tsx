@@ -8,6 +8,7 @@ import { EntryDetailPage } from "./pages/EntryDetailPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
 import { SearchPage } from "./pages/SearchPage";
 import { TimelinePage } from "./pages/TimelinePage";
+import { UniversitiesPage } from "./pages/UniversitiesPage";
 import type { EntryType } from "./types";
 
 const catalogCopy: Record<EntryType, { title: string; eyebrow: string; description: string }> = {
@@ -48,6 +49,8 @@ export default function App() {
         <Route path="dynastia" element={<DynastyPage />} />
         <Route path="genealogia" element={<DynastyPage />} />
         <Route path="chronologia" element={<TimelinePage />} />
+        <Route path="uczelnie" element={<UniversitiesPage />} />
+        <Route path="katalog/UNIVERSITY" element={<UniversitiesPage />} />
         <Route path="szukaj" element={<SearchPage />} />
         <Route path="katalog/:type" element={<DynamicCatalog />} />
         <Route path="wpis/:slug" element={<EntryDetailPage />} />
