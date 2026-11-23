@@ -20,10 +20,11 @@ const portraitRoot = "https://raw.githubusercontent.com/MichalADA/Imperrium/main
 const family: Record<string, Person> = {
   izabela: { key: "izabela", name: "Izabela de la Cruz", dates: "409–449", detail: "Matka Octaviana Wielkiego i Octavii", slug: "izabela-de-la-cruz" },
   octavianGreat: { key: "octavianGreat", name: "Octavian Wielki", dates: "428–514", detail: "Założyciel dynastii cesarskiej", image: "octavian-wielki-de-la-cruz.png", slug: "octavian-wielki" },
-  octavia: { key: "octavia", name: "Octavia de la Cruz", dates: "428–548", detail: "Bliźniacza siostra Octaviana Wielkiego", image: "octavia-de-la-cruz.png", slug: "octavia-de-la-cruz" },
+  octavia: { key: "octavia", name: "Octavia de la Cruz", dates: "428–560", detail: "Bliźniacza siostra i żona Octaviana Wielkiego", image: "octavia-de-la-cruz.png", slug: "octavia-de-la-cruz" },
   teodozjuszI: { key: "teodozjuszI", name: "Teodozjusz I", dates: "446–521", detail: "Najstarszy syn Octaviana Wielkiego i Octavii · cesarz 514–521", image: "teodozjusz-i-de-la-cruz.png", slug: "teodozjusz-i" },
-  florentino: { key: "florentino", name: "Florentino de la Cruz", dates: "ur. 456 · zmarły", detail: "Drugi syn Octaviana Wielkiego i Octavii · zmarł bezdzietnie" },
-  hiacynta: { key: "hiacynta", name: "Hiacynta de la Cruz", dates: "ur. 470", detail: "Córka Octaviana Wielkiego i Octavii · jej potomkowie żyją" },
+  florentino: { key: "florentino", name: "Florentino de la Cruz", dates: "456–578", detail: "Drugi syn Octaviana Wielkiego i Octavii · zmarł bezdzietnie" },
+  hiacynta: { key: "hiacynta", name: "Hiacynta de la Cruz", dates: "470–600", detail: "Córka Octaviana Wielkiego i Octavii · jej potomkowie żyją" },
+  lucjusz: { key: "lucjusz", name: "Lucjusz De Cruz", dates: "zm. przed 600", detail: "Najstarszy syn Hiacynty · ojciec Dominique’a" },
   geneovea: { key: "geneovea", name: "Geneovea", dates: "daty nieustalone", detail: "Matka Francesco" },
   lara: { key: "lara", name: "Lara de la Cruz", dates: "127 lat · żyje", detail: "Matka Teodozjusza II · najstarsza żyjąca przedstawicielka rodziny", living: true },
   francesco: { key: "francesco", name: "Francesco de la Cruz", dates: "471–556", detail: "Syn Teodozjusza I i Geneovei · cesarz 521–556 · bezdzietny", image: "francesco-de-la-cruz.png", slug: "francesco-de-la-cruz" },
@@ -42,7 +43,7 @@ const family: Record<string, Person> = {
   liliana: { key: "liliana", name: "Liliana de la Cruz", dates: "17 lat · żyje", detail: "Córka Ignaciusa i Barbary Han · druga w sukcesji", image: "liliana-de-la-cruz.png", slug: "liliana-de-la-cruz", living: true },
   nataniel: { key: "nataniel", name: "Nataniel de la Cruz", dates: "wiek nieustalony · żyje", detail: "Syn Teodory i Viqtora · szósty w sukcesji", living: true },
   barbara: { key: "barbara", name: "Barbara de la Cruz", dates: "3 lata · żyje", detail: "Córka Teodory i Viqtora · siódma w sukcesji", living: true },
-  dominique: { key: "dominique", name: "Dominique De Cruz", dates: "62 lata · żyje", detail: "Dalsza gałąź rodu · ósmy w sukcesji; dokładne pokrewieństwo nieustalone", living: true },
+  dominique: { key: "dominique", name: "Dominique De Cruz", dates: "62 lata · żyje", detail: "Syn Lucjusza, wnuk Hiacynty · ósmy w sukcesji", living: true },
 };
 
 const historicOrder = [
@@ -187,10 +188,12 @@ function FamilyTree() {
       </section>
 
       <section className="surface p-5 md:p-8">
-        <div className="flex items-center gap-2 text-gold"><GitBranch className="h-5 w-5" /><span className="eyebrow">Nieprzypisana gałąź</span></div>
-        <h2 className="mt-3 font-serif text-2xl">Dominique De Cruz</h2>
-        <p className="mt-2 max-w-3xl text-sm leading-6 text-white/50">Dominique ma 62 lata i zajmuje ósme miejsce w sukcesji. Jego dokładne pokrewieństwo z główną linią rodu nie zostało ustalone, dlatego nie łączymy go arbitralną linią z innymi osobami. Tak samo nie przypisujemy jeszcze konkretnych osób do potomków Hiacynty.</p>
-        <div className="mt-5 max-w-sm"><PersonCard id="dominique" compact /></div>
+        <div className="flex items-center gap-2 text-gold"><GitBranch className="h-5 w-5" /><span className="eyebrow">Boczna gałąź rodu</span></div>
+        <h2 className="mt-3 font-serif text-2xl">Potomkowie Hiacynty de la Cruz</h2>
+        <p className="mt-2 max-w-3xl text-sm leading-6 text-white/50">Hiacynta (470–600), córka Octaviana Wielkiego i Octavii, pozostawiła potomków. Jej najstarszym synem był Lucjusz De Cruz, który zmarł przed rokiem 600. Dominique De Cruz jest jego synem i zajmuje ósme miejsce w aktualnej sukcesji.</p>
+        <div className="mx-auto mt-5 max-w-sm"><PersonCard id="hiacynta" compact /></div>
+        <DescendantRow title="Najstarszy syn Hiacynty" ids={["lucjusz"]} />
+        <DescendantRow title="Syn Lucjusza" ids={["dominique"]} />
       </section>
     </div>
   );
