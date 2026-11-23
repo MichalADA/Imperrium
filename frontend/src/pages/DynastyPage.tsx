@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import {
   ArrowRight, BookOpen, Crown, GitFork, Heart, Info, Landmark,
-  Search, ShieldCheck, Sparkles, Users, X,
+  Search, ShieldCheck, Sparkles, X,
 } from "lucide-react";
 import { Link } from "react-router-dom";
 import {
@@ -196,7 +196,7 @@ export function DynastyPage() {
           <div className="grid gap-4 md:grid-cols-2">
             {familyUnits.map((family) => <FamilyPanel key={family.title} family={family} activeId={selectedId} onSelect={selectPerson} />)}
           </div>
-          <div className="xl:sticky xl:top-24"><PersonDetails person={selected} onSelect={selectPerson} /></div>
+          <div className="order-first xl:order-last xl:sticky xl:top-24"><PersonDetails person={selected} onSelect={selectPerson} /></div>
         </div>
       </section>
 
