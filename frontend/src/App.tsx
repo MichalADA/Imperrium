@@ -6,6 +6,7 @@ import { DashboardPage } from "./pages/DashboardPage";
 import { DynastyPage } from "./pages/DynastyPage";
 import { EditorPage } from "./pages/EditorPage";
 import { EntryDetailPage } from "./pages/EntryDetailPage";
+import { InstitutionsPage } from "./pages/InstitutionsPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
 import { SearchPage } from "./pages/SearchPage";
 import { TimelinePage } from "./pages/TimelinePage";
@@ -51,6 +52,8 @@ export default function App() {
         <Route path="genealogia" element={<DynastyPage />} />
         <Route path="chronologia" element={<TimelinePage />} />
         <Route path="uczelnie" element={<UniversitiesPage />} />
+        <Route path="instytucje" element={<InstitutionsPage />} />
+        <Route path="katalog/INSTITUTION" element={<InstitutionsPage />} />
         <Route path="katalog/UNIVERSITY" element={<UniversitiesPage />} />
         <Route path="katalog/COMPANY" element={<CompaniesPage />} />
         <Route path="szukaj" element={<SearchPage />} />
