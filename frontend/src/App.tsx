@@ -2,7 +2,6 @@ import { Navigate, Route, Routes, useParams } from "react-router-dom";
 import { Layout } from "./components/Layout";
 import { CatalogPage } from "./pages/CatalogPage";
 import { DashboardPage } from "./pages/DashboardPage";
-import { GenealogyPage } from "./pages/GenealogyPage";
 import { EditorPage } from "./pages/EditorPage";
 import { EntryDetailPage } from "./pages/EntryDetailPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
@@ -45,8 +44,8 @@ export default function App() {
         <Route path="prowincje/:slug" element={<EntryDetailPage />} />
         <Route path="jezyki" element={<CatalogPage type="LANGUAGE" {...catalogCopy.LANGUAGE} />} />
         <Route path="firmy" element={<CatalogPage type="COMPANY" {...catalogCopy.COMPANY} />} />
-        <Route path="dynastia" element={<GenealogyPage />} />
-        <Route path="genealogia" element={<GenealogyPage />} />
+        <Route path="dynastia" element={<DynastyPage />} />
+        <Route path="genealogia" element={<DynastyPage />} />
         <Route path="chronologia" element={<TimelinePage />} />
         <Route path="szukaj" element={<SearchPage />} />
         <Route path="katalog/:type" element={<DynamicCatalog />} />
