@@ -25,7 +25,7 @@ const family: Record<string, Person> = {
   florentino: { key: "florentino", name: "Florentino de la Cruz", dates: "ur. 456 · zmarły", detail: "Drugi syn Octaviana Wielkiego i Octavii · zmarł bezdzietnie" },
   hiacynta: { key: "hiacynta", name: "Hiacynta de la Cruz", dates: "ur. 470", detail: "Córka Octaviana Wielkiego i Octavii · jej potomkowie żyją" },
   geneovea: { key: "geneovea", name: "Geneovea", dates: "daty nieustalone", detail: "Matka Francesco" },
-  lara: { key: "lara", name: "Lara de la Cruz", dates: "107 lat · żyje", detail: "Matka Teodozjusza II · najstarsza żyjąca przedstawicielka rodziny", living: true },
+  lara: { key: "lara", name: "Lara de la Cruz", dates: "127 lat · żyje", detail: "Matka Teodozjusza II · najstarsza żyjąca przedstawicielka rodziny", living: true },
   francesco: { key: "francesco", name: "Francesco de la Cruz", dates: "471–556", detail: "Syn Teodozjusza I i Geneovei · cesarz 521–556 · bezdzietny", image: "francesco-de-la-cruz.png", slug: "francesco-de-la-cruz" },
   teodozjuszII: { key: "teodozjuszII", name: "Teodozjusz II", dates: "501–591", detail: "Syn Teodozjusza I i Lary · cesarz 556–591", image: "teodozjusz-ii-de-la-cruz.png", slug: "teodozjusz-ii" },
   valeria: { key: "valeria", name: "Valeria de la Cruz", dates: "77 lat · żyje", detail: "Cesarzowa wdowa po Teodozjuszu II", living: true },
