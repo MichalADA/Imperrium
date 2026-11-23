@@ -185,7 +185,19 @@ export function EntryDetailPage() {
   if (loading) return <LoadingBlock label="Otwieranie karty archiwalnej…" />;
   if (error || !data) return <ErrorBlock message={error || "Nie znaleziono wpisu."} onRetry={reload} />;
 
-  const provinceCover = data.type === "PROVINCE" ? mediaUrl(data.imagePath) : null;
+  const coverImage = data.type === "PROVINCE"
+    ? data.slug === "profan"
+      ? "/cities/profanstadt-aerial.webp"
+      : mediaUrl(data.imagePath)
+    : data.type === "CITY"
+      ? data.slug === "cita-de-la-luce"
+        ? "/cities/cita-de-la-luce-aerial.webp"
+        : data.slug === "profanstadt"
+          ? "/cities/profanstadt-aerial.webp"
+          : data.slug === "montestan"
+            ? "/cities/montestan-aerial.webp"
+            : null
+      : null;
   const genericRelations = data.outgoing.filter((relation) => relation.type === "other");
   const infobox = { ...data.infobox };
   const age = calculateAge(data.birthYear, data.deathYear);
@@ -202,9 +214,9 @@ export function EntryDetailPage() {
 
   return (
     <article>
-      {provinceCover && (
+      {coverImage && (
         <div className="relative mb-7 aspect-[16/6] min-h-56 overflow-hidden rounded-2xl border border-gold/15 shadow-imperial">
-          <img src={provinceCover} alt={`Zdjęcie główne prowincji ${data.title}`} className="h-full w-full object-cover" />
+          <img src={coverImage} alt={data.type === "CITY" ? `Panorama miasta ${data.title} z lotu ptaka` : `Zdjęcie główne prowincji ${data.title}`} className="h-full w-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-black/10" />
           <p className="absolute bottom-5 left-5 font-serif text-2xl text-cream md:bottom-7 md:left-7 md:text-3xl">{data.title}</p>
         </div>

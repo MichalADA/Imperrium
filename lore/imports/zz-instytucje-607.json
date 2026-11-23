@@ -1,0 +1,296 @@
+{
+  "mode": "upsert",
+  "institutions": [
+    {
+      "slug": "rnt",
+      "name": "RNT — Rada Najwyższa Technokratyczna",
+      "summary": "Najwyższa izba polityczna Imperium Technokratycznego. W XXI kadencji (rok 607) liczy 500 członków.",
+      "description": "## Ustrój\n\nRNT liczy 500 członków. Imperium zachowuje formalnie system jednej Partii Technokratycznej. Wewnątrz Partii działają konkurujące frakcje: technokraci, autokraci, liberałowie i demokraci.\n\n## Wyniki wyborów do 21. RNT (rok 607)\n\n- Technokraci: 212 mandatów (42,4%).\n- Autokraci: 162 mandaty (32,4%).\n- Liberałowie: 67 mandatów (13,4%).\n- Demokraci: 59 mandatów (11,8%).\n\nŻadna frakcja nie posiada samodzielnej większości (251 mandatów). Są to frakcje **jednej** Partii Technokratycznej, nie cztery formalnie odrębne partie.\n\n## Wybór premiera\n\nLaurus la Cenae został wybrany na premiera 280 głosami spośród 500. Jego poprzednikiem był Everest Volis. RNT wybiera premiera.\n\n## Hierarchia\n\nDwudziestoosobowe '20 RNT' jest odrębną elitarną grupą ścisłego kierownictwa, nie dwudziestą kadencją ani osobną partią. Oddzielnymi szczeblami pozostają urząd premiera i Rada Siedmiu.",
+      "infobox": {
+        "rodzaj": "wyższa izba polityczna",
+        "liczba członków": 500,
+        "kadencja w roku 607": "21. RNT",
+        "partia formalna": "Partia Technokratyczna",
+        "frakcje": "Technokraci 212; Autokraci 162; Liberałowie 67; Demokraci 59",
+        "większość": 251
+      },
+      "tags": [
+        "państwo",
+        "RNT",
+        "polityka",
+        "Parlament",
+        "frakcje"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "nrnt",
+      "name": "NRT — niższa izba",
+      "summary": "Niższa izba ustrojowa Imperium, licząca 300 mandatów; w starszych archiwach występuje jako NRNT.",
+      "description": "NRT jest niższą izbą systemu politycznego, liczącą 300 miejsc. W porównaniu z RNT jej znaczenie polityczne jest ograniczone. Starszy wpis w wiki używał skrótu NRNT; zachowujemy ten identyfikator, aby nie zerwać istniejących odnośników.\n\nNie ma potwierdzonych danych o rozkładzie mandatów NRT w roku 607.",
+      "aliases": [
+        "NRNT"
+      ],
+      "infobox": {
+        "rodzaj": "niższa izba",
+        "liczba mandatów": 300,
+        "starszy skrót w wiki": "NRNT"
+      },
+      "tags": [
+        "państwo",
+        "NRT",
+        "NRNT",
+        "polityka"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "dwudziestka-rnt",
+      "name": "20 RNT — elitarne kierownictwo",
+      "summary": "Ścisła, dwudziestoosobowa elita polityczna RNT; nie jest osobną partią ani dwudziestą kadencją.",
+      "description": "## Skład i znaczenie\n\n20 RNT to grupa dwudziestu najbardziej wpływowych polityków, określana mianem «elity elit». W ustaleniach z roku 607 tworzy ją dwudziestu mężczyzn. Sam mandat w 500-osobowej RNT nie daje członkostwa — potrzeba długotrwałej kariery, lojalności i politycznej zręczności.\n\nPremier oraz Lord Marszałek są wyodrębnieni jako najwyższy szczebel politycznego kierownictwa; nie dopisujemy ich automatycznie do listy dwudziestu. Nie znamy kompletnej listy członków 20 RNT.\n\n## Potwierdzone osoby\n\n- Jocancus de la Rose, 63 lata — minister wydobycia i energii, członek 20 RNT.\n- Julian von Ribentrop, 57 lat — minister spraw wewnętrznych, należący do młodszych członków 20 RNT. To inna osoba niż książę Julian de la Cruz.\n\nPozostałe nazwiska i pełny skład nie są jeszcze potwierdzone. 20 RNT odróżniamy od 21. RNT — kolejnej kadencji całej 500-osobowej izby.",
+      "infobox": {
+        "rodzaj": "elita polityczna / kierownictwo",
+        "liczba członków": 20,
+        "charakter": "wewnętrzny krąg wpływu",
+        "kompletny skład": "nieustalony"
+      },
+      "tags": [
+        "RNT",
+        "20 RNT",
+        "polityka",
+        "elita"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "partia-technokratyczna",
+      "name": "Partia Technokratyczna",
+      "summary": "Jedyna formalna partia polityczna w systemie Imperium; wewnątrz niej konkurują cztery frakcje 21. RNT.",
+      "description": "## Status\n\nW roku 607 ustrój Imperium pozostaje formalnie jednopartyjny. Partia Technokratyczna posiada monopol polityczny, lecz nie jest monolitem.\n\n## Frakcje w 21. RNT\n\n- Technokraci — 212 mandatów.\n- Autokraci — 162 mandaty.\n- Liberałowie — 67 mandatów.\n- Demokraci — 59 mandatów.\n\nWszystkie cztery frakcje działają wewnątrz jednej Partii Technokratycznej, a nie jako osobne legalne partie. Ich rywalizacja wyznacza wybór premiera i obsadę części resortów.\n\n## Syndykat Möbius\n\nMöbius jest osobnym syndykatem finansowo-inwestycyjnym niejawnie powiązanym z kierownictwem Partii. **Nie jest samą Partią, frakcją ani organem państwa.**",
+      "infobox": {
+        "rodzaj": "jedyna formalna partia polityczna",
+        "frakcje 21. RNT": "Technokraci, Autokraci, Liberałowie, Demokraci"
+      },
+      "tags": [
+        "partia",
+        "RNT",
+        "polityka",
+        "Partia Technokratyczna"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "mobius-syndykat",
+      "name": "Möbius — syndykat inwestycyjny",
+      "summary": "Niejawnie kontrolowany przez zaplecze partyjne syndykat finansowo-inwestycyjny. Nie jest partią ani instytucją państwową.",
+      "description": "## Czym jest Möbius?\n\nMöbius to syndykat/struktura inwestycyjna, nie ministerstwo, nie RNT, nie Partia Technokratyczna i nie frakcja polityczna. Jego rzeczywiste kierownictwo i właściciele nie są jawni. Jest nieformalnie kontrolowany przez zaplecze Partii i powiązany z władzą polityczną.\n\n## Mechanizm wpływów\n\nParvah Di Banco regularnie kredytuje państwo. Część pozyskanego kapitału państwo przekazuje do inwestycji obsługiwanych przez Möbius. Syndykat inwestuje także kapitał państwowy i środki pochodzące z systemów emerytalnych.\n\nWpływy emerytalne różnią się między 30 prowincjami. Nie należy zakładać jednej identycznej składki dla całej ludności.\n\nUkład wpływów jest obustronny: bank finansuje państwo, a syndykat wykorzystuje dostępny kapitał do budowania udziałów w spółkach. Wcześniejsze rozmowy wskazywały na wzajemne powiązania kapitałowe między Möbiusem, Parvah Di Banco oraz Siccario.\n\n**Klasyfikacja:** niezależny formalnie od administracji syndykat inwestycyjny, nie organ państwowy. Umieszczony w tej sekcji jedynie ze względu na silne powiązania z władzą.",
+      "infobox": {
+        "rodzaj": "syndykat finansowo-inwestycyjny",
+        "status państwowy": "nie jest organem państwa",
+        "status polityczny": "nie jest partią ani frakcją",
+        "kontrola": "nieformalna / niejawna, przez zaplecze Partii",
+        "powiązania": "Parvah Di Banco, Siccario, kapitał państwowy i emerytalny"
+      },
+      "tags": [
+        "Möbius",
+        "syndykat",
+        "finanse",
+        "polityka",
+        "poza administracją"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "rada-siedmiu",
+      "name": "Rada Siedmiu",
+      "summary": "Odrębny, siedmioosobowy szczebel najwyższej władzy politycznej Imperium.",
+      "description": "Rada Siedmiu jest odrębnym, jeszcze węższym szczeblem kierownictwa państwa. Nie należy jej mylić ani z pełną 500-osobową RNT, ani z elitarną 20 RNT. Nie dopisujemy nieznanych członków, resortów ani kompetencji poza potwierdzonymi ogólnymi ramami.",
+      "infobox": {
+        "liczba członków": 7,
+        "rodzaj": "najwyższy szczebel polityczny",
+        "związek z RNT": "odrębna struktura"
+      },
+      "tags": [
+        "państwo",
+        "Rada Siedmiu",
+        "RNT"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "urzad-premiera-rnt",
+      "name": "Urząd Premiera RNT",
+      "summary": "Urząd szefa politycznego aparatu Imperium. W roku 607 premierem jest Laurus la Cenae.",
+      "description": "## Obsada w roku 607\n\nLaurus la Cenae (77 lat) został wybrany przez 21. RNT na stanowisko premiera wynikiem 280 głosów na 500. Wcześniej pełnił funkcję ministra zdrowia, należał formalnie do technokratów, lecz dystansował się od sporów frakcyjnych. Jego poprzednikiem był Everest Volis.\n\nPremier jest jednym z najwyższych przedstawicieli władzy politycznej Imperium; jego pozycję należy odróżnić od członkostwa w 20 RNT. Cesarz Ignacius jest odrębną głową monarchii.",
+      "infobox": {
+        "rodzaj": "najwyższy urząd wykonawczy",
+        "premier w roku 607": "Laurus la Cenae",
+        "poprzednik": "Everest Volis",
+        "głosy przy wyborze": "280/500"
+      },
+      "tags": [
+        "rząd",
+        "premier",
+        "RNT"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "urzad-lorda-marszalka",
+      "name": "Urząd Lorda Marszałka",
+      "summary": "Wysoki urząd w hierarchii politycznej Imperium, wyodrębniony ponad członkostwo w 20 RNT.",
+      "description": "W ustaleniach o hierarchii Imperium Lord Marszałek występuje jako osobny szczebel władzy ponad elitarną dwudziestką RNT. Nie ustalono obsady urzędu w roku 607 ani pełnego zakresu kompetencji, dlatego nie dopisujemy imion i kompetencji.",
+      "infobox": {
+        "rodzaj": "wysoki urząd polityczny",
+        "obsada w roku 607": "nieustalona"
+      },
+      "tags": [
+        "państwo",
+        "RNT",
+        "lord marszałek"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "rada-ministrow-imperium",
+      "name": "Rada Ministrów Imperium",
+      "summary": "Zespół resortów rządowych pod kierownictwem premiera. Część obsady jest ustalona dla roku 607.",
+      "description": "## Premier\n\nLaurus la Cenae, wybrany 280/500 głosami RNT.\n\n## Potwierdzona obsada po wyborach do 21. RNT\n\n- Minister Spraw Wewnętrznych — Julian von Ribentrop (57 lat). **Nie mylić z księciem Julianem de la Cruz**.\n- Minister Wydobycia i Energii — Jocancus de la Rose (63 lata).\n- Minister Wojny — Mariano Guraz (frakcja autokratów); zastąpił Franciso de la Torresa.\n- Minister Zdrowia — Florian Virzon (frakcja liberałów); wcześniej resortem kierował Laurus la Cenae.\n\n## Wzmianki z wcześniejszych zestawień — aktualność do potwierdzenia\n\n- Adrian von Snith — technologia.\n- Florent di Arbanco — skarb.\n\nNie zakładamy, że każdy minister automatycznie należy do elitarnej 20 RNT ani że lista resortów jest kompletna.",
+      "infobox": {
+        "rodzaj": "rząd / administracja",
+        "premier": "Laurus la Cenae",
+        "potwierdzone resorty": "sprawy wewnętrzne, wydobycie i energia, wojna, zdrowie",
+        "resorty o niepotwierdzonej obecnej obsadzie": "technologia, skarb"
+      },
+      "tags": [
+        "rząd",
+        "ministerstwa",
+        "RNT",
+        "ministrowie"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "ministerstwo-spraw-wewnetrznych",
+      "name": "Ministerstwo Spraw Wewnętrznych",
+      "summary": "Resort spraw wewnętrznych, kierowany w roku 607 przez Juliana von Ribentropa.",
+      "description": "Ministerstwo Spraw Wewnętrznych jest resortem rządu Imperium. W roku 607 jego ministrem jest Julian von Ribentrop (57 lat), członek elitarnej 20 RNT. **Nie jest to książę Julian de la Cruz**. Nie dodajemy innych funkcji ani podległych organów bez potwierdzenia.",
+      "infobox": {
+        "rodzaj": "ministerstwo",
+        "minister w roku 607": "Julian von Ribentrop",
+        "wiek ministra": 57
+      },
+      "tags": [
+        "ministerstwo",
+        "rząd",
+        "sprawy wewnętrzne"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "ministerstwo-wydobycia-i-energii",
+      "name": "Ministerstwo Wydobycia i Energii",
+      "summary": "Resort nadzoru nad wydobyciem i energią; w roku 607 ministrem jest Jocancus de la Rose.",
+      "description": "W roku 607 Ministerstwem Wydobycia i Energii kieruje Jocancus de la Rose (63 lata), członek 20 RNT. W wcześniejszych wydarzeniach komentował wypadki w kopalniach magmy i działalność firm sektora energetycznego.",
+      "infobox": {
+        "rodzaj": "ministerstwo",
+        "minister w roku 607": "Jocancus de la Rose",
+        "wiek ministra": 63
+      },
+      "tags": [
+        "ministerstwo",
+        "rząd",
+        "energia",
+        "wydobycie"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "ministerstwo-wojny",
+      "name": "Ministerstwo Wojny",
+      "summary": "Resort wojny; po wyborach do 21. RNT kierowany przez Mariano Guraza z frakcji autokratów.",
+      "description": "Po wyborach do 21. RNT ministrem wojny został Mariano Guraz, reprezentujący autokratów. Zastąpił Franciso de la Torresa, który utracił wpływy polityczne. Nie utożsamiamy obsady ministerstwa z całą hierarchią wojskową.",
+      "infobox": {
+        "rodzaj": "ministerstwo",
+        "minister w roku 607": "Mariano Guraz",
+        "frakcja ministra": "Autokraci",
+        "poprzednik": "Franciso de la Torres"
+      },
+      "tags": [
+        "ministerstwo",
+        "wojna",
+        "rząd"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "ministerstwo-zdrowia",
+      "name": "Ministerstwo Zdrowia",
+      "summary": "Resort zdrowia; po wyborach do 21. RNT kierowany przez Floriana Virzona z frakcji liberałów.",
+      "description": "Po wyborach do 21. RNT ministrem zdrowia został Florian Virzon (liberał). Jego poprzednikiem był Laurus la Cenae, który został premierem. Florian Virzon wszedł do ścisłego kierownictwa 20 RNT według ustaleń po wyborach.",
+      "infobox": {
+        "rodzaj": "ministerstwo",
+        "minister w roku 607": "Florian Virzon",
+        "frakcja ministra": "Liberałowie",
+        "poprzednik": "Laurus la Cenae"
+      },
+      "tags": [
+        "ministerstwo",
+        "zdrowie",
+        "rząd"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "ministerstwo-technologii",
+      "name": "Ministerstwo Technologii",
+      "summary": "Resort technologii; w starszym wykazie wskazano Adriana von Snitha, lecz obecna obsada wymaga potwierdzenia.",
+      "description": "Resort technologii wymieniony we wcześniejszych zestawieniach. Pojawiało się nazwisko Adriana von Snitha. Nie mamy aktualnego potwierdzenia, że sprawuje on tę funkcję po wyborach do 21. RNT w roku 607.",
+      "infobox": {
+        "rodzaj": "ministerstwo",
+        "starszy wykaz": "Adrian von Snith",
+        "obsada w roku 607": "do potwierdzenia"
+      },
+      "tags": [
+        "ministerstwo",
+        "technologie",
+        "do potwierdzenia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    },
+    {
+      "slug": "ministerstwo-skarbu",
+      "name": "Ministerstwo Skarbu",
+      "summary": "Resort finansów państwa; w starszym wykazie pojawia się Florent di Arbanco.",
+      "description": "Resort Skarbu pojawia się w wcześniejszych zestawieniach z nazwiskiem Florenta di Arbanco. Jego aktualne stanowisko po wyborach do 21. RNT nie zostało niezależnie potwierdzone.",
+      "infobox": {
+        "rodzaj": "ministerstwo",
+        "starszy wykaz": "Florent di Arbanco",
+        "obsada w roku 607": "do potwierdzenia"
+      },
+      "tags": [
+        "ministerstwo",
+        "skarb",
+        "finanse",
+        "do potwierdzenia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja ustroju i obsady po wyborach w roku 607"
+    }
+  ]
+}

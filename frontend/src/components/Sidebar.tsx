@@ -8,7 +8,7 @@ import { CURRENT_WORLD_YEAR } from "../lib/world";
 const navigation = [
   { label: "Start", to: "/", icon: House },
   { label: "Postacie", to: "/postacie", icon: Users },
-  { label: "Dynastia de la Cruz", to: "/dynastia", icon: Crown },
+  { label: "Genealogia de la Cruz", to: "/genealogia", icon: Crown },
   { label: "Wielkie rody", to: "/katalog/HOUSE", icon: Castle },
   { label: "Prowincje", to: "/prowincje", icon: Map },
   { label: "Miasta", to: "/katalog/CITY", icon: Building2 },

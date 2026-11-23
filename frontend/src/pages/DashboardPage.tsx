@@ -87,7 +87,7 @@ export function DashboardPage() {
           <div className="archive-rule my-7" />
           <div className="flex items-center gap-2"><Crown className="h-4 w-4 text-gold" /><h3 className="font-serif text-lg">Dynastia de la Cruz</h3></div>
           <p className="mt-2 text-sm leading-6 text-white/42">Od Octaviana Wielkiego do obecnego cesarza Ignaciusa.</p>
-          <Link to="/dynastia" className="mt-4 inline-flex text-sm text-gold/75 hover:text-gold">Przejdź do linii sukcesji →</Link>
+          <Link to="/genealogia" className="mt-4 inline-flex text-sm text-gold/75 hover:text-gold">Przejdź do linii sukcesji →</Link>
         </aside>
       </div>
 

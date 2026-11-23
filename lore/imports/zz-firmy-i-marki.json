@@ -1,0 +1,1008 @@
+{
+  "mode": "upsert",
+  "companies": [
+    {
+      "slug": "jugon",
+      "name": "Jugon",
+      "summary": "Państwowy gigant przemysłu zbrojeniowego, największa firma zbrojeniowa Imperium.",
+      "description": "# Jugon\n\nPaństwowy gigant przemysłu zbrojeniowego, największa firma zbrojeniowa Imperium.\n\n## Informacje z wcześniejszych rozmów\n\nProdukuje rakiety, uzbrojenie, samoloty atmosferyczne i orbitalne, drony oraz pojazdy wojskowe. W rozmowach pojawiły się myśliwce Jugon 11X i samolot KK8.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "zbrojenia i lotnictwo",
+        "kategoria rejestru": "główny",
+        "udział państwa": "62%",
+        "wycena w roku 607": "12 bln orenów"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "zbrojenia i lotnictwo"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "muss",
+      "name": "Muss",
+      "summary": "Jeden z największych producentów telefonów i elektroniki użytkowej w Imperium.",
+      "description": "# Muss\n\nJeden z największych producentów telefonów i elektroniki użytkowej w Imperium.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "elektronika i telefony",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "elektronika i telefony"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "stolaris",
+      "name": "Stolaris",
+      "summary": "Wielki koncern energetyczny kontrolujący strategiczną część sektora energii.",
+      "description": "# Stolaris\n\nWielki koncern energetyczny kontrolujący strategiczną część sektora energii.\n\n## Informacje z wcześniejszych rozmów\n\nJego spółki zależne to Atom, Hydro, Magma i Air. To odrębna firma od Solaris, znanej z sieci szkół wyższych.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "energetyka",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "energetyka"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "atom-stolaris",
+      "name": "Atom",
+      "summary": "Spółka zależna energetycznego koncernu Stolaris, wymieniana w jego strukturze jako Atom.",
+      "description": "# Atom\n\nSpółka zależna energetycznego koncernu Stolaris, wymieniana w jego strukturze jako Atom.\n\n## Informacje z wcześniejszych rozmów\n\nNie ustalono odrębnej wyceny i lokalizacji.\n\n**Status w archiwum:** potwierdzona spółka zależna.",
+      "infobox": {
+        "sektor": "energetyka jądrowa",
+        "kategoria rejestru": "spółka zależna",
+        "grupa": "Stolaris"
+      },
+      "tags": [
+        "gospodarka",
+        "spółka zależna",
+        "energetyka jądrowa"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "hydro-stolaris",
+      "name": "Hydro",
+      "summary": "Spółka zależna koncernu Stolaris, wymieniana w jego strukturze jako Hydro.",
+      "description": "# Hydro\n\nSpółka zależna koncernu Stolaris, wymieniana w jego strukturze jako Hydro.\n\n**Status w archiwum:** potwierdzona spółka zależna.",
+      "infobox": {
+        "sektor": "energetyka wodna",
+        "kategoria rejestru": "spółka zależna",
+        "grupa": "Stolaris"
+      },
+      "tags": [
+        "gospodarka",
+        "spółka zależna",
+        "energetyka wodna"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "magma-stolaris",
+      "name": "Magma",
+      "summary": "Spółka zależna Stolaris, związana z eksploatacją energii magmy.",
+      "description": "# Magma\n\nSpółka zależna Stolaris, związana z eksploatacją energii magmy.\n\n## Informacje z wcześniejszych rozmów\n\nW opowieściach o kopalni na wyspie przy Mauretanii pojawiały się wypadki pracowników oraz spór z ubezpieczycielem Assecuratio.\n\n**Status w archiwum:** potwierdzona spółka zależna.",
+      "infobox": {
+        "sektor": "energetyka geotermalna / magma",
+        "kategoria rejestru": "spółka zależna",
+        "grupa": "Stolaris"
+      },
+      "tags": [
+        "gospodarka",
+        "spółka zależna",
+        "energetyka geotermalna / magma"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "air-stolaris",
+      "name": "Air",
+      "summary": "Spółka zależna Stolaris wymieniana jako Air.",
+      "description": "# Air\n\nSpółka zależna Stolaris wymieniana jako Air.\n\n## Informacje z wcześniejszych rozmów\n\nDokładniejsza specjalizacja pozostaje nieustalona.\n\n**Status w archiwum:** potwierdzona spółka zależna.",
+      "infobox": {
+        "sektor": "energetyka",
+        "kategoria rejestru": "spółka zależna",
+        "grupa": "Stolaris"
+      },
+      "tags": [
+        "gospodarka",
+        "spółka zależna",
+        "energetyka"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "fernwerk",
+      "name": "Fernwerk",
+      "summary": "Wielka firma infrastruktury i usług telekomunikacyjnych, posługująca się hańską nazwą.",
+      "description": "# Fernwerk\n\nWielka firma infrastruktury i usług telekomunikacyjnych, posługująca się hańską nazwą.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "telekomunikacja",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "telekomunikacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "alimentum",
+      "name": "Alimentum",
+      "summary": "Wielki koncern rolno-spożywczy Imperium.",
+      "description": "# Alimentum\n\nWielki koncern rolno-spożywczy Imperium.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "żywność i rolnictwo",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "żywność i rolnictwo"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "stahlwerk",
+      "name": "Stahlwerk",
+      "summary": "Wielka firma budowlana i infrastrukturalna o hańskiej nazwie.",
+      "description": "# Stahlwerk\n\nWielka firma budowlana i infrastrukturalna o hańskiej nazwie.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "budownictwo i infrastruktura",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "budownictwo i infrastruktura"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "assecuratio",
+      "name": "Assecuratio",
+      "summary": "Jeden z najważniejszych ubezpieczycieli Imperium.",
+      "description": "# Assecuratio\n\nJeden z najważniejszych ubezpieczycieli Imperium.\n\n## Informacje z wcześniejszych rozmów\n\nPojawia się w sprawie odmowy wypłaty odszkodowania rodzinie pracownika kopalni magmy. Jej notowania ratowały inwestycje syndykatu Möbius.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "ubezpieczenia",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "ubezpieczenia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "medicusan",
+      "name": "MedicusAn",
+      "summary": "Wielki koncern medyczno-szpitalny, również zajmujący się eksperymentalną medycyną.",
+      "description": "# MedicusAn\n\nWielki koncern medyczno-szpitalny, również zajmujący się eksperymentalną medycyną.\n\n## Informacje z wcześniejszych rozmów\n\nZałożony ponad 200 lat temu; zarządza rozbudowaną siecią szpitali. CEO Małgorzata de la Finn.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "medycyna i biotechnologia",
+        "kategoria rejestru": "główny",
+        "CEO": "Małgorzata de la Finn"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "medycyna i biotechnologia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "cobaltum",
+      "name": "Cobaltum",
+      "summary": "Potężne państwowe przedsiębiorstwo wydobywcze, prowadzące również eksploatację surowców w ekstremalnych warunkach.",
+      "description": "# Cobaltum\n\nPotężne państwowe przedsiębiorstwo wydobywcze, prowadzące również eksploatację surowców w ekstremalnych warunkach.\n\n## Informacje z wcześniejszych rozmów\n\nDziała m.in. w Mauretanii, także przy złożach pod lawą.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "górnictwo",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "górnictwo"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "viae-ferriviariae",
+      "name": "Viae Ferriviariae",
+      "summary": "Wielowiekowe, w większości państwowe przedsiębiorstwo kolejowe.",
+      "description": "# Viae Ferriviariae\n\nWielowiekowe, w większości państwowe przedsiębiorstwo kolejowe.\n\n## Informacje z wcześniejszych rozmów\n\nOkoło 600 lat historii; superszybkie pociągi osiągające do 900 km/h. Założycielem był Agustun Viae Ferriviariae.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "kolej i transport",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "kolej i transport"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "hospitka",
+      "name": "Hospitka",
+      "summary": "Gigant szpitalno-medyczny, konkurent MedicusAn; nie ma jednego właściciela.",
+      "description": "# Hospitka\n\nGigant szpitalno-medyczny, konkurent MedicusAn; nie ma jednego właściciela.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "medycyna i szpitalnictwo",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "medycyna i szpitalnictwo"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "skyfile",
+      "name": "Skyfile",
+      "summary": "Wielka imperialna linia lotnicza i przedsiębiorstwo lotnictwa cywilnego.",
+      "description": "# Skyfile\n\nWielka imperialna linia lotnicza i przedsiębiorstwo lotnictwa cywilnego.\n\n## Informacje z wcześniejszych rozmów\n\nPaństwo posiada około 40% udziałów. Spółka wykorzystuje konstrukcje Jugonu, m.in. samoloty KK8, i obsługuje połączenia poza Imperium.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "lotnictwo cywilne",
+        "kategoria rejestru": "główny",
+        "udział państwa": "40%"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "lotnictwo cywilne"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "terant",
+      "name": "Terant",
+      "summary": "Producent samochodów adresowanych do mniej zamożnych mieszkańców Imperium.",
+      "description": "# Terant\n\nProducent samochodów adresowanych do mniej zamożnych mieszkańców Imperium.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "motoryzacja",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "motoryzacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "xaxi",
+      "name": "xAxi",
+      "summary": "Korporacja technologiczna wymieniona w zestawieniach firm Imperium; szczegóły produktów nie zostały ustalone.",
+      "description": "# xAxi\n\nKorporacja technologiczna wymieniona w zestawieniach firm Imperium; szczegóły produktów nie zostały ustalone.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "technologie",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "technologie"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "sicario",
+      "name": "Sicario",
+      "summary": "Odrębne przedsiębiorstwo wymienione w rankingu największych firm Imperium.",
+      "description": "# Sicario\n\nOdrębne przedsiębiorstwo wymienione w rankingu największych firm Imperium.\n\n## Informacje z wcześniejszych rozmów\n\nNie utożsamiać z Siccario Bank, który jest osobną instytucją bankową.\n\n**Status w archiwum:** potwierdzona firma / marka.",
+      "infobox": {
+        "sektor": "nieustalony",
+        "kategoria rejestru": "główny"
+      },
+      "tags": [
+        "gospodarka",
+        "główny",
+        "nieustalony"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "vinan",
+      "name": "Vinan",
+      "summary": "Marka tańszych telefonów, wymieniana jako alternatywa dla urządzeń Candelabrum.",
+      "description": "# Vinan\n\nMarka tańszych telefonów, wymieniana jako alternatywa dla urządzeń Candelabrum.\n\n## Informacje z wcześniejszych rozmów\n\nW starszych ustaleniach ceny telefonów Vinan wynosiły około 1–4 tys. orenów.\n\n**Status w archiwum:** potwierdzona marka / linia produktów.",
+      "infobox": {
+        "sektor": "telefony",
+        "kategoria rejestru": "marka"
+      },
+      "tags": [
+        "gospodarka",
+        "marka",
+        "telefony"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "candle",
+      "name": "Candle",
+      "summary": "Marka telefonów związana z Candelabrum.",
+      "description": "# Candle\n\nMarka telefonów związana z Candelabrum.\n\n## Informacje z wcześniejszych rozmów\n\nNie jest to osobny producent od Candelabrum; Candela jest nazwą systemu operacyjnego, a nie przedsiębiorstwa.\n\n**Status w archiwum:** potwierdzona marka / linia produktów.",
+      "infobox": {
+        "sektor": "telefony i elektronika",
+        "kategoria rejestru": "marka"
+      },
+      "tags": [
+        "gospodarka",
+        "marka",
+        "telefony i elektronika"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "cossena",
+      "name": "Cossena",
+      "summary": "Startup poszukujący metod wydobywania surowców spod morza o mniejszym wpływie na środowisko.",
+      "description": "# Cossena\n\nStartup poszukujący metod wydobywania surowców spod morza o mniejszym wpływie na środowisko.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "górnictwo morskie",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "górnictwo morskie"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "engwordsafecare",
+      "name": "EngwordSafeCare",
+      "summary": "Przedsiębiorstwo związane z opieką, kontrolowane przez Engword.",
+      "description": "# EngwordSafeCare\n\nPrzedsiębiorstwo związane z opieką, kontrolowane przez Engword.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "opieka",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "opieka"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "optimuscare",
+      "name": "OptimusCare",
+      "summary": "Przedsiębiorstwo z sektora opieki, którego znaczącymi udziałowcami są Parvah Di Banco i SecerusBank.",
+      "description": "# OptimusCare\n\nPrzedsiębiorstwo z sektora opieki, którego znaczącymi udziałowcami są Parvah Di Banco i SecerusBank.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "opieka",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "opieka"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "secerusbank",
+      "name": "SecerusBank",
+      "summary": "Bank wymieniony w związku z inwestycjami w OptimusCare.",
+      "description": "# SecerusBank\n\nBank wymieniony w związku z inwestycjami w OptimusCare.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "bankowość",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "bankowość"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "exercere-company",
+      "name": "Exercere Company",
+      "summary": "Gigant infrastruktury kolejowej, kojarzony z pociągami klasy Meh.",
+      "description": "# Exercere Company\n\nGigant infrastruktury kolejowej, kojarzony z pociągami klasy Meh.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "kolej i infrastruktura",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "kolej i infrastruktura"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "neuroicai",
+      "name": "NeuroicAI",
+      "summary": "Korporacja AI wspominana niezależnie od Xen.",
+      "description": "# NeuroicAI\n\nKorporacja AI wspominana niezależnie od Xen.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "sztuczna inteligencja",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "sztuczna inteligencja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "tunibanc",
+      "name": "TuNiBanc",
+      "summary": "Instytucja bankowa pojawiająca się w starszych rozmowach o gospodarce Imperium.",
+      "description": "# TuNiBanc\n\nInstytucja bankowa pojawiająca się w starszych rozmowach o gospodarce Imperium.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "bankowość",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "bankowość"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "familiainvest",
+      "name": "FamiliaInvest",
+      "summary": "Podmiot rodzinnych finansów i inwestycji, wymieniony we wcześniejszych rozmowach.",
+      "description": "# FamiliaInvest\n\nPodmiot rodzinnych finansów i inwestycji, wymieniony we wcześniejszych rozmowach.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "finanse i inwestycje",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "finanse i inwestycje"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "dellaninvento",
+      "name": "DellanInvento",
+      "summary": "Podmiot inwestycyjny pojawiający się przy rodzinnych funduszach i finansach Imperium.",
+      "description": "# DellanInvento\n\nPodmiot inwestycyjny pojawiający się przy rodzinnych funduszach i finansach Imperium.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "finanse i inwestycje",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "finanse i inwestycje"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "de-la-cruz-foundatione",
+      "name": "DeLaCruz Foundatione",
+      "summary": "Fundacja powiązana z finansami i majątkiem rodziny de la Cruz.",
+      "description": "# DeLaCruz Foundatione\n\nFundacja powiązana z finansami i majątkiem rodziny de la Cruz.\n\n## Informacje z wcześniejszych rozmów\n\nNie określamy jej jako zwykłej spółki handlowej.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "fundacja i inwestycje",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "fundacja i inwestycje"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "huragang",
+      "name": "Huragang",
+      "summary": "Marka motoryzacyjna wspominana w starszych rozmowach.",
+      "description": "# Huragang\n\nMarka motoryzacyjna wspominana w starszych rozmowach.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "motoryzacja",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "motoryzacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "zoria",
+      "name": "Zoria",
+      "summary": "Marka samochodowa wspominana w starszych rozmowach.",
+      "description": "# Zoria\n\nMarka samochodowa wspominana w starszych rozmowach.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "motoryzacja",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "motoryzacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "aigua",
+      "name": "Aigua",
+      "summary": "Przedsiębiorstwo projektujące i wytwarzające okręty, kadłuby, napędy oraz rozwiązania hydrodynamiczne i logistyczne.",
+      "description": "# Aigua\n\nPrzedsiębiorstwo projektujące i wytwarzające okręty, kadłuby, napędy oraz rozwiązania hydrodynamiczne i logistyczne.\n\n## Informacje z wcześniejszych rozmów\n\nWspółpracuje z Optim przy systemach marynarki Imperium.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "przemysł stoczniowy i okrętowy",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "przemysł stoczniowy i okrętowy"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "skyin",
+      "name": "SkyIn",
+      "summary": "Przedsiębiorstwo związane z produkcją samolotów i działalnością lotniczą.",
+      "description": "# SkyIn\n\nPrzedsiębiorstwo związane z produkcją samolotów i działalnością lotniczą.\n\n## Informacje z wcześniejszych rozmów\n\nW starszych zapisach pojawia się również pisownia Skyln.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "lotnictwo cywilne",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "lotnictwo cywilne"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym",
+      "aliases": [
+        "Skyln"
+      ]
+    },
+    {
+      "slug": "optim",
+      "name": "Optim",
+      "summary": "Spółka projektująca, integrująca i utrzymująca system obrony CAS Caelum Serenum.",
+      "description": "# Optim\n\nSpółka projektująca, integrująca i utrzymująca system obrony CAS Caelum Serenum.\n\n## Informacje z wcześniejszych rozmów\n\nWcześniej ustalony udział państwa wynosił 15%.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "systemy obronne",
+        "kategoria rejestru": "archiwalny",
+        "udział państwa": "15%"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "systemy obronne"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "mauren",
+      "name": "Mauren",
+      "summary": "Przedsiębiorstwo telekomunikacyjne kojarzone z majątkiem i rodem Maurena.",
+      "description": "# Mauren\n\nPrzedsiębiorstwo telekomunikacyjne kojarzone z majątkiem i rodem Maurena.\n\n## Informacje z wcześniejszych rozmów\n\nWe wcześniejszych rozmowach rodzina Maurena była opisywana jako właściciel wielkiej firmy telekomunikacyjnej.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "telekomunikacja",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "telekomunikacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "aurora-corporation",
+      "name": "Aurora Corporation",
+      "summary": "Korporacja zarządzająca Aurorą, opisywana jako podmiot poza zwykłym rynkiem.",
+      "description": "# Aurora Corporation\n\nKorporacja zarządzająca Aurorą, opisywana jako podmiot poza zwykłym rynkiem.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "zarządzanie",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "zarządzanie"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "madia",
+      "name": "Madia",
+      "summary": "Firma/systemy operacyjne współpracujące z technologią Lucio.",
+      "description": "# Madia\n\nFirma/systemy operacyjne współpracujące z technologią Lucio.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "oprogramowanie i systemy operacyjne",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "oprogramowanie i systemy operacyjne"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "shlan-xenai",
+      "name": "Shlan / XenAi",
+      "summary": "Startup Shlan, który po przejęciu przez Xen działał pod nazwą XenAi.",
+      "description": "# Shlan / XenAi\n\nStartup Shlan, który po przejęciu przez Xen działał pod nazwą XenAi.\n\n## Informacje z wcześniejszych rozmów\n\nStarsze rozmowy wskazują na przejęcie przez Xen.\n\n**Status w archiwum:** potwierdzona spółka zależna.",
+      "infobox": {
+        "sektor": "sztuczna inteligencja",
+        "kategoria rejestru": "spółka zależna",
+        "grupa": "Xen"
+      },
+      "tags": [
+        "gospodarka",
+        "spółka zależna",
+        "sztuczna inteligencja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym",
+      "aliases": [
+        "Shlan",
+        "XenAi"
+      ]
+    },
+    {
+      "slug": "ludosel",
+      "name": "LudosEl",
+      "summary": "Nazwa przedsiębiorstwa wspomniana przy przejęciach startupów przez Xen; szczegółowa działalność nieustalona.",
+      "description": "# LudosEl\n\nNazwa przedsiębiorstwa wspomniana przy przejęciach startupów przez Xen; szczegółowa działalność nieustalona.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "nieustalony",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "nieustalony"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "vuelta-bank",
+      "name": "Vuelta Bank",
+      "summary": "Bank wymieniony we wcześniejszych rozmowach o finansach Imperium.",
+      "description": "# Vuelta Bank\n\nBank wymieniony we wcześniejszych rozmowach o finansach Imperium.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "bankowość",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "bankowość"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "northbank",
+      "name": "NorthBank",
+      "summary": "Bank wymieniony we wcześniejszych rozmowach o finansach Imperium.",
+      "description": "# NorthBank\n\nBank wymieniony we wcześniejszych rozmowach o finansach Imperium.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "bankowość",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "bankowość"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "dellani",
+      "name": "Dellani",
+      "summary": "Marka samochodowa wspominana w starszych zestawieniach pojazdów.",
+      "description": "# Dellani\n\nMarka samochodowa wspominana w starszych zestawieniach pojazdów.\n\n## Informacje z wcześniejszych rozmów\n\nPrzykłady modeli: Vento, Saphira.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "motoryzacja",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "motoryzacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "scenerio",
+      "name": "Scenerio",
+      "summary": "Marka samochodów wspominana w dawnych rozmowach.",
+      "description": "# Scenerio\n\nMarka samochodów wspominana w dawnych rozmowach.\n\n## Informacje z wcześniejszych rozmów\n\nWśród nazw modeli pojawiał się UrbanDrive.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "motoryzacja",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "motoryzacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "scenerio-bank",
+      "name": "Scenerio Bank",
+      "summary": "Nazwa banku z archiwalnych rozmów o Imperium.",
+      "description": "# Scenerio Bank\n\nNazwa banku z archiwalnych rozmów o Imperium.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "bankowość",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "bankowość"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "lusso-marine",
+      "name": "Lusso Marine",
+      "summary": "Archiwalna nazwa związana z marką Lusso i działalnością na morzu; szczegóły nieustalone.",
+      "description": "# Lusso Marine\n\nArchiwalna nazwa związana z marką Lusso i działalnością na morzu; szczegóły nieustalone.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "przemysł morski",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "przemysł morski"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "neurohelix",
+      "name": "NeuroHelix",
+      "summary": "Nazwa firmy neurotechnologicznej przywołana we wczesnych rozmowach.",
+      "description": "# NeuroHelix\n\nNazwa firmy neurotechnologicznej przywołana we wczesnych rozmowach.\n\n**Status w archiwum:** wzmianka, która wymaga ponownego potwierdzenia kanonu.",
+      "infobox": {
+        "sektor": "neurotechnologie",
+        "kategoria rejestru": "do potwierdzenia"
+      },
+      "tags": [
+        "gospodarka",
+        "do potwierdzenia",
+        "neurotechnologie"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "trackio",
+      "name": "TrackIO",
+      "summary": "Nazwa przedsiębiorstwa tworzącego systemy lokalizacji, pojawiająca się w dawnych wypowiedziach.",
+      "description": "# TrackIO\n\nNazwa przedsiębiorstwa tworzącego systemy lokalizacji, pojawiająca się w dawnych wypowiedziach.\n\n**Status w archiwum:** wzmianka, która wymaga ponownego potwierdzenia kanonu.",
+      "infobox": {
+        "sektor": "systemy lokalizacji",
+        "kategoria rejestru": "do potwierdzenia"
+      },
+      "tags": [
+        "gospodarka",
+        "do potwierdzenia",
+        "systemy lokalizacji"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "sunshard",
+      "name": "SunShard",
+      "summary": "Nazwa firmy rozwijającej czystą energię wspominana w starszych rozmowach.",
+      "description": "# SunShard\n\nNazwa firmy rozwijającej czystą energię wspominana w starszych rozmowach.\n\n**Status w archiwum:** wzmianka, która wymaga ponownego potwierdzenia kanonu.",
+      "infobox": {
+        "sektor": "czysta energia",
+        "kategoria rejestru": "do potwierdzenia"
+      },
+      "tags": [
+        "gospodarka",
+        "do potwierdzenia",
+        "czysta energia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "teqspace",
+      "name": "TeqSpace",
+      "summary": "Nazwa platformy społecznościowej przywołana we wcześniejszych rozmowach.",
+      "description": "# TeqSpace\n\nNazwa platformy społecznościowej przywołana we wcześniejszych rozmowach.\n\n**Status w archiwum:** wzmianka, która wymaga ponownego potwierdzenia kanonu.",
+      "infobox": {
+        "sektor": "media społecznościowe",
+        "kategoria rejestru": "do potwierdzenia"
+      },
+      "tags": [
+        "gospodarka",
+        "do potwierdzenia",
+        "media społecznościowe"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "lussio-electric",
+      "name": "Lussio Electric",
+      "summary": "Archiwalna nazwa marki samochodów elektrycznych wspominana we wcześniejszych propozycjach.",
+      "description": "# Lussio Electric\n\nArchiwalna nazwa marki samochodów elektrycznych wspominana we wcześniejszych propozycjach.\n\n**Status w archiwum:** wzmianka, która wymaga ponownego potwierdzenia kanonu.",
+      "infobox": {
+        "sektor": "motoryzacja elektryczna",
+        "kategoria rejestru": "do potwierdzenia"
+      },
+      "tags": [
+        "gospodarka",
+        "do potwierdzenia",
+        "motoryzacja elektryczna"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "dellan-lux-industries",
+      "name": "Dellan Lux Industries",
+      "summary": "Archiwalna nazwa firmy, której status w obecnym kanonie pozostaje do potwierdzenia.",
+      "description": "# Dellan Lux Industries\n\nArchiwalna nazwa firmy, której status w obecnym kanonie pozostaje do potwierdzenia.\n\n**Status w archiwum:** wzmianka, która wymaga ponownego potwierdzenia kanonu.",
+      "infobox": {
+        "sektor": "przemysł luksusowy",
+        "kategoria rejestru": "do potwierdzenia"
+      },
+      "tags": [
+        "gospodarka",
+        "do potwierdzenia",
+        "przemysł luksusowy"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "virow-biotech",
+      "name": "Virow Biotech",
+      "summary": "Archiwalna nazwa firmy biotechnologicznej wymagająca potwierdzenia.",
+      "description": "# Virow Biotech\n\nArchiwalna nazwa firmy biotechnologicznej wymagająca potwierdzenia.\n\n**Status w archiwum:** wzmianka, która wymaga ponownego potwierdzenia kanonu.",
+      "infobox": {
+        "sektor": "biotechnologia",
+        "kategoria rejestru": "do potwierdzenia"
+      },
+      "tags": [
+        "gospodarka",
+        "do potwierdzenia",
+        "biotechnologia"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "imperial-defense-industries",
+      "name": "Imperial Defense Industries",
+      "summary": "Archiwalna nazwa przedsiębiorstwa obronnego; nie utożsamiać automatycznie z Jugon.",
+      "description": "# Imperial Defense Industries\n\nArchiwalna nazwa przedsiębiorstwa obronnego; nie utożsamiać automatycznie z Jugon.\n\n**Status w archiwum:** wzmianka, która wymaga ponownego potwierdzenia kanonu.",
+      "infobox": {
+        "sektor": "przemysł obronny",
+        "kategoria rejestru": "do potwierdzenia"
+      },
+      "tags": [
+        "gospodarka",
+        "do potwierdzenia",
+        "przemysł obronny"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "cfepc",
+      "name": "CFepc",
+      "summary": "Nazwa funduszu/instytucji finansowej wspomniana w starszych rozmowach o wpływach i pieniądzach.",
+      "description": "# CFepc\n\nNazwa funduszu/instytucji finansowej wspomniana w starszych rozmowach o wpływach i pieniądzach.\n\n## Informacje z wcześniejszych rozmów\n\nStatus prawny jako firma lub fundusz wymaga uściślenia.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "finanse i fundusze",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "finanse i fundusze"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "fundusz-michalusa",
+      "name": "Fundusz Michalusa",
+      "summary": "Wspomniany w starszych rozmowach fundusz związany z Imperium.",
+      "description": "# Fundusz Michalusa\n\nWspomniany w starszych rozmowach fundusz związany z Imperium.\n\n## Informacje z wcześniejszych rozmów\n\nNie określono, czy funkcjonuje jako zwykłe przedsiębiorstwo.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
+      "infobox": {
+        "sektor": "finanse i fundusze",
+        "kategoria rejestru": "archiwalny"
+      },
+      "tags": [
+        "gospodarka",
+        "archiwalny",
+        "finanse i fundusze"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "lussio",
+      "name": "Lussio",
+      "summary": "Marka ultraszybkich samochodów jonowych i związanych z nimi wyścigów, wspominana we wcześniejszych rozmowach o Imperium.",
+      "description": "# Lussio\n\nMarka ultraszybkich aut jonowych i związanych z nimi wyścigów. Nie utożsamiać automatycznie z producentem luksusowych samochodów Lusso — podobna pisownia nie przesądza o wspólnej własności.\n\n**Status w archiwum:** marka ze starszych rozmów; aktualny status firmy nieustalony.",
+      "infobox": {
+        "sektor": "motoryzacja",
+        "kategoria rejestru": "marka"
+      },
+      "tags": [
+        "gospodarka",
+        "marka",
+        "motoryzacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja wczesnego kanonu"
+    }
+  ]
+}

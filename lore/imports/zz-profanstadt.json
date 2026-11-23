@@ -1,0 +1,65 @@
+{
+  "mode": "upsert",
+  "provinces": [
+    {
+      "slug": "profan",
+      "name": "Profan",
+      "summary": "Wyjątkowa prowincja Imperium Technokratycznego, praktycznie w całości zajęta przez jedną megametropolię — Profanstadt. Centrum finansowe z dwoma jeziorami, dzielnicami drapaczy chmur i luksusową zabudową willową.",
+      "description": "# Profan — miasto-prowincja\n\nProfan jest jedyną prowincją Imperium niemającą wsi. Jej niemal cała powierzchnia została zurbanizowana przez wielkie miasto zwane w języku hańskim **Profanstadt** (hańskie *Stadt* — „miasto”). Jest to jedno z najważniejszych centrów finansowych Imperium, zamieszkane zarówno przez niezwykle zamożnych ludzi, jak i zwykłych pracowników.\n\n## Dwa jeziora\n\nDawniej istniało tu jedno naturalne jezioro, które z czasem sztucznie podzielono na dwa rozległe akweny: **Bluesee** na północy i **Muetersee** na południu. Mosty i trasy komunikacyjne łączą oba brzegi oraz części miasta.\n\n## Profan Północny — Bluesee\n\nNad północnym jeziorem stoi gęste skupisko wieżowców: wiele budynków osiąga **około 100 pięter**. Siedziba banku **Parvah Di Banco** ma **110 pięter** i jest najwyższym budynkiem Profanu. Nadbrzeże stanowi szczególnie prestiżową część dzielnicy finansowej; w wcześniejszych ustaleniach ceny nieruchomości nad Bluesee zaczynały się od 2–10 mln orenów za metr kwadratowy, a niekiedy były wyższe.\n\n## Profan Południowy — Muetersee\n\nNad południowym jeziorem dominują rozległe, luksusowe wille pośród ogrodów i zieleni. Znajdują się tu przystanie, **mariny, jachty, żaglówki i łodzie**. Dalej od nabrzeża stoją wysokie osiedla przeznaczone dla szerokich warstw mieszkańców: bloki sięgają nawet **60 pięter**. Południe nie jest więc wyłącznie dzielnicą najbogatszych.\n\n## Miasto i gospodarka\n\nProfanstadt to nowoczesna metropolia kontrastów: dzielnice bankowe i wieżowce północy, wille i mariny południa oraz rozległe mieszkalne kwartały. Prowincja używa **hańskiego w odmianie profańskiej**.\n\n## Panorama\n\nPanorama z lotu ptaka przedstawia dwa jeziora, północne centrum finansowe z drapaczami chmur i południową dzielnicę willową z mariną i żaglówkami.",
+      "infobox": {
+        "typ": "miasto-prowincja",
+        "główne miasto": "Profanstadt",
+        "wsie": "Brak",
+        "język": "Hański — odmiana profańska",
+        "jezioro północne": "Bluesee",
+        "jezioro południowe": "Muetersee",
+        "gospodarka": "Finanse",
+        "najwyższy budynek": "Parvah Di Banco — 110 pięter"
+      },
+      "tags": [
+        "finanse",
+        "hański",
+        "miasto-prowincja",
+        "Profanstadt",
+        "Bluesee",
+        "Muetersee"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Kanon Profanu: megamiasto, dwa jeziora, 100-piętrowe wieżowce, 60-piętrowe osiedla i marina"
+    }
+  ],
+  "cities": [
+    {
+      "slug": "profanstadt",
+      "name": "Profanstadt",
+      "aliases": [
+        "Profan City",
+        "Miasto Profan"
+      ],
+      "summary": "Hańskojęzyczna metropolia zajmująca niemal całą prowincję Profan. Dzielnica finansowa na północy otacza Bluesee, a na południu nad Muetersee rozciągają się wille, mariny i dzielnice mieszkalne.",
+      "description": "# Profanstadt\n\n**Profanstadt** to hańska nazwa miasta Profan (*Stadt* = „miasto”). To niemal całkowicie zurbanizowana prowincja-miasto i jeden z najważniejszych ośrodków finansowych Imperium Technokratycznego.\n\n## Bluesee — północ\n\nPółnocną część miasta otacza jezioro **Bluesee**. Na jego brzegach stoją niezwykle gęsto stumetrowe i wielusetmetrowe wieżowce, w tym wiele budynków około **100-piętrowych**. Najwyższym gmachem jest **110-piętrowa siedziba Parvah Di Banco**. To część miasta związana z finansami, wielkim kapitałem i najdroższymi nieruchomościami.\n\n## Muetersee — południe\n\nWzdłuż południowego jeziora **Muetersee** rozciągają się wille i luksusowe posiadłości z ogrodami, prywatnymi przystaniami i promenadami. Nad wodą działają duże **mariny dla jachtów**, pływają żaglówki, motorówki i niewielkie łodzie.\n\nZa dzielnicami willowymi, dalej od brzegu, stoją rozległe osiedla bloków mieszkalnych — także o wysokości **do około 60 pięter** — zamieszkane przez zwykłych mieszkańców Profanu.\n\n## Urbanistyka\n\nDwa jeziora, które powstały przez podział dawnego pojedynczego naturalnego akwenu, rozdzielają północ i południe metropolii. Liczne mosty łączą dzielnice nad wodą. Miasto cechuje wyjątkowo wysoka gęstość zabudowy, ale struktura społeczna obu brzegów wyraźnie się różni.\n\n## Widok z lotu ptaka\n\nNa panoramie rozpoznawalne są: po północnej stronie las drapaczy chmur, po południowej luksusowe wille, przy południowym jeziorze duża marina i jachty, a dalej wysokie bloki mieszkalne.",
+      "infobox": {
+        "prowincja": "Profan",
+        "nazwa w języku hańskim": "Profanstadt",
+        "charakter": "megamiasto / prowincja-miasto",
+        "jezioro północne": "Bluesee",
+        "jezioro południowe": "Muetersee",
+        "najwyższy budynek": "110 pięter — Parvah Di Banco",
+        "zabudowa północy": "wieżowce około 100 pięter",
+        "zabudowa południa": "wille i bloki do około 60 pięter",
+        "język": "Hański (odmiana profańska)"
+      },
+      "tags": [
+        "Profan",
+        "hański",
+        "megamiasto",
+        "finanse",
+        "Bluesee",
+        "Muetersee",
+        "marina"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Nowe miasto Profanstadt z panoramą dwóch jezior i mariną Muetersee"
+    }
+  ]
+}

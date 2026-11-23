@@ -1,0 +1,29 @@
+{
+  "mode": "upsert",
+  "cities": [
+    {
+      "slug": "cita-de-la-luce",
+      "name": "Cita de la Luce",
+      "summary": "Siedmiomilionowa stolica Imperium Technokratycznego w prowincji Ldei. W jej sercu leży Stare Miasto, za nim rozciąga się Złote Miasto, otoczone ogromną współczesną metropolią.",
+      "description": "# Cita de la Luce\n\nCita de la Luce jest stolicą Imperium Technokratycznego i jedną z jego największych metropolii. Miasto liczy około **7 milionów mieszkańców** i znajduje się w prowincji **Ldei**.\n\n## Stare Miasto\n\nW centralnej części stolicy leży historyczne **Stare Miasto** — gęsta zabudowa dawnych ulic, placów i kamienic. Stanowi wyraźnie rozpoznawalne historyczne serce metropolii.\n\n## Złote Miasto\n\nZa Starym Miastem rozciąga się **Złote Miasto**, monumentalny kompleks cesarski i miejsce związane z dworem dynastii de la Cruz. To odrębny obszar stolicy, a nie nazwa całej siedmiomilionowej aglomeracji.\n\n## Współczesna metropolia\n\nDookoła historycznego centrum wyrasta rozległa współczesna stolica: szerokie arterie, gęste kwartały zabudowy oraz liczne wysokie biurowce i wieżowce. Z lotu ptaka widać kontrast Starego Miasta, pałacowego Złotego Miasta i nowoczesnego miasta sięgającego daleko poza centrum.\n\n## Panorama\n\nNowa panorama z lotu ptaka przedstawia Stare Miasto na pierwszym planie, Złote Miasto bezpośrednio za nim oraz wielomilionową metropolię z licznymi wysokościowcami na horyzoncie.",
+      "infobox": {
+        "status": "Stolica Imperium",
+        "prowincja": "Ldei",
+        "ludność": "około 7 mln",
+        "centrum historyczne": "Stare Miasto",
+        "kompleks cesarski": "Złote Miasto",
+        "język": "Latin"
+      },
+      "tags": [
+        "stolica",
+        "Ldei",
+        "Latin",
+        "metropolia",
+        "Stare Miasto",
+        "Złote Miasto"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Uzupełnienie opisu stolicy i dodanie panoramy z lotu ptaka, zgodnie z kanonem roku 607"
+    }
+  ]
+}

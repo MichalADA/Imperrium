@@ -1,13 +1,16 @@
 import { Navigate, Route, Routes, useParams } from "react-router-dom";
 import { Layout } from "./components/Layout";
 import { CatalogPage } from "./pages/CatalogPage";
+import { CompaniesPage } from "./pages/CompaniesPage";
 import { DashboardPage } from "./pages/DashboardPage";
 import { DynastyPage } from "./pages/DynastyPage";
 import { EditorPage } from "./pages/EditorPage";
 import { EntryDetailPage } from "./pages/EntryDetailPage";
+import { InstitutionsPage } from "./pages/InstitutionsPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
 import { SearchPage } from "./pages/SearchPage";
 import { TimelinePage } from "./pages/TimelinePage";
+import { UniversitiesPage } from "./pages/UniversitiesPage";
 import type { EntryType } from "./types";
 
 const catalogCopy: Record<EntryType, { title: string; eyebrow: string; description: string }> = {
@@ -44,9 +47,15 @@ export default function App() {
         <Route path="prowincje" element={<CatalogPage type="PROVINCE" {...catalogCopy.PROVINCE} />} />
         <Route path="prowincje/:slug" element={<EntryDetailPage />} />
         <Route path="jezyki" element={<CatalogPage type="LANGUAGE" {...catalogCopy.LANGUAGE} />} />
-        <Route path="firmy" element={<CatalogPage type="COMPANY" {...catalogCopy.COMPANY} />} />
+        <Route path="firmy" element={<CompaniesPage />} />
         <Route path="dynastia" element={<DynastyPage />} />
+        <Route path="genealogia" element={<DynastyPage />} />
         <Route path="chronologia" element={<TimelinePage />} />
+        <Route path="uczelnie" element={<UniversitiesPage />} />
+        <Route path="instytucje" element={<InstitutionsPage />} />
+        <Route path="katalog/INSTITUTION" element={<InstitutionsPage />} />
+        <Route path="katalog/UNIVERSITY" element={<UniversitiesPage />} />
+        <Route path="katalog/COMPANY" element={<CompaniesPage />} />
         <Route path="szukaj" element={<SearchPage />} />
         <Route path="katalog/:type" element={<DynamicCatalog />} />
         <Route path="wpis/:slug" element={<EntryDetailPage />} />
