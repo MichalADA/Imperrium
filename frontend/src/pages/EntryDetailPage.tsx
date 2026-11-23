@@ -194,7 +194,9 @@ export function EntryDetailPage() {
         ? "/cities/cita-de-la-luce-aerial.webp"
         : data.slug === "profanstadt"
           ? "/cities/profanstadt-aerial.webp"
-          : null
+          : data.slug === "montestan"
+            ? "/cities/montestan-aerial.webp"
+            : null
       : null;
   const genericRelations = data.outgoing.filter((relation) => relation.type === "other");
   const infobox = { ...data.infobox };
