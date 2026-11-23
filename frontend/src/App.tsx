@@ -3,6 +3,7 @@ import { Layout } from "./components/Layout";
 import { CatalogPage } from "./pages/CatalogPage";
 import { DashboardPage } from "./pages/DashboardPage";
 import { DynastyPage } from "./pages/DynastyPage";
+import { GenealogyPage } from "./pages/GenealogyPage";
 import { EditorPage } from "./pages/EditorPage";
 import { EntryDetailPage } from "./pages/EntryDetailPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
@@ -46,6 +47,7 @@ export default function App() {
         <Route path="jezyki" element={<CatalogPage type="LANGUAGE" {...catalogCopy.LANGUAGE} />} />
         <Route path="firmy" element={<CatalogPage type="COMPANY" {...catalogCopy.COMPANY} />} />
         <Route path="dynastia" element={<DynastyPage />} />
+        <Route path="genealogia" element={<GenealogyPage />} />
         <Route path="chronologia" element={<TimelinePage />} />
         <Route path="szukaj" element={<SearchPage />} />
         <Route path="katalog/:type" element={<DynamicCatalog />} />
