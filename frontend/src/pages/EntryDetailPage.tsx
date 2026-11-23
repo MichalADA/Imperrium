@@ -186,9 +186,15 @@ export function EntryDetailPage() {
   if (error || !data) return <ErrorBlock message={error || "Nie znaleziono wpisu."} onRetry={reload} />;
 
   const coverImage = data.type === "PROVINCE"
-    ? mediaUrl(data.imagePath)
-    : data.type === "CITY" && data.slug === "cita-de-la-luce"
-      ? "/cities/cita-de-la-luce-aerial.webp"
+    ? data.slug === "profan"
+      ? "/cities/profanstadt-aerial.webp"
+      : mediaUrl(data.imagePath)
+    : data.type === "CITY"
+      ? data.slug === "cita-de-la-luce"
+        ? "/cities/cita-de-la-luce-aerial.webp"
+        : data.slug === "profanstadt"
+          ? "/cities/profanstadt-aerial.webp"
+          : null
       : null;
   const genericRelations = data.outgoing.filter((relation) => relation.type === "other");
   const infobox = { ...data.infobox };
