@@ -1,0 +1,34 @@
+{
+  "mode": "upsert",
+  "cities": [
+    {
+      "slug": "montestan",
+      "name": "Montestan",
+      "summary": "Milionowa stolica górskiej prowincji Montes, położona w ekstremalnie zimnym otoczeniu i chroniona rozległą kopułą klimatyczną.",
+      "description": "# Montestan\n\n**Montestan** jest stolicą prowincji **Montes** w Imperium Technokratycznym. W roku 607 zamieszkuje go około **1 000 000 mieszkańców**. Miasto rozciąga się na obszarze około **100 km²** i znajduje się w otoczeniu stromych, zaśnieżonych gór.\n\n## Kopuła i warunki życia\n\nW odróżnieniu od zewnętrznego klimatu prowincji, wewnątrz rozległej kopuły Montestanu utrzymywana jest temperatura około **16–17°C**. W budynkach mieszkalnych wynosi ona około **22–25°C**. Podtrzymanie tych warunków wymaga wielu instalacji i pomp klimatycznych; system ma jednocześnie ograniczać wpływ miasta na otaczającą przyrodę.\n\n## Ród Montes\n\nMiasto pozostaje związane z **rodem Montes**, jednym z wielkich rodów arystokratycznych Imperium. Ustalony w kanonie herb rodu zawiera **otwartą księgę oraz strzeliste, spiczaste góry** — symbole prawa, wiedzy, sądownictwa i górskiej prowincji. Dewiza rodu brzmi: **LĀKI · TIETO · VĀRUT**.\n\n## Język\n\nW Montestanie używany jest **język Montes**. W oficjalnej symbolice miasta występują znaki rodu Montes; nie przyjmujemy nowych nazw dzielnic ani słów w tym języku wyłącznie na podstawie napisów wygenerowanych na ilustracji.\n\n## Panorama miasta\n\nPanorama przedstawia stolicę wśród wysokich gór i zabudowę z błękitno-złotymi chorągwiami. Jest to **wizja artystyczna**; nie stanowi precyzyjnego schematu geograficznego ani technicznego przekroju kopuły.",
+      "infobox": {
+        "status": "Stolica prowincji",
+        "prowincja": "Montes",
+        "populacja": "około 1 000 000",
+        "powierzchnia": "około 100 km²",
+        "klimat": "kopuła klimatyczna",
+        "temperatura pod kopułą": "16–17°C",
+        "temperatura wewnątrz domów": "22–25°C",
+        "język": "Montes",
+        "ród": "Montes",
+        "herb rodu": "otwarta księga i strzeliste góry",
+        "dewiza rodu": "LĀKI · TIETO · VĀRUT"
+      },
+      "tags": [
+        "Montes",
+        "stolica",
+        "kopuła",
+        "miasto",
+        "ród Montes",
+        "język Montes"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Utworzenie artykułu Montestan oraz podpięcie panoramy według ustaleń roku 607"
+    }
+  ]
+}
