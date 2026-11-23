@@ -1,6 +1,7 @@
 import { Navigate, Route, Routes, useParams } from "react-router-dom";
 import { Layout } from "./components/Layout";
 import { CatalogPage } from "./pages/CatalogPage";
+import { CompaniesPage } from "./pages/CompaniesPage";
 import { DashboardPage } from "./pages/DashboardPage";
 import { DynastyPage } from "./pages/DynastyPage";
 import { EditorPage } from "./pages/EditorPage";
@@ -45,12 +46,13 @@ export default function App() {
         <Route path="prowincje" element={<CatalogPage type="PROVINCE" {...catalogCopy.PROVINCE} />} />
         <Route path="prowincje/:slug" element={<EntryDetailPage />} />
         <Route path="jezyki" element={<CatalogPage type="LANGUAGE" {...catalogCopy.LANGUAGE} />} />
-        <Route path="firmy" element={<CatalogPage type="COMPANY" {...catalogCopy.COMPANY} />} />
+        <Route path="firmy" element={<CompaniesPage />} />
         <Route path="dynastia" element={<DynastyPage />} />
         <Route path="genealogia" element={<DynastyPage />} />
         <Route path="chronologia" element={<TimelinePage />} />
         <Route path="uczelnie" element={<UniversitiesPage />} />
         <Route path="katalog/UNIVERSITY" element={<UniversitiesPage />} />
+        <Route path="katalog/COMPANY" element={<CompaniesPage />} />
         <Route path="szukaj" element={<SearchPage />} />
         <Route path="katalog/:type" element={<DynamicCatalog />} />
         <Route path="wpis/:slug" element={<EntryDetailPage />} />
