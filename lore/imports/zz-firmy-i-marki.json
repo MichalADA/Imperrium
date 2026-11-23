@@ -389,13 +389,13 @@
       "summary": "Przedsiębiorstwo związane z opieką, kontrolowane przez Engword.",
       "description": "# EngwordSafeCare\n\nPrzedsiębiorstwo związane z opieką, kontrolowane przez Engword.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
       "infobox": {
-        "sektor": "opieka i ubezpieczenia",
+        "sektor": "opieka",
         "kategoria rejestru": "archiwalny"
       },
       "tags": [
         "gospodarka",
         "archiwalny",
-        "opieka i ubezpieczenia"
+        "opieka"
       ],
       "status": "PUBLISHED",
       "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
@@ -406,13 +406,13 @@
       "summary": "Przedsiębiorstwo z sektora opieki, którego znaczącymi udziałowcami są Parvah Di Banco i SecerusBank.",
       "description": "# OptimusCare\n\nPrzedsiębiorstwo z sektora opieki, którego znaczącymi udziałowcami są Parvah Di Banco i SecerusBank.\n\n**Status w archiwum:** nazwa ze starszych rozmów; obecny status w roku 607 nieustalony.",
       "infobox": {
-        "sektor": "opieka i usługi finansowe",
+        "sektor": "opieka",
         "kategoria rejestru": "archiwalny"
       },
       "tags": [
         "gospodarka",
         "archiwalny",
-        "opieka i usługi finansowe"
+        "opieka"
       ],
       "status": "PUBLISHED",
       "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
@@ -602,7 +602,10 @@
         "lotnictwo cywilne"
       ],
       "status": "PUBLISHED",
-      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym",
+      "aliases": [
+        "Skyln"
+      ]
     },
     {
       "slug": "optim",
@@ -689,7 +692,11 @@
         "sztuczna inteligencja"
       ],
       "status": "PUBLISHED",
-      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+      "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym",
+      "aliases": [
+        "Shlan",
+        "XenAi"
+      ]
     },
     {
       "slug": "ludosel",
@@ -979,6 +986,23 @@
       ],
       "status": "PUBLISHED",
       "changeNote": "Rekonstrukcja nazw i faktów z rozmów o Imperium Technokratycznym"
+    },
+    {
+      "slug": "lussio",
+      "name": "Lussio",
+      "summary": "Marka ultraszybkich samochodów jonowych i związanych z nimi wyścigów, wspominana we wcześniejszych rozmowach o Imperium.",
+      "description": "# Lussio\n\nMarka ultraszybkich aut jonowych i związanych z nimi wyścigów. Nie utożsamiać automatycznie z producentem luksusowych samochodów Lusso — podobna pisownia nie przesądza o wspólnej własności.\n\n**Status w archiwum:** marka ze starszych rozmów; aktualny status firmy nieustalony.",
+      "infobox": {
+        "sektor": "motoryzacja",
+        "kategoria rejestru": "marka"
+      },
+      "tags": [
+        "gospodarka",
+        "marka",
+        "motoryzacja"
+      ],
+      "status": "PUBLISHED",
+      "changeNote": "Rekonstrukcja wczesnego kanonu"
     }
   ]
 }
