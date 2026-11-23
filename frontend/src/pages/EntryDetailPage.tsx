@@ -185,7 +185,8 @@ export function EntryDetailPage() {
   if (loading) return <LoadingBlock label="Otwieranie karty archiwalnej…" />;
   if (error || !data) return <ErrorBlock message={error || "Nie znaleziono wpisu."} onRetry={reload} />;
 
-  const provinceCover = data.type === "PROVINCE" ? mediaUrl(data.imagePath) : null;
+  const entryCover = data.type === "PROVINCE" || data.type === "CITY" ? mediaUrl(data.imagePath) : null;
+  const isMontestan = data.type === "CITY" && data.slug === "montestan";
   const genericRelations = data.outgoing.filter((relation) => relation.type === "other");
   const infobox = { ...data.infobox };
   const age = calculateAge(data.birthYear, data.deathYear);
@@ -202,9 +203,24 @@ export function EntryDetailPage() {
 
   return (
     <article>
-      {provinceCover && (
+      {isMontestan ? (
+        <section className={`mb-7 grid gap-4 ${entryCover ? "md:grid-cols-2" : ""}`} aria-label="Widoki Montestanu">
+          {entryCover && (
+            <figure className="relative aspect-[16/9] overflow-hidden rounded-2xl border border-gold/15 shadow-imperial">
+              <img src={entryCover} alt="Panorama Montestanu — zabudowa i dzielnice miasta" className="h-full w-full object-cover" />
+              <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-black/10" />
+              <figcaption className="absolute bottom-4 left-5 font-serif text-xl text-cream md:text-2xl">Montestan — panorama miasta</figcaption>
+            </figure>
+          )}
+          <figure className="relative aspect-[16/9] overflow-hidden rounded-2xl border border-gold/15 shadow-imperial">
+            <img src="/assets/montestan-kopula.webp" alt="Montestan pod ogromną przezroczystą kopułą klimatyczną; poza nią ośnieżone góry, zamieć i mróz sięgający minus 40 stopni Celsjusza" className="h-full w-full object-cover" loading="eager" />
+            <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-black/10" />
+            <figcaption className="absolute bottom-4 left-5 right-4 font-serif text-xl text-cream md:text-2xl">Kopuła klimatyczna <span className="block mt-1 font-sans text-sm text-white/85">Na zewnątrz: −40°C i śnieg</span></figcaption>
+          </figure>
+        </section>
+      ) : entryCover && (
         <div className="relative mb-7 aspect-[16/6] min-h-56 overflow-hidden rounded-2xl border border-gold/15 shadow-imperial">
-          <img src={provinceCover} alt={`Zdjęcie główne prowincji ${data.title}`} className="h-full w-full object-cover" />
+          <img src={entryCover} alt={`Zdjęcie główne: ${data.title}`} className="h-full w-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-black/10" />
           <p className="absolute bottom-5 left-5 font-serif text-2xl text-cream md:bottom-7 md:left-7 md:text-3xl">{data.title}</p>
         </div>
