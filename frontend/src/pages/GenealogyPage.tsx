@@ -300,7 +300,7 @@ export function GenealogyPage() {
       {tab === "succession" && <Succession />}
       <footer className="flex flex-wrap items-center justify-between gap-3 border-t border-gold/15 py-5 text-xs leading-6 text-white/40">
         <span>Nieustalone daty, osoby i relacje nie są dopowiadane. Dane odnoszą się do roku {CURRENT_WORLD_YEAR}.</span>
-        <Link to="/dynastia" className="inline-flex items-center gap-1 text-gold/70 hover:text-gold">Starszy widok dynastii <ArrowRight className="h-3 w-3" /></Link>
+        <Link to="/postacie" className="inline-flex items-center gap-1 text-gold/70 hover:text-gold">Kartoteka postaci <ArrowRight className="h-3 w-3" /></Link>
       </footer>
     </div>
   );
