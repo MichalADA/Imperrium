@@ -2,6 +2,7 @@ import { Navigate, Route, Routes, useParams } from "react-router-dom";
 import { Layout } from "./components/Layout";
 import { CatalogPage } from "./pages/CatalogPage";
 import { DashboardPage } from "./pages/DashboardPage";
+import { DynastyPage } from "./pages/DynastyPage";
 import { EditorPage } from "./pages/EditorPage";
 import { EntryDetailPage } from "./pages/EntryDetailPage";
 import { NotFoundPage } from "./pages/NotFoundPage";
